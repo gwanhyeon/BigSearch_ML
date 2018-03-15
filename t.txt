@@ -1,0 +1,12 @@
+-1 서든어택/UNK:0 
+-1 나/NNG:1  던파몰름/UNK:0 ./SF:2  
+-1 원래/NNG:0 SPC/SPC:2  저렇/VA:0 게/E:2  많이/MAG:0 떠요/UNK:0 ?/SF:2  
+-1 유저다떠/UNK:0 나/VV:2  는데/E:3  코인/NNG:0 파라/NNG:0 SPC/SPC:2  먹/VV:3  을/E:4  생각/NNG:5  이나/J:6  하/VV:7  다니/E:0 
+-1 요즘/NNG:1  대세/NNG:0 는/J:2  랜덤핼/UNK:0 에픽/NNP:2  먹자/NNP:0 ㅡ/SW:0 ,/SP:2  ./SF:3  ㅡ/SW:0 ;;/SW:2  
++1 내가/VV:1  아/E:2  키/VV:0 ㅁ이/E:2  방/NNG:0 에서/J:2  장사/NNG:0 하/XSV:2  는게/E:3  삐리리/UNK:4  ~/SW:5  짓/NNG:0 이지/P:0 ㅠㅠ/SW:2  엉엉/XR:0 ㅠㅠ/SW:2  
++1 삐리리/UNK:1  ~/SW:2  말/VV:3  고/E:4  자기걍/UNK:0 
++1 그룬원재/UNK:0 저삐리리/UNK:0 ~/SW:2  삐리리/UNK:3  ~/SW:4  삐리리/UNK:5  ~/SW:6  나읍나보던디/UNK:0 그/NP:0 말/NNG:2  맞아여/UNK:0 
++1 개삐리리/UNK:0 ~/SW:2  짬뽕년/UNK:0 
++1 너님/UNK:0 삐리리/UNK:2  ~/SW:3  쌔/VV:0 어/E:2  나/VX:3  아/E:4  보/VX:5  다/E:6  
++1 내/NP:1  사랑/NNG:0 내자/NNG:0 기/P:0 ㅇ/SW:2  삐리리/UNK:3  ~/SW:4  ?/SF:5  
++1 삐리리/UNK:1  ~/SW:2  멋/NNG:0 지/VA:0 다/E:2  

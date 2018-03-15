@@ -1,0 +1,910 @@
+-1 ÀÌµû°¡ 	ÀÌµû°¡/MAG
+-1 ¸¶ à ºñ¸Å¸¸±×¶§ ¾ÈÇß¾ú¾îµµ ¾ó¶ó¶û °è¼Ó °× ÇÏ¼ÌÀ»ÅÙµ¥ 	¸¶ à/UNK	ºñ¸Å¸¸/UNK+±×¶§/NNG	¾È/MAG+ÇÏ/VA+¤¶¾ú¾îµµ/E	¾ó¶ó¶û/UNK	°è¼Ó/NNG	°×/UNK	ÇÏ/NNP+¼ÌÀ»/P+SPC/SPC+ÅÍ/NNG+ÀÎµ¥/P
+-1 ¿Ö ¸¶ àÀÌ¶û ¸¸³¯¶§¸¶´Ù ±×·±ÀÏÀÌ;; 	¿Ö/NNP	¸¶ à/UNK+ÀÌ¶û/J	¸¸/NR+³¯/XSN+SPC/SPC+¶§/NNG+¸¶´Ù/J	±×·±/MM+ÀÏÀÌ/MAG	;;/SW
+-1 ½÷Á× 	½÷Á×/UNK
+-1 À¸Èì? 	À¸Èì/IC	?/SF
+-1 ¾ÆÁøÂ¥ 	¾ÆÁøÂ¥/UNK
+-1 Á¶ÀÏ±Ç´Ô 	Á¶ÀÏ±Ç´Ô/UNK
+-1 16 ¼ÖÆ¼ 17°¡´Ù ƒÆÁö´øµ¥ 	16/SN	¼ÖÆ¼/NNG	17/SN	°¡/XSN+´Ù/P	ƒÆÁö´øµ¥/UNK
+-1 ÇÏ·ç´Ô½º¼¦! 	ÇÏ·ç/NNG+´Ô½º¼¦/UNK	!/SF
+-1 ´Ôµé »þµ§¼ñ´õ¶ó°í µé¾îºÃ³ª¿ä? 	´Ôµé/NNG	»þµ§/UNK+¼ñ´õ/NNG+¶ó°í/P	µé/VX+¾î/E+º¸/VX+¤¶³ª¿ä/E	?/SF
+-1 ¤»¤» ºÒ¾ÈÇÑµ¥ ¤»¤» 	¤»¤»/SW	ºÒ¾È/NNG+ÇÏ/XSA+¤¤µ¥/E	¤»¤»/SW
+-1 µ¥¹Ì¾È³ª¿À´Â°Ô 	µ¥¹Ì¾È/NNP+³ª¿À/VV+´Â/E+°Ô/XSN
+-1 ³ª¿À¸é ´ë¹ÚÀÏ»Ó ¤»¤» ±× ÀÌ»óµµ ÀÌÇÏµµ ¾Æ´Ñ ¤»¤» 	³ª¿À/VV+¸é/E	´ë¹Ú/NNG+ÀÏ/XSN+»Ó/J	¤»¤»/SW	±×/IC	ÀÌ»óµµ/NNP	ÀÌÇÏ/NNG+µµ/J	¾Æ´Ï/VA+¤¤/E	¤»¤»/SW
+-1 ¤·-¤· 	¤·/SW	-/SW	¤·/SW
+-1 ¾Æ´Ï 	¾Ë/VV+´Ï/E
+-1 ÆÈÂî¿¡ ¸îÆÛÈ®·ü·Î ¸í¼ÓµÇ´Â°ÅÀÌ¾¸ 	ÆÈÂî/NNG+¿¡/J	¸îÆÛ/UNK+È®·ü/NNG+·Î/J	¸í¼Ó/UNK+µÇ/VV+´Â/E+°ÅÀÌ¾¸/UNK
+-1 ¹°¹ØÆÐÄ¡ 	¹°¹Ø/NNG+ÆÐÄ¡/NNG
+-1 ·»´õÇïÀº 	·»´õÇïÀº/UNK
+-1 Àü ·¥´ýÇï¿¡¼­ ¿¡ÇÈ³ÊÅ¬¸Ô¾ù´Âµ¥ ¤»¤» 	Àú/NP+¤¤/J	·¥´ýÇï/UNK+¿¡¼­/J	¿¡ÇÈ³ÊÅ¬¸Ô¾ù´Âµ¥/UNK	¤»¤»/SW
+-1 Ãµ¶óÄð -3ÃÊ 	Ãµ¶óÄð/UNK	-/SW	3/SN	ÃÊ/NNG
+-1 ±×Àú ´«¹°ÀÌ³ª³×¿© 	±×Àú/MAG	´«¹°/NNG+ÀÌ/J+³ª³×¿©/UNK
+-1 ¤»¤» 	¤»¤»/SW
+-1 1~2ÃÊ ´õ±º¿© ½ºÅÏ 	1/SN	~/SW	2/SN	ÃÊ/NNG	´õ±º¿©/UNK	½ºÅÏ/NNG
+-1 630¸¸¿¡ 	630/SN	¸¸/NR+¿¡/J
+-1 Èì ¿ÖÄÉ¿Àµåµû±âÈûµéÂ¡ 	Èì/NNG	¿ÖÄÉ¿Àµå/UNK+µû/VV+±â/E+ÈûµéÂ¡/UNK
+-1 ¾Æ½ºÅ×¸® È£¼öÂÊÀº 	¾Æ½ºÅ×¸®/UNK	È£¼ö/NNG+ÂÊ/NNB+Àº/J
+-1 Ãµ¸¸¿øÀº µé°í³ª¿È 	Ãµ/NR+¸¸/NR+¿ø/XSN+Àº/J	µé/VX+°í/E+³ª/VX+¾Æ/E+¿À/VX+¤±/E
+-1 ÀüÁ×À¸¸é 20ÃÊµÚ¿¡ ¶Ç »ç³É 	Àü/XPN+Á×/VV+À¸¸é/E	20/SN	ÃÊµÚ¿¡/UNK	¶Ç/MAJ	»ç³É/NNG
+-1 ¸¶Á· ÀÌ½Å°¡? 35·¾ »ç³ÉÅÍ ¹°¾îº¸½ÅºÐ 	¸¶Á·/UNK	ÀÌ/NNP+½Å°¡/P	?/SF	35/SN	·¾/UNK	»ç³É/NNG+ÅÍ/XSN	¹°¾îº¸½ÅºÐ/UNK
+-1 ¶§°ÅÁö·ç ºÙ¾ú³× ¤¾¤¾;; 	¶§/NNB+°ÅÁö/NNG+·ç/J	ºÙ/VX+¾ú³×/E	¤¾¤¾/SW	;;/SW
+-1 ±×·³ °ÅÀÇ ¸¸ÇÇ ¤» 	±×·³/MAJ	°ÅÀÇ/NNG	¸¸ÇÇ/UNK	¤»/SW
+-1 ¸¸·¾ Ç®¸®±¸ Ã·À¸·ç µæÇÑ°Å¿¡¿© ¿À´Ã ¾Ï½À5´Ü ¤Ð¤Ð 	¸¸·¾/UNK	Ç®¸®/NNG+±¸/P	Ã·À¸·ç/UNK	µæÇÏ/VV+¤¤/E+°Å/NNB+¿¡¿©/UNK	¿À´Ã/NNG	¾Ï½À/UNK	5/SN	´Ü/XSN	¤Ð¤Ð/SW
+-1 5´Ü ¾¾»¹°Ô¿© ¤»¤»¤» 	5/SN	´Ü/XSN	¾¾»¹°Ô¿©/UNK	¤»¤»¤»/SW
+-1 ¿Í~ ¹éºÎÀå °Ë ¾îÄÉ ¸ÂÃèµ¥¿© 	¿Í/IC	~/SW	¹é/NNG+ºÎÀå/NNG	°Ë/NNG	¾î/NNG+ÄÉ/P	¸ÂÃèµ¥¿©/UNK
+-1 ±×°Å ÇÑÂ¦ÀÌ Å«µ¥... 	±×°Å/NP	ÇÑ/NR+Â¦/NNB+ÀÌ/J	Å©/VA+¤¤µ¥/E	.../SF
+-1 ÁúÁÖ ÁÖ¹®¼­ 4000¿ø¿¡ ÆË´Ï´Ù 	ÁúÁÖ/NNG	ÁÖ¹®/NNG+¼­/XSN	4000/SN	¿ø/NNG+¿¡/J	ÆÄ/VV+¤²´Ï´Ù/E
+-1 ÇÑÂÊÀº µ¿±¼¿¡¼­ ¹«±â ¹ÞÀ¸¼¼¿© Äù·ç ¤» 	ÇÑÂÊ/NNG+Àº/J	µ¿±¼/NNG+¿¡¼­/J	¹«±â/NNG	¹ÞÀ¸¼¼¿©/UNK	Äù·ç/UNK	¤»/SW
+-1 ÁúÁÖ ÁÖ¹®¼­ 4000¿ø¿¡ ÆË´Ï´Ù 	ÁúÁÖ/NNG	ÁÖ¹®/NNG+¼­/XSN	4000/SN	¿ø/NNG+¿¡/J	ÆÄ/VV+¤²´Ï´Ù/E
+-1 4500~5000 »çÀÌÁ® 	4500/SN	~/SW	5000/SN	»çÀÌÁ®/UNK
+-1 »ý¸í 5000 Á¤½Å 5000 	»ý¸í/NNG	5000/SN	Á¤½Å/NNG	5000/SN
+-1 ¾îÂ÷ÇÇ °è¼Ó ÆÌ»ç³É ÀÌ´Ï... 	¾îÂ÷ÇÇ/MAG	°è¼Ó/NNG	ÆÌ»ç³É/UNK	ÀÌ/NNP+´Ï/P	.../SF
+-1 ÀúÄ§¹¬ÀÎµ¥ ½Ç¸í½Å¼®ÀÎµ¥ ÁÁ¾Æ¿ë 	Àú/XPN+Ä§¹¬/NNG+ÀÎµ¥/P	½Ç¸í/NNG+½Å¼®/NNP+ÀÎµ¥/P	ÁÁ¾Æ¿ë/UNK
+-1 ³× Æ¼¾Æ¸¶Æ®¿µ ¤¾¤¾; 	³×/IC	Æ¼¾Æ¸¶Æ®¿µ/UNK	¤¾¤¾/SW	;/SW
+-1 ¹Ì¼ö´Ô ¸¶Á· ÀÌ½Ã¶ó±¸ ÇÏ¼ËÁ®? 	¹Ì¼ö´Ô/UNK	¸¶Á·/UNK	ÀÌ/NNG+½Ã/NNB+¶ó±¸/P	ÇÏ¼ËÁ®/UNK	?/SF
+-1 ¾Æ ±×¸²ÀÚº¸Çà ¹Ú°í 	¾Æ/NNG	±×¸²ÀÚ/NNG+º¸Çà/NNG	¹Ú/VV+°í/E
+-1 Àúµµ µå¶óÀÔ±¸¿¡¼­¸¸ ¸¶Á·ºÐµéÇÏ°í ³ë´Â°É ÁÁ¾ÆÇØ¼­¸® ¤» 	Àúµµ/NNG	µå¶ó/UNK+ÀÔ±¸/NNG+¿¡¼­/J+¸¸/J	¸¶Á·ºÐµé/UNK+ÇÏ°í/J	³ë´À/VV+¤¤°É/E	ÁÁ¾ÆÇÏ/VV+¾Æ¼­/E+¸®/XSN	¤»/SW
+-1 40À¯ÀÏ Àå°ËÀ¸·Î ¾÷±×·¹ÀÌµå ÇÏ±¸ ¤»¤» 	40/SN	À¯ÀÏ/UNK	Àå°Ë/NNG+À¸·Î/J	¾÷±×·¹ÀÌµå/NNP	ÇÏ±¸/NNG	¤»¤»/SW
+-1 ±ÛÄí³ª.. 	±ÛÄí³ª/UNK	../SF
+-1 ¼öÈ£ÇÏÁö¸¶¼¼¿ä ¤¾¤¾ 	¼öÈ£/NNG+ÇÏÁö/NNG+¸»/VX+¼¼¿ä/E	¤¾¤¾/SW
+-1 ½Ö¸¶½Å&½ÖÃµ½Å 	½Ö¸¶½Å/UNK	&/SW	½ÖÃµ½Å/UNK
+-1 ÃµºÎÀå¹æÆÐÁÁ¾Æ¿©? 	Ãµ/XPN+ºÎÀå/NNG+¹æÆÐ/NNG+ÁÁ/VA+¾Æ/E+¿©/J	?/SF
+-1 ¸Õ ´Ù¿¤ÀÌÄ¡´Â °Å °°À½ 	¸Ö/VV+¤¤/E	´Ù¿¤/UNK+ÀÌÄ¡/NNG+´Â/J	°Å/IC	°°/VA+À½/E
+-1 ¿ì¸®±æµå µ¿»ýµÎ ÃÑ»ç·Ã°ü ÀÌ¿´°Åµç¿© 	¿ì¸®/NNG+±æµå/NNG	µ¿»ý/NNG+µÎ/J	ÃÑ»ç·Ã°ü/UNK	ÀÌ/XPN+¿´°Åµç/P+¿©/XSN
+-1 Àá±ñ 	Àá±ñ/NNG
+-1 ¶õ¾Æ¾î±Ý´Ï? 	¶õ¾Æ/UNK+¾î±Ý´Ï/NNG	?/SF
+-1 Ä£¼÷ÇØ¼­¿ä 	Ä£¼÷/NNG+ÇÏ/XSA+¾î/E+¼­/VX+¿ä/E
+-1 Á¡ÇÁÇÏ´Â°ÅÁÒ..? 	Á¡ÇÁ/NNG+ÇÏ/XSV+´Â/E+°Å/NNB+ÁÒ/P	../SF	?/SF
+-1 ÇÁ·¹±â¿Â¼­¹ö¿¡¿ä ¤¾¤¾ 	ÇÁ·¹/NNG+±â¿Â/NNG+¼­¹ö/NNG+¿¡¿ä/J	¤¾¤¾/SW
+-1 ÇÁ·¹±â¿Â¼· ¹æ¼ÛÀÌ ¸î°³ µÇ³× ¤¾¤¾ 	ÇÁ·¹±â¿Â¼·/UNK	¹æ¼Û/NNG+ÀÌ/J	¸î°³/NNG	µÇ/VV+³×/E	¤¾¤¾/SW
+-1 ÇÑÂ¦ÀÌ½Ã±¸³¶ 	ÇÑ/XPN+Â¦/NNG+ÀÌ/J+½Ã±¸³¶/UNK
+-1 ¹®¾çÇÏ°í °øÁßºÎ¾ç 	¹®/NNG+¾ç/XSN+ÇÏ°í/J	°øÁß/NNG+ºÎ¾ç/NNG
+-1 µðÁ®¶ó 	µðÁ®¶ó/UNK
+-1 ¼Óµ¶¹è¿ì½Å°Ç°¡? 	¼Óµ¶/NNG+¹è¿ì/VV+½Å/E+°Ç°¡/UNK	?/SF
+-1 ½Ã¿¤¼­¹ö Å°³ª·Î 2¾ï~2¾ï8Ãµ ÇöÀ¸·Î 75~100 ¿ä;; 	½Ã¿¤/UNK+¼­¹ö/NNG	Å°³ª/NNG+·Î/J	2/SN	¾ï/NR	~/SW	2/SN	¾ï/NR	8/SN	Ãµ/NR	Çö/NNG+À¸·Î/J	75/SN	~/SW	100/SN	¿ä/NP	;;/SW
+-1 Á»ÀÕ¤§¾îºÁ¾ß Ç®·ÁµµÇ®¸±µí ¤¾ 	Á»ÀÕ/UNK	¤§/SW	¾îºÁ¾ß/UNK	Ç®¸®/VV+µµ/E+Ç®¸®/VV+¤©/E+µí/NNB	¤¾/SW
+-1 ¾îµð¼·ÀÌ¿¡¿©? 	¾îµð¼·ÀÌ¿¡¿©/UNK	?/SF
+-1 Á¼³ªÂ°¾ßÁö ¤» 	Á¼³ª/UNK+Â°/VV+¾ßÁö/E	¤»/SW
+-1 1±ÞÀÌ¸é ÃµºÎÀå Àå°© ¾î°³ ºÎÃ÷´Â »ì¼öÀÖ¾î¿© 	1/SN	±Þ/NNG+ÀÌ¸é/P	Ãµ/NNG+ºÎÀå/NNG	Àå°©/NNG	¾î°³/UNK	ºÎÃ÷/NNG+´Â/J	»ì¼ö/NNG+ÀÖ/VX+¾î/E+¿©/J
+-1 40À¯ÀÏÀå°Ë ¸ø¾¹´Ï´Ù 	40/SN	À¯ÀÏÀå°Ë/UNK	¸ø/MAG+¾²/VA+¤²´Ï´Ù/E
+-1 50±îÁø 	50/SN	±îÁø/J
+-1 8°³¸¸ µå½ÉµÇ¿ä 	8/SN	°³/NNB+¸¸/J	µå½ÉµÇ¿ä/UNK
+-1 ±Ùµ¥ 	±Ùµ¥/MAG
+-1 µýºÐµéÀ» È¥ÀÚ Àß³ë½Ã´øµ¥; ¸öÀ»»ç¸®¸é¼­; 	µý/XPN+ºÐ/NNB+µé/XSN+À»/J	È¥ÀÚ/NNG	Àß³ë/UNK+½Ã´øµ¥/P	;/SW	¸ö/NNG+À»/J+SPC/SPC+»ç/NR+¸®/XSN+¸é¼­/P	;/SW
+-1 ¶ó½ºº£¸£±× 	¶ó½ºº£¸£±×/UNK
+-1 ¶ó½ºº£¸£±×ÀÛ¾÷µµ ±¦ÂúÀ¸½Åµ¥ 	¶ó½ºº£¸£±×/UNK+ÀÛ¾÷/NNG+µµ/J	±¦Âú/VA+À¸½Åµ¥/E
+-1 ¾Æ ¤Ñ¤Ñ 	¾Æ/NNG	¤Ñ¤Ñ/SW
+-1 ¾îµð¼­ Àß³ª¿À³ª¿ä? 	¾îµð/NP+¼­/J	Àß³ª/VA+¾Æ/E+¿À/VX+³ª¿ä/E	?/SF
+-1 À¯ÀÏÁ¶³¢µµ 	À¯ÀÏ/NNG+Á¶³¢/NNG+µµ/J
+-1 Àßµé¸² 	Àßµé¸²/UNK
+-1 Á¹ ÀßÇÏ½Ã³ß ¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤» 	Á¹/NNG	ÀßÇÏ½Ã³ß/UNK	¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»/SW
+-1 Áö±ÝÀº ¸¸µé¾îÁÖ´Â»ç¶÷µµ¾ø¾î¿ä 	Áö±Ý/NNG+Àº/J	¸¸µé/VV+¾î/E+ÁÖ/VX+´Â/E+SPC/SPC+»ç¶÷/NNG+µµ/XSN+SPC/SPC+¾ø/VA+¾î¿ä/E
+-1 ÃµÁ·ºÐµéÀÌ½Ã¸é 	ÃµÁ·/UNK+ºÐ/NNB+µé/XSN+ÀÌ/J+½Ã¸é/P
+-1 ·¯½¬´Â ¿ª½Ã ¸ÁÇØ ¤Ð¤Ð 	·¯½¬´Â/UNK	¿ª½Ã/NNG	¸ÁÇÏ/VA+¾î/E	¤Ð¤Ð/SW
+-1 ¤»¤»¤»ÀâÁö¸¶ ¤» 	¤»¤»¤»/SW	Àâ/VX+Áö¸¶/E	¤»/SW
+-1 ÀÌ»ç¶÷µµ »§»§ÀÌ³× `` 	ÀÌ/NR+»ç¶÷/NNG+µµ/XSN	»§»§/XR+ÀÌ³×/P	``/SW
+-1 ½É½ÉÇØ 	½É½É/NNG+ÇÏ/XSA+¾î/E
+-1 ¸®´ÏÁö ·¹º§ 73 ³ôÀº°Å¿¡¿ä? 	¸®´ÏÁö/NNG	·¹º§/NNG	73/SN	³ô/VA+Àº/E+SPC/SPC+°Å/NNB+¿¡¿ä/J	?/SF
+-1 Áßµ¶ ´©±¸»ï ¤¾ 	Áßµ¶/NNG	´©±¸»ï/UNK	¤¾/SW
+-1 ÄÜ½ºÅÝÀÌ¸îÀÌ¿¡¿ä? 	ÄÜ½ºÅÝÀÌ¸î/UNK+ÀÌ¿¡¿ä/P	?/SF
+-1 ÀÌºÐ ¹Ý¿Õ? 	ÀÌºÐ/NP	¹Ý¿Õ/UNK	?/SF
+-1 ÇÏ°Ú´Ù 	ÇÏ/VV+°Ú´Ù/E
+-1 ÇÙ´Ô Å¬ÀüÅ³µ« ¸îÀÓ? 	ÇÙ´Ô/UNK	Å¬ÀüÅ³µ«/UNK	¸î/NNB+ÀÓ/P	?/SF
+-1 ÇÙÀÌ¸» 	ÇÙÀÌ¸»/UNK
+-1 »ìÀÌ¿¡¿© 	»ìÀÌ¿¡¿©/UNK
+-1 ·¯´×·¹ÀÌµðµµÀÖ³×? 	·¯´×/NNG+·¹ÀÌµð/NNG+µµ/J+SPC/SPC+ÀÖ/VX+³×/E	?/SF
+-1 ±×³É ÇÇ·ÎÅ×¸® 	±×³É/MAG	ÇÇ·Î/NNG+Å×¸®/NNG
+-1 ÇÙ¾Æ ¾îÂ÷ÇÇ ³ªÁý¿¡°¡¸é 	ÇÙ/NNG+¾Æ/J	¾îÂ÷ÇÇ/MAG	³ªÁý¿¡°¡¸é/UNK
+-1 ½ºÅÏ½Ã°£ 1À§ Å·ÁÒ¾Æ´Ô? 	½ºÅÏ/NNG+½Ã°£/NNG	1/SN	À§/NNB	Å·ÁÒ¾Æ´Ô/UNK	?/SF
+-1 ¹«³ú±Ã±Ø? 	¹«³ú/NNG+±Ã±Ø/NNG	?/SF
+-1 ¹«³ú¿å³ª¿È 	¹«³ú¿å³ª¿È/UNK
+-1 ÁøÂ¥ Â¯ 	ÁøÂ¥/NNG	Â¯/NNG
+-1 ¿À´ÃÀº ´©³ªÅ©¸®¾Æ´Õ´Ï´Ù ¤»¤» 	¿À´Ã/NNG+Àº/J	´©³ª/NNG+Å©¸®/UNK+¾Æ´Ï/VA+¤²´Ï´Ù/E	¤»¤»/SW
+-1 Ä«¿À½º¿¡¼­ ÀÎ»ýÀ» ¹ß°ßÇÏ´Â ÃÊÂ¥´ÔÀÌ´Ù 	Ä«¿À½º/NNG+¿¡¼­/J	ÀÎ»ý/NNG+À»/J	¹ß°ß/NNG+ÇÏ/XSV+´Â/E	ÃÊÂ¥´Ô/UNK+ÀÌ´Ù/P
+-1 ¾ÆÁî°¡·Î ±Ã¾²°í ÇÏ¸é Â¿À½ 	¾ÆÁî°¡·Î/UNK	±Ã¾²°í/UNK	ÇÏ¸é/NNG	Â¿À½/UNK
+-1 ¹ö¼­Ä¿ ¾÷±×·¹ÀÌµå ´ÏÇÇ 	¹ö¼­Ä¿/UNK	¾÷±×·¹ÀÌµå/NNP	´ÏÇÇ/UNK
+-1 À¯ÀÏÇÑ ÈûÄ³ ³ª¹«Åë°ú 	À¯ÀÏ/NNG+ÇÏ/XSA+¤¤/E	ÈûÄ³/UNK	³ª¹«/NNG+Åë°ú/NNG
+-1 ¹ö¼­Ä¿ Å×·¯ ÇÑÅ¸ Á×À¸¸é ±Ãµµ ³ª°¡Áö ÀÌ°Åº¸´Ù ÁÁÀº°Ô ¾îµ÷À½?? 	¹ö¼­Ä¿/UNK	Å×·¯/NNG	ÇÑ/NR+Å¸/NNB	Á×/VV+À¸¸é/E	±Ãµµ/NNG	³ª°¡/VV+Áö/E	ÀÌ°Å/NP+º¸´Ù/J	ÁÁÀº°Ô/UNK	¾îµ÷À½/UNK	??/SF
+-1 ¹ö¸®´Â ½Å¹ß 	¹ö¸®/VV+´Â/E	½Å¹ß/NNG
+-1 ¹æ±Ý À§ÂÊ¿¡ ÀûÄÉÇÏ³ªº¸¿´´Âµ¥ 	¹æ±Ý/NNG	À§ÂÊ/NNG+¿¡/J	ÀûÄÉÇÏ³ª/UNK+º¸ÀÌ/VV+¾ú´Âµ¥/E
+-1 ÇÙÀ¸·Î 10·¾ ¤¡ 	ÇÙ/NNG+À¸·Î/J	10/SN	·¾/UNK	¤¡/SW
+-1 ±×·Ò ¾îÁö·´°Ú´Ù 	±×·Ò/UNK	¾îÁö·´/VA+°Ú´Ù/E
+-1 ³ª¹«¸ùµÕÀÌ ¸¶µ© 	³ª¹«/NNG+¸ùµÕÀÌ/NNG	¸¶µ©/UNK
+-1 °­º´±Ô¾Æ´Ô? 	°­º´±Ô¾Æ´Ô/UNK	?/SF
+-1 ÀÌº´±Ô ¾ß±¸ÇÏ´Âµ¥ 	ÀÌº´±Ô/NNP	¾ß±¸/NNG+ÇÏ/XSV+´Âµ¥/E
+-1 °­º´±Ô´Â ¾îÄÉ´ñ¤·¹Ç? 	°­º´±Ô/NNP+´Â/J	¾îÄÉ´ñ/UNK	¤·/SW	¹Ç/UNK	?/SF
+-1 ÀÌ¹ø±âÈ¸¿¡ ÇÑ±¹ ¸ÞÀÌÀú¸®°ÅµéÀÌ Á» »ý°åÀ½ÁÁµ«´Ù 	ÀÌ¹ø/NNG+±âÈ¸/NNG+¿¡/J	ÇÑ±¹/NNP	¸ÞÀÌÀú/NNG+¸®°Å/NNG+µé/XSN+ÀÌ/J	Á»/NNG	»ý±â/VV+¤¶À½/E+ÁÁµ«´Ù/UNK
+-1 ÇÑ±¹ÀÌ ÀßÇÔ ¤»¤» 	ÇÑ±¹/NNP+ÀÌ/J	ÀßÇÏ/VV+¤±/E	¤»¤»/SW
+-1 ºÀÅ¸³ª¿ÍÀÇ ´ë°á 	ºÀÅ¸/UNK+³ª/NP+¿ÍÀÇ/J	´ë°á/NNG
+-1 ÂÊºü¸®µéÀÌ¶û ºñ±³°¡ ¾ÈµÅ.. 	ÂÊ/NNB+ºü¸®/NNG+µéÀÌ/XSN+¶û/J	ºñ±³/NNG+°¡/J	¾ÈµÇ/VA+¾î/E	../SF
+-1 ºóº¼ °æ·ÂÀÌ È­·ÁÇÏ´õ¶ó°í¿ä? 	ºóº¼/UNK	°æ·Â/NNG+ÀÌ/J	È­·Á/NNG+ÇÏ/XSA+´õ¶ó°í¿ä/E	?/SF
+-1 ºóº¼µ¿¿µ»ó º¸´Ï±î 	ºóº¼/UNK+µ¿¿µ»ó/NNG	º¸/VV+´Ï±î/E
+-1 ¤»¹ÚÁö¼º¾ß±¸ÇÒ»ý°¢¾ø³ª? 	¤»/SW	¹ÚÁö¼º/NNP+¾ß±¸/NNG+ÇÒ/XSN+»ý°¢/NNG+¾ø/VA+³ª/E	?/SF
+-1 º¹ÀâÀÌ ¹®Á¦°¡ ¾Æ´Ï¶ó 	º¹Àâ/NNG+ÀÌ/J	¹®Á¦/NNG+°¡/J	¾Æ´Ï¶ó/MAJ
+-1 °è·û¹Ì´Ô 	°è·û¹Ì´Ô/UNK
+-1 Æò±ÕÀÌ ÄÁ 77¿¡ ÆÄ 81ÀÎ°¡ 	Æò/NNG+±Õ/XSN+ÀÌ/J	ÄÁ/UNK	77/SN	¿¡/J	ÇÁ/VA+¾Æ/E	81/SN	ÀÎ°¡/NNG
+-1 Çæ ±×·±°¡¿ä 	Çã/VV+¤©/E	±×·¸/VV+¤¤°¡¿ä/E
+-1 µÑÀÌ ¼ÂÆ®ÀÎ°¡ 	µÑ/NR+ÀÌ/J	¼ÂÆ®/NNG+ÀÎ°¡/P
+-1 ¿ì¸®È÷¾î·ÎÁî 08 ÁÁ¾Æ¿ä ? 	¿ì¸®/NP+È÷¾î·Î/NNP+Áî/XSN	08/SN	ÁÁ/VA+¾Æ¿ä/E	?/SF
+-1 ±×°Ç ¾Æ´Ï°í¿ä 	±×°Å/NP+¤¤/J	¾Æ´Ï/VA+°í¿ä/E
+-1 ´ãÁÖ³×¼Å³ÎÇÏ±¸ 	´ãÁÖ³×¼Å³Î/UNK+ÇÏ±¸/NNG
+-1 ¿Ã»óÀÌ³× ÀçÈ« 	¿Ã»ó/UNK+ÀÌ³×/P	ÀçÈ«/UNK
+-1 ÆÄ¿ö90ÀÔ´Ï´Ù 	ÆÄ¿ö/NNG	90/SN	ÀÔ´Ï´Ù/P
+-1 ºí·¹¿À´Ô Èñ¹ÎÀÌÀáÀç·Â±úŸm¾î¿ä? 	ºí·¹¿À´Ô/UNK	Èñ¹ÎÀÌ/UNK+ÀáÀç/NNG+·Â/XSN+±úŸm¾î¿ä/UNK	?/SF
+-1 ÀáÀç·Â¾î¶ßÄÉµÇ´ÂÁö ±Ã±ÝÇÏ³×¿ä 	ÀáÀç/NNG+·Â/XSN+¾î¶ßÄÉ/UNK+µÇ/VV+´ÂÁö/E	±Ã±Ý/NNG+ÇÏ/XSA+³×¿ä/E
+-1 ´ëÃæ´ëÃæÇÏ½Ã³× 	´ëÃæ/NNG+´ëÃæ/NNG+ÇÏ/XSV+½Ã³×/E
+-1 ¿Í ¤º¤»¤º¤» 	¿Í/IC	¤º¤»¤º¤»/SW
+-1 ¿¡ÀÌ½º ½Ç·ÂÀº ÁøÂ¥ ÁÁÀº ±æµå 	¿¡ÀÌ½º/NNG	½Ç·Â/NNG+Àº/J	ÁøÂ¥/NNG	ÁÁÀº/MM	±æµå/NNG
+-1 Á»ÀÌ ¾Æ´Ï¿¡¿ä 	Á»/NNG+ÀÌ/J	¾Æ´Ï¿¡¿ä/MAG
+-1 30ÀåÇÑ¹ø¸¸´õ.. 	30/SN	Àå/XPN+ÇÑ¹ø/NNG+¸¸/J+´õ/MM	../SF
+-1 Èûµé¾î¿ä;; 	Èûµé/VV+¾î¿ä/E	;;/SW
+-1 ¿äÁò »ì½ÅÀÓ? 	¿äÁò/NNG	»ì½Å/NNG+ÀÓ/P	?/SF
+-1 ¼öÈ£µµ ¿äÁò ÀßÀâ¾Æ¿ä 	¼ö/NNG+È£/XSN+µµ/J	¿äÁò/NNG	Àß/XPN+Àâ/VV+¾Æ¿ä/E
+-1 ¸¶·É¼Â ¾îÆ÷¸îÀÌ³ªÀÕ¾î¾ßµÇ³ª¿©? 	¸¶·É¼Â/UNK	¾îÆ÷/NNG+¸î/NR+ÀÌ³ª/J+ÀÕ¾î/UNK+¾ß/E+µÇ/VX+³ª¿©/E	?/SF
+-1 ¾ÈµÇ¿ä 	¾ÈµÇ¿ä/UNK
+-1 ¾Æ;; 	¾Æ/NNG	;;/SW
+-1 ±Û°Ô¿© -_- 	±Û°Ô¿©/UNK	-/SW	_/SW	-/SW
+-1 ¸¶Á·ÀÌ ¼º¸ÔÀ¸¸é 2½Ã°£À» ¸ø¹öÅß ¤»¤» 	¸¶Á·ÀÌ/UNK	¼º/XPN+¸Ô/VV+À¸¸é/E	2/SN	½Ã°£/NNG+À»/J	¸ø/MAG+¹öÆ¼/VV+¾î/E	¤»¤»/SW
+-1 ÃµÁ· µÚÄ¡±â Çß´õ´Ï¸¸..Áö±Ýµµ Á¹¸®´Ù´Â.. 	Ãµ/NR+Á·/NNB	µÚÄ¡±â/NNG	ÇÏ/VX+¤¶´õ´Ï¸¸/E	../SF	Áö±Ýµµ/UNK	Á¹¸®/NNG+´Ù´Â/P	../SF
+-1 ¾È¸ðÀÌ´Â±º..ÇÏ°í 	¾È/XPN+¸ðÀÌ/VV+´Â±º/E	../SF	ÇÏ°í/XR
+-1 ¾ÆÆ¼ ¹ßµ¿¼® 150¸¸ ºñ¾à 50¸¸.. 	¾ÆÆ¼/UNK	¹ßµ¿¼®/UNK	150/SN	¸¸/NNB	ºñ¾à/NNG	50/SN	¸¸/NNB	../SF
+-1 È­¿°Áö¿Á ¸ÔÀ¸¸é »¯±â±â Àü±îÁö 	È­¿°/NNG+Áö¿Á/NNG	¸Ô/VV+À¸¸é/E	»¯±â/NNG+±â/P	Àü/NNG+±îÁö/J
+-1 »êÅ¸°í °¡¼­ 	»êÅ¸/NNG+°í/J	°¡¼­/NNG
+-1 Å©·Î¸Þµ¥ º¯½Å 	Å©·Î¸Þµ¥/UNK	º¯½Å/NNG
+-1 ¾Æ ÇÇ°ïÇØ Á×°Ú´Ù 	¾Æ/NNG	ÇÇ°ï/NNG+ÇÏ/XSA+¾Æ/E	Á×/VV+°Ú´Ù/E
+-1 µ·ÀÇ¾Ð¹Ú ¤¾ 	µ·ÀÇ/UNK+¾Ð¹Ú/NNG	¤¾/SW
+-1 ÀúÀÚ¸®°¡ ¿ÏÀü..¾îÆ÷ ÀÚÆÇ±â³×¿ä..;; 	ÀúÀÚ/NNG+¸®°¡/UNK	¿ÏÀü/NNG	../SF	¾îÆ÷/NNG	ÀÚÆÇ±â/NNG+³×¿ä/P	../SF	;;/SW
+-1 Àº½ÅÇÑ¹ø 	Àº½Å/NNG+ÇÑ¹ø/NNG
+-1 »ªÇß¾î¾ßÇÏ´Âµ­ ¤Ð.¤Ð 	»ªÇß¾î¾ßÇÏ´Âµ­/UNK	¤Ð/SW	./SF	¤Ð/SW
+-1 ¿ä»÷ ¼öÈ£µµ ´ïÁö°¡ Â¿¾î¼­ 	¿ä»÷/UNK	¼ö/NNG+È£/XSN+µµ/J	´ïÁö°¡/UNK	Â¿/VV+¾î¼­/E
+-1 ÇÇ·Î ½ê³× 	ÇÇ/NNG+·Î/J	½ê³×/UNK
+-1 ¾Þ±ÛÇÏ°í Àü³­ÀÓ..¤Ì¤Ì 	¾Þ±Û/NNG+ÇÏ°í/J	Àü³­ÀÓ/UNK	../SF	¤Ì¤Ì/SW
+-1 ³×¿Ã¶ó°¡Á®¿ä 	³×/XSN+¿Ã¶ó°¡/VV+¾Æ/E+Á®¿ä/UNK
+-1 ÀÌ°Ç ³»»ý°¢ÀÎµ¥ 	ÀÌ°Í/NP+¤¤/J	³»/NP+»ý°¢/NNG+ÀÎµ¥/P
+-1 ÁöÈÆÀÌ ¿ä»õ ¼­µç¾ÈÇÏÁö?? 	ÁöÈÆÀÌ/NNP	¿ä»õ/NNG	¼­µç/UNK+¾ÈÇÏ/VV+Áö/E	??/SF
+-1 ÇÇ·Î¹Î¿ì´ÔÀÌ Á¨´õ´ÔÀÌ¶ûµ¿ÀÏÀÎ¹°? 	ÇÇ·Î¹Î/UNK+¿ì´Ò/VV+¤±ÀÌ/E	Á¨´õ´Ô/UNK+ÀÌ¶û/J+µ¿ÀÏ/NNG+ÀÎ/XSN+¹°/XSN	?/SF
+-1 °³Â¥ÁõÁøÂ¥ 	°³/XPN+Â¥Áõ/NNG+ÁøÂ¥/NNG
+-1 4°³Áß¿¡ ÇÏ³ªÁÖ´Âµ¥ 	4/SN	°³/NNB+Áß/NNB+¿¡/J	ÇÏ³ª/NNG+SPC/SPC+ÁÖ/VV+´Âµ¥/E
+-1 ´ÙÁÖ´Â°Å¾Æ´Ô? 	´Ù/XPN+ÁÖ/VX+´Â/E+°Å/NNB+¾Æ´Ô/UNK	?/SF
+-1 ÇÏ³ªÁÖ´Â°Å¿¡¿© 	ÇÏ³ª/UNK+ÁÖ/VX+´Â/E+°Å/NNB+¿¡¿©/UNK
+-1 ÀÚÀ¯¹«±â 30ÀÏ°É·ÇÀ¸¸éÁÁ°Ù´Ù 	ÀÚÀ¯/NNG+¹«±â/NNG	30/SN	ÀÏ°É·ÇÀ¸¸éÁÁ°Ù´Ù/UNK
+-1 ¶ç ¾î ¾² ¸é ¾È °É ¸² 	¶ç/UNK	¾î/NNG	¾²/UNK	¸é/NNG	¾Ë/VV+¤¤/E	°É/VV+¤©/E	¸²/NNP
+-1 ¹ö¹÷´ë´Â°Ô ¸¶¿ìš´ 	¹ö¹÷/XR+´ë/VX+´Â°Ô/E	¸¶¿ìš´/UNK
+-1 µ¹¼ø¸¶¸¶ 8³ª¹ßÄ³¸¯ÀÌ¾Ö¿ä 	µ¹¼ø/NNG+¸¶¸¶/NNG	8/SN	³ª¹ßÄ³¸¯/UNK+ÀÕ/VV+¾Ö¿ä/E
+-1 ºñÇÏ¹È 	ºñÇÏ/VA+¹È/E
+-1 ÃµÇÏ½É¼­ ¿©½ÅÆÀÀ» ¸ô¸£½Ã´Ù´Ï ¤»¤» 	ÃµÇÏ/VA+½É¼­/E	¿©½Å/NNG+ÆÀ/NNG+À»/J	¸ô¸£/VV+½Ã´Ù´Ï/E	¤»¤»/SW
+-1 Àý ¾Æ½Ç·Á³ª ; 	Àú/NP+¤©/J	¾Æ½Ç·Á³ª/UNK	;/SW
+-1 ´Ô ±×°Å¾Æ¼¼¿ä? 	´Ô/NNG	±×°Å/UNK+¾Ë/VV+¼¼¿ä/E	?/SF
+-1 ÇöÇÇ ÀÌ¾ß±â ³ª¿ÂÁö°¡ 	ÇöÇÇ/UNK	ÀÌ¾ß±â/NNG	³ª/VX+¾Æ/E+¿À/VX+¤¤Áö°¡/E
+-1 ¶óÀÎÅ¸¼­; 	¶óÀÎ/NNG+Å¸¼­/NNG	;/SW
+-1 »ç³É¸¸ 	»ç/NR+³É/NNB+¸¸/J
+-1 µþÇÇ º§ÇÒµí¿© ¤» 	µþÇÇ/UNK	º§ÇÒµí¿©/UNK	¤»/SW
+-1 ¶ó¹Ù½ç ¸ÇÃ· ÀÌÀüÇØ¼­ ¿À´ø°¬´Âµ¥ 	¶ó¹Ù½ç/UNK	¸ÇÃ·/UNK	ÀÌÀü/NNG+ÇÏ/XSV+¾î/E+¼­/VX+¾î/E	¿À´ø/UNK+°¡/VV+¾Ò´Âµ¥/E
+-1 ÄË¶ó¼· ÀÖ´Ù °«ÀÚ³ª¿© ¤» 	ÄË¶ó¼·/UNK	ÀÖ/VA+´Ù/E	°«ÀÚ³ª¿©/UNK	¤»/SW
+-1 ´Ù¸¥¼· ¾Ö±â ±×¸¸ ¤»¤» 	´Ù¸¥¼·/UNK	¾Ö±â/NNG	±×¸¸/MAG	¤»¤»/SW
+-1 ¾Æ »ý°¢ÀÌ ¾È³ª³×.. 	¾Æ/NNG	»ý°¢/NNG+ÀÌ/J	¾È/XPN+³¯/VV+³×/E	../SF
+-1 È²±Ý´åÁö¾Ö¿ä 	È²±Ý/NNG+´å/NNG+Áö/VX+¾Ö¿ä/E
+-1 Á¦°¡ Áö±Ý º¸ÀÌ´Ôµé 	Á¦°¡/NNG	Áö±Ý/NNG	º¸ÀÌ/NNG+´Ô/XSN+µé/XSN
+-1 ¸»ÀÌ ³ª¿Í¼­¿© ¤» 	¸»/NNG+ÀÌ/J	³ª¿À/VV+¾Æ¼­/E+¿©/J	¤»/SW
+-1 Àü ¾îÂ÷ÇÇ 	Àú/NP+¤¤/J	¾îÂ÷ÇÇ/MAG
+-1 ¼­·Î½Î¿ì´ø»ç¶÷µé³¢¸® ¹¶Ä¡¸é 	¼­·Î/NNG+SPC/SPC+½Î¿ì/VV+´ø/E+SPC/SPC+»ç¶÷/NNG+µé/XSN+³¢¸®/XSN	¹¶Ä¡/NNG+¸é/P
+-1 °ø»ç´Â ±¸ºÐÇØ¾ßÁ® 	°ø»ç/NNG+´Â/J	±¸/XPN+ºÐÇØ/NNG+¾ßÁ®/UNK
+-1 µÑÀÌ ´«¸Â¾Æ¼­ 	µÑ/NR+ÀÌ/J	´«¸Â/VV+¾Æ¼­/E
+-1 3±îÁö 60Â¥¸®·Î ¶ç¿ì·¡¿© 	3/SN	±îÁö/J	60/SN	Â¥¸®·Î/UNK	¶ç¿ì/VV+·¡¿©/E
+-1 Àü ¸¶Á·À¸·Î °¥·Á°í.. ÁØºñÁßÀÌ¶ó.. 	Àú/NP+¤¤/J	¸¶Á·/UNK+À¸·Î/J	°¥/VV+¤©·Á°í/E	../SF	ÁØºñ/NNG+Áß/NNB+ÀÌ¶ó/P	../SF
+-1 °¡³ÝÀÌ ÃµºÎÀå±Þ 	°¡³ÝÀÌ/UNK	Ãµ/XPN+ºÎÀå/NNG+±Þ/XSN
+-1 ¾Ë·çÅ°³ª¶ûºñ½ÁÇÏÀÚ³ª¿© 	¾Ë·çÅ°³ª¶û/UNK+ºñ½Á/XR+ÇÏÀÚ³ª¿©/UNK
+-1 µèº¸Àâ È£¹ý¼º 	µèº¸Àâ/UNK	È£¹ý¼º/UNK
+-1 1.2¿´³ª ÆÐÄ¡³»¿ë ½Ã°ø³Ñ¾î°¡¼­ ¸¹ÀÌ Á×ÀÌ¸é ÆÐ³ÎÆ¼°¡ 	1.2/SN	¿´³ª/P	ÆÐÄ¡/NNG+³»¿ë/NNG	½Ã°ø/NNG+³Ñ¾î°¡/VV+¼­/E	¸¹ÀÌ/MAG	Á×/NNG+ÀÌ¸é/P	ÆÐ³Î/NNG+Æ¼/NNG+°¡/J
+-1 Á×¾î³ª´Â´ó 	Á×/VV+¾î³ª/E+´Â´ó/UNK
+-1 ¿À´Ã ÁÖÈ­Äù 	¿À´Ã/NNG	ÁÖÈ­Äù/UNK
+-1 °Ë ¾çÂÊ µÑ´Ù ¹¹¿¹¿©???? 	°Ë/NNG	¾çÂÊ/NNG	µÑ´Ù/MAG	¹¹¿¹¿©/UNK	????/SF
+-1 ÀÏÁ¤·®ÀâÀ¸¸é±×·¸´Ù´Âµ¥ 	ÀÏÁ¤/NNG+·®/XSN+Àâ/VV+À¸¸é/E+±×·¸/VA+´Ù/E+´Âµ¥/UNK
+-1 ÀÌ±¸¿ä 	ÀÌ/NR+±¸/NR+¿ä/P
+-1 ¼±¼öµéÀÌ ¿ÖÄÉºñ½Îº¸¿© ¤» 	¼±¼ö/NNG+µé/XSN+ÀÌ/J	¿ÖÄÉ/UNK+ºñ½Î/VA+¾Æ/E+º¸¿©/NNG	¤»/SW
+-1 µé¶ô³¯¶ôÀÌ´Ù 	µé¶ô³¯¶ô/XR+ÀÌ´Ù/P
+-1 ÁýÇàÀº ÇöÀ¸·Î 1300Àå¾Æ´Ñ°¡ ¤»¤» 	ÁýÇà/NNG+Àº/J	Çö/NNG+À¸·Î/J	1300/SN	Àå/XPN+¾Æ´Ï/VA+¤¤°¡/E	¤»¤»/SW
+-1 ¾î??¼º»¯±â¼Ë³×?? 	¾î/NNG	??/SF	¼º»¯±â¼Ë³×/UNK	??/SF
+-1 ±× À¯¸íÇÑ ¾ÆÀÌ¼·µµ 3.0ÀÌ°í ¤¾¤¾ 	±×/IC	À¯¸í/NNG+ÇÏ/XSA+¤¤/E	¾ÆÀÌ¼·µµ/UNK	3.0/SN	ÀÌ°í/NNG	¤¾¤¾/SW
+-1 ³»Ä£±¸µµ ¹æ¼Ûº¸°í ÀÖ¤§¤À ¤» 	³»/NP+Ä£±¸/NNG+µµ/J	¹æ¼Û/NNG+º¸/XSN+°í/J	ÀÖ/UNK	¤§¤À/SW	¤»/SW
+-1 ¹«¾ç 	¹«¾ç/XR
+-1 Ä«º£¹è¿ì¸é Çã´ç´ÔÀÌ ÀÌ±â´Âµ¥ ¤¾ 	Ä«º£/UNK+¹è¿ì/VV+¸é/E	Çã´ç´ÔÀÌ/UNK	ÀÌ±â/VV+´Âµ¥/E	¤¾/SW
+-1 ÀÖ¾îµµ ±×Á¤µµ´Â¾Æ´Ô 	ÀÖ/VX+¾îµµ/E	±×Á¤µµ´Â¾Æ´Ô/UNK
+-1 ±à°¡ ¤¾ 	±à°¡/UNK	¤¾/SW
+-1 ÆÄÅè ¤¡¤¡ 	ÆÄÅè/UNK	¤¡¤¡/SW
+-1 ±â»ç È¥ÀÚ¼± ¸øµé¾î¿À³× ¤»¤» 	±â»ç/NNG	È¥ÀÚ/NNG+¼±/J	¸ø/MAG+µè/VV+¾î/E+¿À/VX+³×/E	¤»¤»/SW
+-1 ¿À´Ã ³¯ÀÎµ¥ 	¿À´Ã/NNG	³¯/NNG+ÀÎµ¥/P
+-1 ¹Ì³¢¾¾ Àú ¸ÕÀú °¡º¼²²¿ä ¤» 	¹Ì³¢¾¾/UNK	Àú/NP	¸ÕÀú/NNG	°¡/VX+¾Æ/E+º¸/VX+¤©²²¿ä/E	¤»/SW
+-1 ¿Õ±Ã ¸ÂÁ®..¤»¤» 	¿Õ±Ã/NNG	¸ÂÁ®/UNK	../SF	¤»¤»/SW
+-1 º¸½ºÅ½ ´Ù´Ï°í ½Í´Ù ¤» 	º¸½ºÅ½/UNK	´Ù´Ï/VV+°í/E	½Í/VX+´Ù/E	¤»/SW
+-1 ¸îºÐÀÌ³²Àº°Ç ¾îÂî¾Æ½Ã³ª¿© 	¸îºÐ/UNK+ÀÌ³²/NNG+Àº°Ç/UNK	¾îÂî/MAG+¾Ë/VV+½Ã³ª¿©/E
+-1 ¹Ã ¿¦¼Ö ¾ó¸¶ÁÒ: 	¹Ã/UNK	¿¦¼Ö/UNK	¾ó¸¶/NNG+ÁÒ/P	:/SW
+-1 »ê¼º°³¹Ì°¡´õÁÁÀº°Å°¡Àºµ¥ 	»ê¼º/NNG+°³¹Ì/NNG+°¡´õ/UNK+ÁÁÀº/MM+°Å°¡Àºµ¥/UNK
+-1 ¼·¸¶´Ù Å½½Ã°£´Ù¸£ÁÒ? 	¼·¸¶´Ù/UNK	Å½½Ã°£/UNK+´Ù¸£/VA+ÁÒ/E	?/SF
+-1 ¼·¸¶´Ù Á¶±Ý¾¿ ´Ù¸£ÁÒ 	¼·¸¶´Ù/UNK	Á¶±Ý/NNG+¾¿/XSN	´Ù¸£/VV+ÁÒ/E
+-1 ¿äÃ¢ ¾ðµ¥ ÃßÅ¸ÀÕÀ»°É¿ä? 	¿äÃ¢/UNK	¾ðµ¥/UNK	ÃßÅ¸ÀÕÀ»°É¿ä/UNK	?/SF
+-1 ¼­¹® ¶Ë ²Ù ³çÀÌ´å ¤» 	¼­¹®/NNG	¶Ë/NNG	²Ù/UNK	³çÀÌ´å/UNK	¤»/SW
+-1 ¾ÈÄ¡³× 	¾È/XPN+Ä¡/VV+³×/E
+-1 ºñÁ¦ÀÌ´Ï Áö±Ý 11½Ã ºÎÅÍ 1½Ã±îÁö°¡ Å½½Ã°£ÀÌ¿¡¿ä>?????? 	ºñÁ¦/NNG+ÀÌ´Ï/P	Áö±Ý/NNG	11/SN	½Ã/NNB	ºÎÅÍ/UNK	1/SN	½Ã/NNB+±îÁö°¡/J	Å½/NNG+½Ã°£/NNG+ÀÌ¿¡¿ä/P	>/SYC	??????/SF
+-1 µ¥ºÒ°ËÀº ¾ó¸¶¿¡¿ä? 	µ¥ºÒ°ËÀº/UNK	¾ó¸¶/NNG+¿¡¿ä/J	?/SF
+-1 1500ÀåÀÌ °³ÀÌ¸§? 	1500/SN	Àå/NNG+ÀÌ/J	°³ÀÌ¸§/UNK	?/SF
+-1 ³ª¹ß °ø¼ºÀÌ -1¾Æ´Ñ°¡¿ä? 	³ª¹ß/NNG	°ø¼º/NNG+ÀÌ/J	-/SW	1/SN	¾Æ´Ï/VA+¤¤°¡¿ä/E	?/SF
+-1 Ã¨½º´Â 3:30 ½ÃÀÛÀÌÀÚ³ª¿ä? 	Ã¨½º´Â/UNK	3/SN	:/SW	30/SN	½ÃÀÛ/NNG+ÀÌ/XPN+ÀÚ/VV+³ª¿ä/E	?/SF
+-1 Àú·ÅÇÑ°É·Î 	Àú·Å/XR+ÇÏ/XSA+¤¤/E+SPC/SPC+°É/NNG+·Î/J
+-1 Àâ¿µ¾î.``; 	Àâ¿µ¾î/UNK	./SF	``/SW	;/SW
+-1 ÀÎºñÁö¤¤´À ·£ÅÏ¾Èº¸¿©¿ä 	ÀÎºñ/NNG+Áö/P	¤¤/SW	´À/NP	·£ÅÏ/NNG+¾Èº¸/NNG+¿©¿ä/P
+-1 ¿äÃ¢ °ø°Ý 	¿äÃ¢/UNK	°ø°Ý/NNG
+-1 ¸®Ä¡°¡ 	¸®Ä¡/NNP+°¡/J
+-1 ¸®Ä¡ Å½ ¾ðÁ¦±îÁö¿¡¿©?? ¿Ö ¾È¶ßÁ®??? 	¸®Ä¡/NNP	Å½/NNG	¾ðÁ¦/NP+±îÁö/J+¿¡¿©/UNK	??/SF	¿Ö/NNP	¾È¶ßÁ®/UNK	???/SF
+-1 ¸®´ÏÁö 2 »ç³ÉÅÍ 10ºÐ °É¾î°¡°í ¤¸¤¸;; 	¸®´ÏÁö/NNG	2/SN	»ç³É/NNG+ÅÍ/XSN	10/SN	ºÐ/NNB	°É¾î°¡/VV+°í/E	¤¸¤¸/SW	;;/SW
+-1 ±×¸²¸®ÆÛµµ Á×¾î¿ä? 	±×¸²/NNG+¸®ÆÛ/NNG+µµ/J	Á×/VV+¾î¿ä/E	?/SF
+-1 ±×·¡µµ ¸· Áß¿äÇÑ°Å ÇÏ°íÀÕÀ»¶§ ±«·ÓÈ÷¸é Â¥Áõ³ªÁö¾Ê³ª¿ä ? ¤Ñ¤Ñ 	±×·¡µµ/MAJ	¸·/NNG	Áß¿ä/NNG+ÇÏ/XSA+¤¤/E+°Å/NNB	ÇÏ°íÀÕÀ»¶§/UNK	±«·ÓÈ÷/VV+¸é/E	Â¥Áõ/NNG+³ª/VV+Áö/E+¾Ê/VX+³ª¿ä/E	?/SF	¤Ñ¤Ñ/SW
+-1 9¼Â¹ý»çºÐµµ ÀÕ´øµ¥; 	9/SN	¼Â¹ý»çºÐµµ/UNK	ÀÕ/VV+´øµ¥/E	;/SW
+-1 3¹ø °øÅ½µµº½ 	3/SN	¹ø/NNG	°øÅ½µµº½/UNK
+-1 10°­ ´Þ¸®¿ä 	10/SN	°­/NNG	´Þ¸®/NNP+¿ä/P
+-1 10°­Àü¿¡µµ Àåºñ°¡ ÆÄ±«µÇ³ª¿©? 	10/SN	°­Àü/NNG+¿¡µµ/NNP	Àåºñ/NNG+°¡/J	ÆÄ±«/NNG+µÇ³ª¿©/UNK	?/SF
+-1 ¿Ö¹Ù³¦;; 	¿Ö¹Ù³¦/UNK	;;/SW
+-1 ÀÌ·¡¼­ ±º»êÀº Á¼¾Æ¼­ ¸ø»ì°Ú´Ù 	ÀÌ·¸/VA+¾î¼­/E	±º»ê/NNG+Àº/J	Á¼/VA+¾Æ¼­/E	¸ø»ì/VV+°Ú´Ù/E
+-1 ´Ù¸¥°Å ¿Ã¸®³ªºÎÁÒ 	´Ù¸£/VV+¤¤/E+°Å/NNB	¿Ã¸®/VV+³ª/E+ºÎÁÒ/UNK
+-1 ÇÏ³ª ¼ö»ó 	ÇÏ/VV+³ª/E	¼ö»ó/NNG
+-1 ´©°ñÀÇ ÀÌ¾¥½Ã°³ 	´©°ñÀÇ/UNK	ÀÌ/XPN+¾¥½Ã°³/NNG
+-1 ±Í¿±´Ù 	±Í¿±/VA+´Ù/E
+-1 ¹ÙÀÌÅ·Çª 	¹ÙÀÌÅ·Çª/UNK
+-1 Èûµé´ç 	Èûµé´ç/UNK
+-1 ¸ñ°¨±â°É·Á¼­ 	¸ñ/XPN+°¨±â/NNG+SPC/SPC+°É¸®/VV+¾î¼­/E
+-1 »þÇÁ»ç¼Å¾ßÁÒ 	»þÇÁ»ç/UNK+¼Å¾ßÁÒ/P
+-1 ¸Ó´õ¶ó 	¸Ó´õ/NNG+¶ó/P
+-1 Çü »ç¶ûÇØ 	Çü/NNG	»ç¶û/NNG+ÇÏ/XSV+¾Æ/E
+-1 ±× 0.7ÃÊ ±â»óÀº ÄÞº¸½Ã °©ÀÚ±â ÀÏ¾î³¯¶§ ±×±â»ó¾Æ´Ô? 	±×/IC	0.7/SN	ÃÊ/NNG	±â»ó/NNG+Àº/J	ÄÞº¸/NNG+½Ã/NNB	°©ÀÚ±â/MAG	ÀÏ¾î³ª/VV+¤©/E+SPC/SPC+¶§/VV+¾î/E	±×±â»ó¾Æ´Ô/UNK	?/SF
+-1 ±Í¿±´ç 	±Í¿±´ç/UNK
+-1 À§·£ ±» 	À§·£/UNK	±»/NNG
+-1 ±Ùµ¥ ÀÌ¼Ó°°ÀÌ º¸½Ã·Á¸é ¶óÆ÷¸£´ë½Å 	±Ùµ¥/MAG	ÀÌ/NNG+¼Ó/NNB+°°ÀÌ/J	º¸/VX+½Ã·Á¸é/E	¶óÆ÷¸£/UNK+´ë½Å/NNG
+-1 ÁÁÀº½ºÅÇÀÌ´ç 	ÁÁÀº/MM+½ºÅÇÀÌ´ç/UNK
+-1 ÇØ¼³ÀÚ°â 	ÇØ¼³/NNG+ÀÚ/XSN+°â/NNB
+-1 ÁöÁ¸2 ´ÙÀ½¿¡ ¹¹¿¡¿ä?? 	ÁöÁ¸/NNG	2/SN	´ÙÀ½/NNG+¿¡/J	¹¹/NP+¿¡¿ä/J	??/SF
+-1 ¾Æ´Ï³« ? 	¾Æ´Ï³«/UNK	?/SF
+-1 ´øÆÄ¶óµð¿À¿¡ ¼Ò³à½Ã´ë°¡ ³ª¿ÔÀ½ 	´øÆÄ/UNK+¶óµð¿À/NNG+¿¡/J	¼Ò³à/NNG+½Ã´ë/NNG+°¡/J	³ª/VX+¾Æ/E+¿À/VX+¤¶À½/E
+-1 ±¸¼Ó È®·ü 	±¸¼Ó/NNG	È®·ü/NNG
+-1 ¾Æ´Ï¤·¾Æ¹¹ÁöµÚ·Î°¡±âµµ¾ÈµÇ°í½ºÆäÀÌ½ºµµ¾ÈµÇ°í¹°À½Ç¥µµ¾ÈµÇ°íÀ¸¾Æ¾Ç 	¾Ë/VV+´Ï/E	¤·/SW	¾Æ¹¹Áö/UNK	µÚ·Î/XR+°¡/VV+±âµµ/E	¾ÈµÇ/VA+°í/E+SPC/SPC+½ºÆäÀÌ½º/NNG+µµ¾È/NNG+µÇ/XSV+°í/E	¹°À½Ç¥/NNG+µµ/XSN	¾ÈµÇ/VA+°í/E	À¸¾Æ¾Ç/IC
+-1 ´©±¸³ë·¡ÁÒ? 	´©±¸/NP+³ë·¡/NNG+ÁÒ/P	?/SF
+-1 ÀúºÐ ¹ßµ¿°É·Ç³ªºÎ´Ù ¤§¤§ 	ÀúºÐ/XR	¹ßµ¿/NNG+°É·Ç³ªºÎ´Ù/UNK	¤§¤§/SW
+-1 µÒºíÂ¼³× 	µÒºíÂ¼³×/UNK
+-1 ±×·¯°Ô¿ä 	±×·¯/VX+°Ô¿ä/E
+-1 ¿ì¸Ó´ÏÁòÀº¹¹ÀÓ 	¿ì¸Ó´ÏÁòÀº¹¹ÀÓ/UNK
+-1 ÀÔ´ø 	ÀÔ/VV+´ø/E
+-1 µé¾î°¬¾î¿ä 	µé/VX+¾î/E+°¡/VX+¤¶¾î¿ä/E
+-1 ±¤±Ö ÆÄ¶õÁ¦ºñ Çöµµ 	±¤±Ö/UNK	ÆÄ¶õ/NNG+Á¦ºñ/NNG	Çöµµ/NNP
+-1 ¿ëÇüÀº 	¿ëÇüÀº/UNK
+-1 ±×Àú ¾È½À... 	±×Àú/MAG	¾È½À/UNK	.../SF
+-1 Æò¼Ò¿£ ÀßÇÏ½Ã´Âµ¥ 	Æò¼Ò/NNG+¿£/J	ÀßÇÏ/VV+½Ã´Âµ¥/E
+-1 ±Ù´ë °ú¶ó³ª´ÔÀÌ¿ÃÅ³ÇÞ´Ù´Ï ÀÌÇØ‰Î 	±Ù´ë/NNG	°ú/NNG+¶ó³ª/P+´ÔÀÌ¿ÃÅ³ÇÞ´Ù´Ï/UNK	ÀÌÇØ/NNG+µÇ/XSV+¤±/E
+-1 ¤»¤»¤»ÇÞ³× 	¤»¤»¤»/SW	ÇÞ³×/UNK
+-1 ¸øÆÄ´Âµ¥ 	¸ø/MAG+ÆÄ/VV+´Âµ¥/E
+-1 Áö±Ý »ç¶÷ÀÌ ÁÙ¼­¼­ ±â´Ù¸®±¸¸¸.. ¤Ñ¤Ñ 	Áö±Ý/NNG	»ç¶÷/NNG+ÀÌ/J	ÁÙ¼­/VV+¾î/E+¼­/VX+¾î/E	±â´Ù¸®/VV+±¸¸¸/E	../SF	¤Ñ¤Ñ/SW
+-1 Áö±Ý Çö 2400ÀÌ¿ä ¤»¤» 	Áö±Ý/NNG	Çö/NNG	2400/SN	ÀÌ/NNP+¿ä/P	¤»¤»/SW
+-1 ºóÁÜ ½Î¿ò ½ÃÀÛ 	ºóÁÜ/UNK	½Î¿ò/NNG	½ÃÀÛ/NNG
+-1 ³¾¸§ÀÌ ÀßÅÍÁö³× 	³¾¸§ÀÌ/UNK	Àß/XPN+ÅÍÁö/VX+³×/E
+-1 µð½º´Â 	µð½º/NNG+´Â/J
+-1 ±ÛÄí³ª 	±ÛÄí³ª/UNK
+-1 ·£Å¸ÅÍÁö¸é¿ä 	·£Å¸ÅÍÁö¸é¿ä/UNK
+-1 ¹ý»çÇÑÅ× µð½º 	¹ý»ç/NNG+ÇÑÅ×/J	µð½º/NNG
+-1 ¾ÆÁÁ³× ;; 	¾ÆÁÁ³×/UNK	;;/SW
+-1 º£·¹½º ÁöÆÎÀÌµµ »ÀÁ¦ÁúÀÌÁÒ? 	º£·¹½º/UNK	ÁöÆÎÀÌ/NNG+µµ/J	»ÀÁ¦Áú/UNK+ÀÌÁÒ/P	?/SF
+-1 ¹ÙÁö Àß ¾È¾¸?? 	¹ÙÁö/NNG	ÀÚ/VV+¤©/E	¾È/XPN+¾²/VA+¤±/E	??/SF
+-1 ¸¶¹æ¹«½ÃÇÏ±¸ ÀÌ·´µå°¡¸é 	¸¶¹æ¹«½Ã/UNK+ÇÏ±¸/NNG	ÀÌ·´/UNK+µå°¡/VV+¸é/E
+-1 ¹ý»çºÎÅÍ³¯¸®±â°¡ÈûµéÁ® 	¹ý»ç/NNG+ºÎÅÍ/J+³¯¸®±â/NNG+°¡ÈûµéÁ®/UNK
+-1 ¿¥À»Ã¤¿ö¼­ 	¿¥/NNG+À»/J+SPC/SPC+Ã¤¿ì/VV+¾î¼­/E
+-1 ¿©¼­ ¿äÁ¤ÇÏ³ª¸¸ ºÒ·¯µµ ÁãÁãÀÎµ¥ 	¿©¼­/NNG	¿äÁ¤/NNG+ÇÏ³ª¸¸/UNK	ºÎ¸£/VV+¾îµµ/E	Áã/NNG+Áã/XSN+ÀÎµ¥/P
+-1 ÁÖ¼ú·Â +2 	ÁÖ¼ú·Â/NNG	+/SW	2/SN
+-1 Áö±Ý ´©°¡ ÀÌ±æ²¨ °°¾Ö¿ä? 	Áö±Ý/NNG	´©°¡/NNG	ÀÌ±æ/NNP+²¨/NNB	°°/VA+¾Ö¿ä/E	?/SF
+-1 ¶Õ¸°°Å °°Àºµ¥ 	¶Õ¸®/VV+¤¤/E+°Å/NNB	°°/VA+Àºµ¥/E
+-1 ¸¸¾à¿¡ÀÌ°Å ¼ö¼º½ÇÆÐÇÏ¸é 	¸¸¾à¿¡ÀÌ°Å/UNK	¼ö¼º/NNG+½ÇÆÐ/NNG+ÇÏ/XSV+¸é/E
+-1 ½ºÄ¹Ä«¸®Âî°íÁ¢À½ 	½ºÄ¹Ä«¸®/UNK+Âî/VV+°í/E+Á¢À½/UNK
+-1 ´Ù½Ã ¸Å²Ù¾ù´Ù 	´Ù½Ã/NNG	¸Å²Ù¾ù´Ù/UNK
+-1 ¿ì¸®ÀÇ¸¸¸¸ÀÌÇü´Ô ? 	¿ì¸®/NP+ÀÇ¸¸/UNK+¸¸ÀÌ/J+Çü´Ô/NNG	?/SF
+-1 ³»³²ÀÚ´Ô ÁøÂ¥ Àß¹öÆ¼³× 	³»/NP+³²ÀÚ/NNG+´Ô/XSN	ÁøÂ¥/NNG	Àß/XPN+¹öÆ¼/VV+³×/E
+-1 ¸¸¸¸´ÔÀÌ Á¦Á¶ÇÞÀ½? 	¸¸¸¸/XR+´ÔÀÌ/UNK	Á¦Á¶/NNG+ÇÞÀ½/UNK	?/SF
+-1 ¿À´Ã ½ºÇÇµå ¹¹ µÇ´Â´ë ¾ø³×¿ä 	¿À´Ã/NNG	½ºÇÇµå/NNG	¹¹/IC	µÇ´Â´ë/UNK	¾ø/VA+³×¿ä/E
+-1 ÄË¼º ÀÌ·¸°Ô ¶Õ´Â°Å ¾Æ´Ñµ¥ ÆÃ°ø¼ºµÇ°Ô²ûÇÏ°í¤» 	ÄË¼º/UNK	ÀÌ·¸°Ô/MAG	¶Õ/VV+´Â/E+°Å/NNB	¾Æ´Ï/VA+¤¤µ¥/E	ÆÃ°ø¼ºµÇ°Ô/UNK+²ø/VV+¤±ÇÏ°í/E	¤»/SW
+-1 5½Ã·Î¸ô·Á°«³ª ¤»¤»¤» 	5/SN	½Ã·Î¸ô·Á°«³ª/UNK	¤»¤»¤»/SW
+-1 ¸Ó ½ºÇÇµå Æ÷±â³× 	¸Ó/IC	½ºÇÇµå/NNG	Æ÷±â/NNG+³×/P
+-1 ±×·¡µµ °³ÇÇµåµé »ó´ë·Î ¼º¸¹ÀÌ ÀÕ³× 	±×·¡µµ/MAJ	°³ÇÇµåµé/UNK	»ó´ë/NNG+·Î/J	¼º¸¹ÀÌ/UNK	ÀÕ/VV+³×/E
+-1 ÇÏ±ä ±×·¡µµ ÄíÄ¿ÁÒ ¤¾¤¾ 	ÇÏ/VV+±ä/E	±×·¡µµ/MAJ	ÄíÄ¿ÁÒ/UNK	¤¾¤¾/SW
+-1 ¿À 	¿À/NNP
+-1 Äí°Å¹ý»ç´Â ½ºÅÈÃÊ±âÈ­ ¾ÈµÅÁÒ? 	Äí°Å¹ý»ç´Â/UNK	½ºÅÈ/UNK+ÃÊ±â/NNG+È­/XSN	¾ÈµÅÁÒ/UNK	?/SF
+-1 ¼ß Äí°Å´Â ¶¥ Èçµé¸®´øµ¥¿ä 	¼ß/UNK	Äí°Å´Â/UNK	¶¥/NNG	Èçµé¸®/VV+´ø/E+SPC/SPC+µ¥/NNB+¿ä/P
+-1 ÀÎÆ® ´Ù ¹Ú°í ´ÙÅ©´Ï½º ¼±¹ö·Î ¤» 	ÀÎÆ®/UNK	´Ù/NNG	¹Ú/VV+°í/E	´ÙÅ©/NNG+´Ï½º/NNG	¼±¹ö·Î/UNK	¤»/SW
+-1 ÀÌÃþ¿¡¼­Áà¿©? 	ÀÌ/XPN+Ãþ/NNG+¿¡¼­/J+Áà¿©/UNK	?/SF
+-1 Á¤¸» ÄÉ¹ß¸°±â¾ïÀÌ ¤Ð 	Á¤¸»/NNG	ÄÉ¹ß¸°/UNK+±â¾ï/NNG+ÀÌ/J	¤Ð/SW
+-1 ÆÐÄ¡ ºÐ·®ÀÌ 	ÆÐÄ¡/NNG	ºÐ·®/NNG+ÀÌ/J
+-1 ´ÜÃàÅ°·Î °í¸¦¼öÀÖ³ª¿ä? 	´ÜÃà/NNG+Å°/XSN+·Î/J	°í¸£/VV+¤©/E+¼ö/NNBV_NNB+SPC/SPC+ÀÖ/VA+³ª¿ä/E	?/SF
+-1 ÇÑ´Ù´Â°Å 	ÇÑ/XPN+´Þ/VV+´Â/E+°Å/NNB
+-1 ¿ì¸®¼· 	¿ì¸®¼·/UNK
+-1 ¾ó ¸¶µµ´Ô ´©¾î¼Ë´Ù´É 	¾ó/NNG	¸¶µµ´Ô/UNK	´©¾î¼Ë´Ù´É/UNK
+-1 Ä¡·¯°¡µµ µÊ ¤»¤» 	Ä¡¸£/VV+¾î/E+°¡/VX+µµ/E	µÇ/VA+¤±/E	¤»¤»/SW
+-1 ´Ôµé Ä¡À¯ºÐµé À¯¸íÇÑ»ç¶÷´©±¸¿¡¿© Àåºñ 	´Ôµé/NNG	Ä¡À¯/NNG+ºÐµé/UNK	À¯¸í/NNG+ÇÑ»ç¶÷/NNG+´©±¸/NP+¿¡/J+¿©/J	Àåºñ/NNG
+-1 È£¹ý °°Àº °æ¿ì´Â 	È£¹ý/NNG	°°/VA+Àº/E	°æ¿ì/NNG+´Â/J
+-1 ÀÌ±âÀûÀÎ ºÐ ¤»¤» 	ÀÌ±â/NNG+Àû/XSN+ÀÎ/P	ºÐ/NNB	¤»¤»/SW
+-1 ¾ÆÀÌ¿Â ÀÚÃ¼ ¤´º§·±½º°¡ ³Ê¹« ¸¹À½ 	¾ÆÀÌ/NNG+¿Â/XSN	ÀÚÃ¼/NNG	¤´/SW	º§·±½º°¡/UNK	³Ê¹«/XR	¸¹/VA+À½/E
+-1 Äð 5ÃÊ¿¡ 	Äð/NNG	5/SN	ÃÊ/NNG+¿¡/J
+-1 º»¼·µµÀû¿ë‰ÆÁö´Â ¹ÌÁö¼ö 	º»¼·µµ/UNK+Àû¿ë/NNG+‰ÆÁö´Â/UNK	¹ÌÁö¼ö/NNG
+-1 Àº½Å2¸¦ º¼¼öÀÖ°Ô ÇØÁÖ´Â°É ±Ã¼ºÇÑÅ× ¢ZÀ½ÇÏ´Âµ¥ ¤» 	Àº½Å/NNG	2/SN	¸¦/J	º¸/VX+¤©/E+¼ö/NNBV_NNB+SPC/SPC+ÀÖ/VX+°Ô/E	ÇÏ/VV+¾Æ/E+ÁÖ/VX+´Â/E+SPC/SPC+°É/VA+¤©/E	±Ã¼º/NNG+ÇÑÅ×/J	¢ZÀ½/UNK+ÇÏ/VV+´Âµ¥/E	¤»/SW
+-1 ½ÃÀü½Ã°£À» Áà¾ßµÊ ¤»¤» 	½ÃÀü/NNG+½Ã°£/NNG+À»/J	ÁÖ/VV+¾ß/E+µÇ/VX+¤±/E	¤»¤»/SW
+-1 °ø¼ÓÀ» ÀÒ°ÔµÇ´Ï±ñ ¾ÈÁÁÁÒ;; 	°ø/NNG+¼Ó/NNB+À»/J	ÀÒ/VV+°Ô/E+SPC/SPC+µÇ/NNG+´Ï±ñ/P	¾È/XPN+ÁÁ/VA+ÁÒ/E	;;/SW
+-1 »ì¼ºÁ×ÀÌ·Á´Ù°¡ ½Ö¼ö°Ë¼º¸¸ Á×´Â°Å °°Àºµ¥.. 	»ì¼º/UNK+Á×ÀÌ/VV+·Á´Ù°¡/E	½Ö¼ö/NNG+°Ë¼º¸¸/UNK	Á×/VV+´Â/E+°Å/NNB	°°/VA+Àºµ¥/E	../SF
+-1 °Ý³ëÆø¹ß¾Æ´Ñ°¡¿ä? 	°Ý³ë/NNG+Æø¹ß/NNG+SPC/SPC+¾Æ´Ï/VA+¤¤°¡¿ä/E	?/SF
+-1 ÄÝ 	ÄÝ/NNG
+-1 ¿ó»þ 	¿ó»þ/UNK
+-1 ³»¾Æ´Â»ç¶÷µé ´ÙÁ×³× ¤» 	³»/VX+¾Æ´Â/E+»ç¶÷/NNG+µé/XSN	´ÙÁ×³×/UNK	¤»/SW
+-1 ¿¬¾ÈÀº ÇÊµå Áñ±â·Î¿Í¼­¿ä 	¿¬¾È/NNG+Àº/J	ÇÊµå/NNG	Áñ±â·Î/UNK+¿À/VV+¼­¿ä/E
+-1 À¯ÀÍ¼±»ó´Ô 	À¯ÀÍ/XR+¼±»ó/NNG+´Ô/XSN
+-1 ¾à ³Ê¹«¸¶´Ï¾²½Ã´Âµ¥ À¯ÀÍÀÌ ; 	¾à/NNG	³Ê¹«/XR+¸¶´Ï/UNK+¾µ/VV+½Ã´Âµ¥/E	À¯ÀÍÀÌ/UNK	;/SW
+-1 ÀÌ°Å µð½º »õ±æ 	ÀÌ°Å/NP	µð½º/NNG	»õ±æ/NNG
+-1 ¼±Ç³µµ°É ¿ë°¨ÇÏ³× ¤»¤»¤» 	¼±Ç³/NNG+µµ°É/UNK	¿ë°¨/NNG+ÇÏ/XSA+³×/E	¤»¤»¤»/SW
+-1 µàÅ©Ä¡¸¦¶³°Ú´Ù ¤»¤» 	µàÅ©Ä¡¸¦/UNK+¶³/VV+°Ú´Ù/E	¤»¤»/SW
+-1 ½Å¶û´ÔÀÌ °ð 81¾÷ÀÏ°É¿ä 	½Å¶û/NNG+´ÔÀÌ/UNK	°ð/MAJ	81/SN	¾÷/XPN+ÀÏ°É¿ä/P
+-1 Çü ¹è°íÆÄ µðÁö±ß´Ù 	Çü/NNG	¹è/NNG+°íÇÁ/VA+¾Æ/E	µðÁö±ß´Ù/UNK
+-1 9Â¥¸® 	9/SN	Â¥¸®/UNK
+-1 ÇØÁà¿© 	ÇØÁà¿©/UNK
+-1 9ÁØÇ¥´Ô?¤» 	9/SN	ÁØÇ¥´Ô/UNK	?/SF	¤»/SW
+-1 ÅÃÁøº¸´Ù ºÎÀÚÀÓ? 	ÅÃÁø/UNK+º¸´Ù/J	ºÎÀÚ/NNG+ÀÓ/P	?/SF
+-1 ¹öÇÁ ¤» 	¹öÇÁ/UNK	¤»/SW
+-1 ¿¬¾ÈÀÌ¶û 	¿¬¾È/NNG+ÀÌ¶û/NNG
+-1 µð½º¹ý»ç¸¸ÀÖÀ½ Á×ÀÌ°Ù´Âµð 	µð½º/NNG+¹ý»ç/NNG+¸¸/J+SPC/SPC+ÀÖ/VA+À½/E	Á×ÀÌ°Ù´Âµð/UNK
+-1 ¸î¹øÁ×³Ä. 	¸î/MM+¹ø/NNG+SPC/SPC+Á×/VV+³Ä/E	./SF
+-1 Àåºñ±¸°æÁ¡ 	Àåºñ/NNG+±¸°æ/NNG+Á¡/XSN
+-1 ÀúÈò ½ÓÀÌÁÁ¾Æ¼­ 	ÀúÈò/UNK	½Î/VV+¤±ÀÌ/E+SPC/SPC+ÁÁ/VA+¾Æ¼­/E
+-1 Å©·çÀÜ´ÙÀÚ 	Å©·çÀÜ´ÙÀÚ/UNK
+-1 ¼öÇ®ÀÌ´ç ¤Ì¤Ì; 	¼ö/XPN+Ç®ÀÌ/NNG+´ç/XSN	¤Ì¤Ì/SW	;/SW
+-1 ¹öÇÁ¿ä 	¹öÇÁ¿ä/UNK
+-1 ¹°°øµµ ´ë¹ÚÀÌ°í ¤»¤» 	¹°°øµµ/UNK	´ë¹Ú/NNG+ÀÌ°í/P	¤»¤»/SW
+-1 ÀÌ¸§È®ÀÎ´Ô 	ÀÌ¸§/NNG+È®ÀÎ/NNG+´Ô/XSN
+-1 Â¡±Û³ª°Ô ¾Ê³ª¿È 	Â¡±Û³ª°Ô/UNK	¾Ê³ª¿È/UNK
+-1 µ·µÇ´Â°Ç ±Ý´Ô±ú ¤»; 	µ·/XPN+µÇ/VV+´Â/E+°Ç/XSN	±Ý´Ô±ú/UNK	¤»/SW	;/SW
+-1 Á¸´ë¸»»ç¿ëÇØÁÖ¼¼¿ä ; 	Á¸´ë/NNG+¸»»ç/NNG+¿ëÇØ/NNG+ÁÖ¼¼/NNG+¿ä/P	;/SW
+-1 ´©°ñÀÌ ¾ó¸¶ÇÏÁ´? 	´©°ñÀÌ/UNK	¾ó¸¶/NNG+ÇÏÁ´/UNK	?/SF
+-1 ¿ÀÈ«;;; 	¿ÀÈ«/UNK	;;;/SW
+-1 °³ÆíÇÏ¸é ´õ ½Å¼¼°è ? 	°³Æí/NNG+ÇÏ/XSV+¸é/E	´õ/MM	½Å¼¼°è/NNP	?/SF
+-1 ±Ã¼ö...? 	±Ã¼ö/NNG	.../SF	?/SF
+-1 ½ºÆ®¸®ÅÍÆÄÀÌÅÍ°¡ µ¶¿ÕÀ¸·Î °¢¼ºÇÏ´Â°Ç°¡¿©???????????????????? 	½ºÆ®¸®ÅÍ/UNK+ÆÄÀÌÅÍ/NNP+°¡/J	µ¶/XPN+¿Õ/NNG+À¸·Î/J	°¢/XPN+¼ºÇÏ/VA+´Â/E+°Ç°¡¿©/UNK	????????????????????/SF
+-1 ¾Æ±îÀü¿¡ ÇÑÀÚ3±ÛÀÚÇÏ°í ¶ó»çÆ¼¶ó°íÇÏ´øµ¥¿ä? 	¾Æ±î/NNG+Àü¿¡/UNK	ÇÑÀÚ/NNG	3/SN	±ÛÀÚ/NNG+ÇÏ°í/J	¶ó»çÆ¼¶ó/UNK+°íÇÏ/VV+´øµ¥¿ä/E	?/SF
+-1 Ãµ¶ó+ÀÌÁßÅõÃ´ 	Ãµ¶ó/UNK	+/SW	ÀÌÁß/NNG+ÅõÃ´/NNG
+-1 ¿þÆÝÀº Â÷¿øÀ» °¡¸£´Â ½ÉÆÄµµ°¡ ÀÖÀ½ 	¿þÆÝÀº/UNK	Â÷¿ø/NNG+À»/J	°¡¸£/VV+´Â/E	½É/XPN+ÆÄµµ/NNG+°¡/J	ÀÖ/VA+À½/E
+-1 ÆÄÀåÀÌ µ¶½Å´ÔÀÌ¼Å¿ä 	ÆÄÀå/NNG+ÀÌ/J	µ¶½Å/NNG+´Ô/XSN+ÀÌ¼Å¿ä/P
+-1 ¸¶°Ë¾ÆÆ÷ÇÇ½º 	¸¶°Ë¾ÆÆ÷ÇÇ½º/UNK
+-1 À½ =-=; 	À½/NNG	=/SW	-/SW	=/SW	;/SW
+-1 10°­ÀÌ¸é 4ÃµÁ¤µÎ 	10/SN	°­ÀÌ¸é/UNK	4/SN	ÃµÁ¤/NNG+µÎ/J
+-1 ÀßÇÏ¸é Áß°è¹æ¼Û ³ª¿À°Ù´Ù ¤»¤» 	ÀßÇÏ/VV+¸é/E	Áß°è/NNG+¹æ¼Û/NNG	³ª¿À°Ù´Ù/UNK	¤»¤»/SW
+-1 °Å..°Ç...°³ÆíÀÌ¶ó´¢ 	°Å/IC	../SF	°É/VV+¤¤/E	.../SF	°³Æí/NNG+ÀÌ/J+¶ó´¢/P
+-1 ¾îº£³àµµ ¾È 	¾îº£³àµµ/UNK	¾Ë/VV+¤¤/E
+-1 ÇÑ°¡Áö È®½ÇÇÑ°Ç ½ºÇÍ°³ÆíÀº ÇÑ´Ù´Â°Å 	ÇÑ/XPN+°¡Áö/NNG	È®½Ç/NNG+ÇÏ/XSA+¤¤/E+°Ç/XSN	½ºÇÍ/UNK+°³Æí/NNG+Àº/J	ÇÑ/XPN+´Þ/VV+´Â/E+°Å/NNB
+-1 ¹«½¼ ¸ÞÀÌÇÃ·Î °¡³ª 	¹«½¼/MM	¸ÞÀÌÇÃ/NNP+·Î/J	°¡³ª/NNP
+-1 µµÀû ÀÏÅÙµ¥..? 	µµÀû/NNG	ÀÏÅÙµ¥/UNK	../SF	?/SF
+-1 Ã¨½ÅÇüÀÌ 	Ã¨½ÅÇüÀÌ/UNK
+-1 ÀÔ´øÂ¼´Â°Íµé ¤»¤» 	ÀÔ´øÂ¼´Â/UNK+°Í/NNG+µé/XSN	¤»¤»/SW
+-1 ¹«±â¸Ó¿¡¿ä? 	¹«±â/NNG+¸Ó¿¡¿ä/UNK	?/SF
+-1 1¹ø¿¡¹«½¼Æ÷¼ÇÀÓ? 	1/SN	¹ø¿¡/UNK+¹«½¼/MM+Æ÷¼ÇÀÓ/UNK	?/SF
+-1 4167ÄÞº¸.. 	4167/SN	ÄÞº¸/NNG	../SF
+-1 ½ë°Å °°´øµ¥ ÇÏ¸á¿¡¼­ ±â°£Æ½¾²´Â°Å º¸´Ï±î ¹¹ . 	½ë°Å/UNK	°°/VA+´øµ¥/E	ÇÏ¸á/NNP+¿¡¼­/J	±â°£/NNG+Æ½/XSN+¾µ/VV+´Â/E+°Å/NNB	º¸/VV+´Ï±î/E	¹¹/IC	./SF
+-1 ¸ð¸£°í »ç´Â°ÅÁÒ; 	¸ð¸£/VV+°í/E	»ç/VV+´Â/E+°Å/NNB+ÁÒ/P	;/SW
+-1 ´ÔµéÀÌºÐ¸î°­ÀÓ? 	´Ô/XSN+µéÀÌ/XSN+ºÐ¸î°­ÀÓ/UNK	?/SF
+-1 ÅõÃ´ÀÌ¿ë 	ÅõÃ´/NNG+ÀÌ¿ë/NNG
+-1 Àú ÀÚº»ÀÌ 500ÀÖ´Âµ¥ ¹»Å°¿ï±î¿ä.. 	Àú/NP	ÀÚº»/NNG+ÀÌ/J	500/SN	ÀÖ/VX+´Âµ¥/E	¹»Å°/UNK+¿ï/VV+¤©±î¿ä/E	../SF
+-1 ·±Ã³¿ä 	·±Ã³/NNG+¿ä/P
+-1 ¿þÆÝÀº Â÷¿øÀ» °¡¸£´Â ½ÉÆÄµµ°¡ ÀÖÀ½ 	¿þÆÝÀº/UNK	Â÷¿ø/NNG+À»/J	°¡¸£/VV+´Â/E	½É/XPN+ÆÄµµ/NNG+°¡/J	ÀÖ/VA+À½/E
+-1 ¿©·±Ã³¶ó 	¿©·±Ã³¶ó/UNK
+-1 Å©¹ß 13Å¸¿ä 	Å©¹ß/UNK	13/SN	Å¸/NNB+¿ä/P
+-1 ¿ÏÀüÈ¸º¹¾àÀÌ¿ä? 	¿ÏÀü/NNG+È¸º¹/NNG+¾à/XPN+ÀÌ¿ä/P	?/SF
+-1 ´«²É´Ô ´ë¹ÚÀÌ½Ã³×..........¶ó¸é¿¡ À½·á¼ö ¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤» 	´«²É´Ô/UNK	´ë¹Ú/NNG+ÀÌ½Ã³×/P	........../SF	¶ó¸é¿¡/UNK	À½·á¼ö/NNG	¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»/SW
+-1 ÁøÂ¥ ±×ÄÉ ÇÏ³ª? 	ÁøÂ¥/NNG	±×/NP+ÄÉ/P	ÇÏ/VV+³ª/E	?/SF
+-1 °ÅÁþ ¾Æ´Ñµ¥ ¤Ð¤Ð 	°ÅÁþ/NNG	¾Æ´Ï/VA+¤¤µ¥/E	¤Ð¤Ð/SW
+-1 ¾ÈÆÈÁÒ.......... 	¾È/XPN+ÆÈ/VV+ÁÒ/E	........../SF
+-1 ¼ö¿çÀü¿¡ 	¼ö¿çÀü¿¡/UNK
+-1 ½Å´Ô ¹æ¼Û º¸½ÅºÐ 	½Å/NNG+´Ô/XSN	¹æ¼Û/NNG	º¸½ÅºÐ/UNK
+-1 ÃÌ³ÑÀÌ°¡ 	ÃÌ³ÑÀÌ°¡/UNK
+-1 ÁÔ³ª´ä´äÇØ ¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤» 	ÁÔ³ª/UNK+´ä´ä/XR+ÇÏ/XSA+¾Æ/E	¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»/SW
+-1 º¼°Ô ¾ø¾î¼­ µé¾î¿Ô¾î¿ä ¤Ñ¤Ñ 	º¸/VX+¤©°Ô/E	¾ø/VA+¾î¼­/E	µé/VX+¾î/E+¿À/VX+¤¶¾î¿ä/E	¤Ñ¤Ñ/SW
+-1 ¹Ù•Š 	¹Ù•Š/UNK
+-1 ½Å±â ÇØº¸½ÅºÐµé ¾î¶²°¡¿ä? ÆÐÄ¡µÇ°í ¾ÈÇØºÁ¼­ 	½Å±â/NNG	ÇÏ/XSA+º¸½Å/NNG+ºÐµé/UNK	¾î¶»/VA+¤¤°¡¿ä/E	?/SF	ÆÐÄ¡µÇ°í/UNK	¾È/MAG+ÇÏ/VA+¾î/E+º¸/VX+¾Æ/E+¼­/VX+¾î/E
+-1 ÄÝ·Î°£ ÅÊÇÏ´Ù°¡ 	ÄÝ·Î°£/UNK	ÅÊÇÏ´Ù°¡/UNK
+-1 °õº¯½ÅÇª¿ì ¤»¤»¤» 	°õ/NNG+º¯½Å/NNG+Çª¿ì/NNP	¤»¤»¤»/SW
+-1 ¼ÒÈ­µµ °°ÀÌ ¾È´ë´Â; 	¼ÒÈ­/NNG+µµ/J	°°ÀÌ/MAG	¾È/XPN+´ë/VV+´Â/E	;/SW
+-1 ¸¸ÀÌ»Ý.ÀÌ½Ã·¡¿ä ¤¾ 	¸¸ÀÌ»Ý/UNK	./SF	ÀÌ/XPN+½Ã·¡¿ä/P	¤¾/SW
+-1 ¿¨ Ä«ÀÌ¸¶¹Ì µ¥½º¹ý»ç ¾Æ´Ï¾ú³ª? 	¿¨/MAG	Ä«ÀÌ¸¶¹Ì/UNK	µ¥½º/NNP+¹ý»ç/NNG	¾Æ´Ï/VA+¾ú³ª/E	?/SF
+-1 ÇÃÆ÷¿¡±Û¿Ã¸®´Â»ç¶÷µé..ÄÉ¸¯Àº ÀÕÀ»±î¿ä?¤¾ 	ÇÃÆ÷¿¡±Û/UNK+¿Ã¸®/VV+´Â/E+»ç¶÷/NNG+µé/XSN	../SF	ÄÉ¸¯Àº/UNK	ÀÕÀ»±î¿ä/UNK	?/SF	¤¾/SW
+-1 Áö±Ý½ÃÁ¡¿¡¼­ 	Áö±Ý/NNG+½Ã/XSN+Á¡/XSN+¿¡¼­/J
+-1 ½ð´Ù´Â Á» ±×·¸´øµ¥ 	½ò/VV+¤¤´Ù´Â/E	Á»/NNG	±×·¸/VV+´øµ¥/E
+-1 ´Ôµé ¿Ö ¹ß°íÀÕ´Â°Ç°¡¿ä?? 	´Ôµé/NNG	¿Ö/NNP	¹ß°í/UNK+ÀÕ/VV+´Â/E+°Ç°¡¿ä/UNK	??/SF
+-1 ºÎÈ°¾ÈµÇ¸é ¹ý»ç º»Åä³¯¶ó°¡ÀÝ¾î¿ä 	ºÎÈ°/NNG+SPC/SPC+¾ÈµÇ/VA+¸é/E	¹ý»ç/NNG	º»Åä/NNG+³¯¶ó°¡ÀÝ¾î¿ä/UNK
+-1 ¾î¹Ù¿äÁ¤µµ ¹¯ÁöµµµûÁöÁöµµ¾Ê°í °¡ÀÔ¾Æ´Ï¿¡¿ä?¤¾ 	¾î¹Ù/UNK+¿äÁ¤/NNG+µµ/J	¹¯/VV+Áöµµ/E+SPC/SPC+µûÁö/NNG+Áöµµ/NNG+SPC/SPC+¾Ê/VX+°í/E	°¡ÀÔ/NNG+¾Æ´Ï¿¡¿ä/MAG	?/SF	¤¾/SW
+-1 Àú¹ý»çµµ Âü µ¶ÇÏ³× ¤»¤» 	Àú¹ý»çµµ/UNK	Âü/NNG	µ¶/NNG+ÇÏ/XSA+³×/E	¤»¤»/SW
+-1 º»Åä°¡¸é ¤»¤» 	º»Åä/NNG+°¡¸é/NNG	¤»¤»/SW
+-1 ±×¿ÍÁß¿¡ ¸÷ ¸ôÀÌ ¶¯°Ü ¤»¤» 	±×¿ÍÁß¿¡/UNK	¸÷/NNG	¸ôÀÌ/NNG	¶¯±â/VV+¾î/E	¤»¤»/SW
+-1 Ä«Å°Æ®ÇÇ½ºÅç 	Ä«Å°Æ®/UNK+ÇÇ½ºÅç/NNP
+-1 ½ÇÅºµÕ ¹Þ´Âµ­... 	½ÇÅºµÕ/UNK	¹Þ´Âµ­/UNK	.../SF
+-1 ¼·ÀÌÀü 5ÀÏ µÆ´Âµ¥ ÀÌ·±¸» ¤» 	¼·ÀÌÀü/UNK	5/SN	ÀÏ/NNB	µÇ/VX+¾ú´Âµ¥/E	ÀÌ·±¸»/UNK	¤»/SW
+-1 ³Ê¹« ÇÇÇØ°¡ Å©³× 	³Ê¹«/XR	ÇÇÇØ/NNG+°¡/J	Å©/VV+³×/E
+-1 ¾î¹Ù°É°í µð½º ²Å´Â°Ç ¸Õ°æ¿ì¿© 	¾î¹Ù°É°í/UNK	µð½º/NNG	²Å´Â°Ç/UNK	¸Õ°æ¿ì¿©/UNK
+-1 ±×·³ ¸¸¸¸ÀÌ ÇÑÅ× °¡¶ó,¿Ö ¿ì¸®¹æ¼Û¿¡¼­ Áö ¶öÇÏ³ë ½Ã ¹ß ´®¾Æ 	±×·³/MAJ	¸¸/NR+¸¸/NR+ÀÌ/NR	ÇÑÅ×/UNK	°¡¶ó/NNG	,/SP	¿Ö/NNP	¿ì¸®/NNG+¹æ¼Û/NNG+¿¡¼­/J	Áö/NNB	¶öÇÏ³ë/UNK	½Ã/NNB	¹ß/NNG	´®/NNG+¾Æ/J
+-1 Ä«´ÙÇÑ¾Ö±â ±×¸¸¤»¤» 	Ä«´ÙÇÑ¾Ö±â/UNK	±×¸¸/MAG	¤»¤»/SW
+-1 ÁýÇàÀÌ ±×·¸°Ô½Ú°¡..¾È¸Â¾ÆºÁ¼­ ¸ô°Ù³× 	ÁýÇà/NNG+ÀÌ/J	±×·¸°Ô/MAG+½Ú°¡/UNK	../SF	¾È¸Â/UNK+¾Æ/E+º¸/VX+¼­/E	¸ô°Ù³×/UNK
+-1 1¾ï2ÃµÀÌ¶ó´¢...¸»µµ ¾È´ï;; 	1/SN	¾ï/NR	2/SN	Ãµ/NR+ÀÌ/NR+¶ó´¢/P	.../SF	¸»µµ/UNK	¾È/XPN+´ë/VV+¤±/E	;;/SW
+-1 9¹«¾çÀÌ º¸´Ï±ñ 4~5ÃµÇÏ´øµ¥ 	9/SN	¹«¾çÀÌ/UNK	º¸/VV+´Ï±ñ/E	4/SN	~/SW	5/SN	ÃµÇÏ/NNG+´øµ¥/P
+-1 ÁýÇà2300¸¸Á¤µµ 	ÁýÇà/NNG	2300/SN	¸¸Á¤/NNG+µµ/J
+-1 ½Ã½ÃÇÏ³×.. 	½Ã½Ã/NNG+ÇÏ/XSN+³×/P	../SF
+-1 ±Ùµ¥ ÃÑ±º±îÁö Çß´ø Ä³¸¯ÀÌ¶ó°í ¹ÏÀ¸¶ó°í ÇÏ´Âµ¥ 	±Ùµ¥/MAG	ÃÑ±º/NNG+±îÁö/J	ÇÏ/VV+¾Ò´ø/E	Ä³¸¯/UNK+ÀÌ¶ó°í/P	¹Ï/VV+À¸¶ó°í/E	ÇÏ/VV+´Âµ¥/E
+-1 ÅÂÁ¶´Ô³× ¾Ö´Â °¥¶óÁø°Å¾Ö¿© 	ÅÂÁ¶/NNP+´Ô³×/UNK	¾Ö/NNG+´Â/J	°¥¶óÁö/VV+¤¤/E+°Å¾Ö¿©/UNK
+-1 Á» Á×´Ùº¸¸é 	Á»/NNG	Á×/VV+´Ù/E+º¸/VX+¸é/E
+-1 Àú¾Æ¼¼¿ä? 	Àú/XPN+¾Ë/VV+¼¼¿ä/E	?/SF
+-1 ¹Ù·Î½ºÅÏÃ³¾ßµÅ¼­ 	¹Ù·Î½ºÅÏÃ³/UNK+¾ß/E+µÇ/VX+¼­/E
+-1 È¸»ç¾ß ¤¾ 	È¸»ç/NNG+¾ß/XSN	¤¾/SW
+-1 ³²ÀÚÀÇÇÑ¹æ<< 	³²ÀÚ/NNG+ÀÇ/NNG+ÇÑ¹æ/NNG	</SYO	</SYO
+-1 È½¼ö´Â ¾ÈÁÙ¾î¿ä 	È½¼ö/NNG+´Â/J	¾È/XPN+ÁÙ/VV+¾î¿ä/E
+-1 40Ãþ ÆÄÆ¼»ç³É ÇÏ´Âµ¥ 2½Ã°£µ¿¾È . ÁÜ¼­ ÇÑÄÉ¸¯À¸·Î µé¾î°¬´Ù´Â 	40/SN	Ãþ/XSN	ÆÄÆ¼/NNG+»ç³É/NNG	ÇÏ/VV+´Âµ¥/E	2/SN	½Ã°£/NNG+µ¿¾È/NNG	./SF	ÁÜ/NNG+¼­/J	ÇÑÄÉ¸¯/UNK+À¸·Î/J	µé¾î°¡/VV+¾Ò´Ù´Â/E
+-1 Àú °³±×´Â ¾ß ºÒ¸¸ÀÕ³Ä? ³­ ´ã¹èµµÀÕ´ÙÀÇ ¼öÁØÀÇ °³±× ;; 	Àú/NP	°³±×/NNG+´Â/J	¾ß/NNG	ºÒ¸¸/NNG+ÀÕ³Ä/UNK	?/SF	³ª/VV+¤¤/E	´ã¹è/NNG+µµÀÕ´ÙÀÇ/UNK	¼öÁØ/NNG+ÀÇ/J	°³±×/NNG	;;/SW
+-1 Â«»Í ÀÌ³ª ½ÃÄÑ ¸Ô¾î¾ß °Í³ß 	Â«»Í/NNG	ÀÌ/VV+³ª/E	½ÃÅ°/VV+¾î/E	¸Ô/VV+¾î¾ß/E	°Í³ß/UNK
+-1 ÇÏ±ä..Ã·ºÎÅÍ ¾È¹Ï¾úÀ½..ÁßÁ¦Á¶°ÇÀ¸·Î ¼·ÀÌÀüÇÒ Ç÷ÀÌ¾Æ´Ô 	ÇÏ/VV+±ä/E	../SF	Ã·ºÎÅÍ/UNK	¾È/XPN+¹Ï/VV+¾úÀ½/E	../SF	ÁßÁ¦/UNK+Á¶°Ç/NNG+À¸·Î/J	¼·ÀÌÀüÇÒ/UNK	Ç÷ÀÌ¾Æ´Ô/UNK
+-1 ¸ÔÀÚ´Ù 	¸ÔÀÚ/NNP+´Ù/P
+-1 ÀÌ³ë·¡´Â ¸ÓÀÓ ¤Ñ.¤Ñ 	ÀÌ/XPN+³ë·¡/NNG+´Â/J	¸ÓÀÓ/UNK	¤Ñ/SW	./SF	¤Ñ/SW
+-1 ¸ù¼¶ ¹«Á¶°Ç ÀÌ·¹ Ä¿½º¸é ½Ó³¡ ¤Ð¤Ð 	¸ù¼¶/UNK	¹«Á¶°Ç/NNG	ÀÌ·¹/NNG	Ä¿½º¸é/UNK	½Ó³¡/UNK	¤Ð¤Ð/SW
+-1 ÀÚµ¿À°¼ºÀÌ ´ë¼¼ ¤»¤» 	ÀÚµ¿/NNG+À°¼º/NNG+ÀÌ/J	´ë¼¼/NNG	¤»¤»/SW
+-1 ´ÙÅ©°É·Áµµ ÀÌ·¹ÇÑ°ÅÁÕ 	´ÙÅ©/NNG+SPC/SPC+°É¸®/VV+¾îµµ/E	ÀÌ·¹ÇÑ°ÅÁÕ/UNK
+-1 °Ë»ö?/ 	°Ë»ö/NNG	?/SF	//SW
+-1 Ç®·Ç´ç ¤» 	Ç®·Ç´ç/UNK	¤»/SW
+-1 ¸¶³ª»ì¼öÀÖ³ª¿ë ;; 	¸¶³ª»ì¼ö/UNK+ÀÖ/VX+³ª/E+¿ë/NNG	;;/SW
+-1 ³ª¶û ³î´Ù°¡ Àú±â¼­ ³î°íÀÖ³× ¤¾ 	³ª/NP+¶û/J	³î/VV+´Ù°¡/E	Àú±â¼­/MAG	³î/VV+°í/E+ÀÖ/VX+³×/E	¤¾/SW
+-1 ±Ùµ¥ ÀßÇÏ´ÂºÐµéÀº Æ¯Ãâ³­°Å 	±Ùµ¥/MAG	ÀßÇÏ/VV+´Â/E+SPC/SPC+ºÐ/NNB+µé/XSN+Àº/J	Æ¯Ãâ/NNG+³ª/VV+¤¤/E+°Å/NNB
+-1 ¿¡¹ö·ùÇÊ»ì±â 	¿¡¹ö·ùÇÊ/UNK+»ì±â/NNG
+-1 ¾È15°³ 	¾È/NNG	15/SN	°³/NNB
+-1 ´ÏÇÇ±Ã rr ¹ßÆ÷? 	´ÏÇÇ±Ã/UNK	rr/SL	¹ßÆ÷/NNG	?/SF
+-1 Æ÷Åº´Ù´Â °Å¿¡ ³Ê¹« ¤Ð 	Æ÷Åº/NNG+´Ù´Â/P	°Å/NNB+¿¡/J	³Ê¹«/XR	¤Ð/SW
+-1 ³ª»þ´Ô Æ÷ÀÖÁ®? 	³ª»þ´Ô/UNK	Æ÷ÀÖÁ®/UNK	?/SF
+-1 ÇÏ³ª ¸ø±ñµí? 	ÇÏ/VV+³ª/E	¸ø/MAG+±î/VV+¤¤/E+µí/NNB	?/SF
+-1 ±×·³¸ðÁÒ? 	±×·³/MAJ+¸ðÁÒ/UNK	?/SF
+-1 ¿¡¹ö·ù ÇÊ»ì±â ÀÕÀÚ³ª¿© 	¿¡¹ö·ù/UNK	ÇÊ/NNP+»ì±â/NNG	ÀÕÀÚ³ª¿©/UNK
+1 ¶óÀÎ¾÷´ë ¶óÀÎ¾÷ÀÎµ¥ ¿¬½ÀÀ»  »ß¸®¸®~ÇÔ 	¶óÀÎ¾÷/NNP+´ë/XSN	¶óÀÎ¾÷/NNP+ÀÎµ¥/P	¿¬½À/NNG+À»/J	»ß¸®¸®/UNK	~/SW	ÇÏ/VV+¤±/E
+1 »ß¸®¸®~ °¡´ÉÇØ¼­ 	»ß¸®¸®/UNK	~/SW	°¡´É/NNG+ÇÏ/XSA+¾î/E+¼­/VX+¾î/E
+1 ¼ö»ß¸®¸®~Å°¿ö¾ßÇÏ³ª..¤Ð¤Ð; 	¼ö»ß¸®¸®/UNK	~/SW	Å°¿ì/VV+¾î¾ß/E+SPC/SPC+ÇÏ³ª/NR	../SF	¤Ð¤Ð/SW	;/SW
+1 ±Ùµ¥½Ö¸¶ºñ ¾ÈÅÍÁö¸é »ß¸®¸®~µÊ 	±Ùµ¥/MAJ+½Ö/XPN+¸¶ºñ/NNG	¾È/XPN+Æ®/VV+¾î/E+Áö/VX+¸é/E	»ß¸®¸®/UNK	~/SW	µÇ/VA+¤±/E
+1 »ß¸®¸®~ 	»ß¸®¸®/UNK	~/SW
+1 »ß¸®¸®~°£ÁöÀÚ³ª¿© 	»ß¸®¸®/UNK	~/SW	°£Áö/VA+ÀÚ/E+³ª¿©/UNK
+1 »ß¸®¸®~ ±¤°í 	»ß¸®¸®/UNK	~/SW	±¤°í/NNG
+1 »ß¸®¸®~¸¶¿ì½º¾Ö¿©? 	»ß¸®¸®/UNK	~/SW	¸¶¿ì½º/NNG+¾Ö¿©/UNK	?/SF
+1 ·¹Æ÷Æ® ÇÏ´À³Ä°í »ß¸®¸®~»· ÇÞ¾î¿°.. 	·¹Æ÷Æ®/NNG	ÇÏ/VV+´À³Ä°í/E	»ß¸®¸®/UNK	~/SW	»·/NNB	ÇÞ¾î¿°/UNK	../SF
+1 »ß¸®¸®~ÀÇ ¸®Ä¡°¡ ·ÎºêÁØ´Ù°í¾à¼ÓÇØ³õ°í ÀáÀûÇÏ³× 	»ß¸®¸®/UNK	~/SW	ÀÇ/NNG	¸®Ä¡/NNP+°¡/J	·Îºê/NNG+ÁÖ/VX+¤¤´Ù°í/E+¾à¼Ó/NNG+ÇÏ/VV+¾Æ/E+³õ/VX+°í/E	ÀáÀû/NNG+ÇÏ/XSA+³×/E
+1 ¾¾¹ß ³»¸»´Ù¾ÃÀ¸¼Å 	¾¾¹ß/UNK	³»¸»´Ù/UNK+¾Ã/VV+À¸¼Å/E
+1 Àç¹°½á»ß¸®¸®~;; 	Àç¹°/NNG+½á»ß¸®¸®/UNK	~/SW	;;/SW
+1 ¹Î»ß¸®¸®~µí ¤¾ 	¹Î»ß¸®¸®/UNK	~/SW	µí/MAG	¤¾/SW
+1 ¸¶¹æ »ß¸®¸®~³ô³×¿ä ±â»ç°¡ ¤» 	¸¶/NNG+¹æ/XSN	»ß¸®¸®/UNK	~/SW	³ô/VA+³×¿ä/E	±â»ç/NNG+°¡/J	¤»/SW
+1 µèº¸ÀâÀÌ »ß¸®¸®~°Å¸®³× 	µèº¸ÀâÀÌ/UNK	»ß¸®¸®/UNK	~/SW	°Å¸®/NNG+³×/P
+1 °Ë¼º¸¸ »ß¸®¸®~ ¤Ì 	°Ë¼º¸¸/UNK	»ß¸®¸®/UNK	~/SW	¤Ì/SW
+1 »½¾ç ¸ö»ß¸®¸®~»ç¸®³× ¤» 	»½¾ç/UNK	¸ö»ß¸®¸®/UNK	~/SW	»ç/NR+¸®/XSN+³×/P	¤»/SW
+1 µð½º 4¿¬µû..........»ß¸®¸®~ ºÒ½Ö. 	µð½º/NNG	4/SN	¿¬µû/UNK	........../SF	»ß¸®¸®/UNK	~/SW	ºÒ½Ö/NNG	./SF
+1 »ß¸®¸®~ ¤»¤» 	»ß¸®¸®/UNK	~/SW	¤»¤»/SW
+1 ±õÄ¡³× ¾¾¹ß 	±õÄ¡³×/UNK	¾¾¹ß/UNK
+1 Á¸´ÏÂ¯³ª 	Á¸´ÏÂ¯³ª/UNK
+1 »ß¸®¸®~ ¤»¤» 	»ß¸®¸®/UNK	~/SW	¤»¤»/SW
+1 Áø¶ÊÀÌ °³ ¤µ ¤Ó¹ß ³ð¾Æ 	Áø¶ÊÀÌ/UNK	°³/NNG	¤µ/SW	¤Ó/SW	¹ß/NNG	³ð/NNB+¾Æ/J
+1 Äµ½½..½Ã 8 ³ð ¾Æ 	Äµ½½/UNK	../SF	½Ã/NNB	8/SN	³ð/NNB	¾Æ/NNG
+1 Â¥ Áõ³ª³× Àú ¼¼ ³¢ 	Â¥/NNG	Áõ³ª³×/UNK	Àú/NP	¼¼/NNG	³¢/NNB
+1 ÁÁ±ä »ß¸®¸®~ÁÁÀ½.. 	ÁÁ/VA+±ä/E	»ß¸®¸®/UNK	~/SW	ÁÁ/VA+À½/E	../SF
+1 ¤µ ¤Ó¤µ ¤Ó¤¾ ¤¿¸é ¾Èº¸¹È´ëÁö ¸Õ¸»ÀÌ¸¹¾î ½Ã ¹ú »ö Ä¼ 	¤µ/SW	¤Ó¤µ/SW	¤Ó¤¾/SW	¤¿/SW	¸é/NNG	¾Èº¸¹È/UNK+´ëÁö/NNG	¸Õ¸»ÀÌ/UNK+¸¹/VA+¾î/E	½Ã/NNB	¹ú/VV+¤©/E	»ö/NNG	Ä¼/IC
+1 ¾Æ..»ß¸®¸®~³ª Àç¹Ì¾ø°ÔÇÑ´Ù ¼ö°í¿ä ¿­½ÉÈ÷ º£¸£ 	¾Æ/NNG	../SF	»ß¸®¸®/UNK	~/SW	³ª/VX+¾Æ/E	Àç¹Ì/NNG+¾ø/VA+°Ô/E+ÇÏ/VX+¤¤´Ù/E	¼ö/NNG+°í¿ä/P	¿­½ÉÈ÷/MAG	º£¸£/NNG
+1 »ß¸®¸®~ ÀÌ·± Àåºñµµ ¾ø´Â ¼¼1³¢°¡ 	»ß¸®¸®/UNK	~/SW	ÀÌ·±/MM	Àåºñ/NNG+µµ/J	¾ø/VA+´Â/E	¼¼/NNG	1/SN	³¢/NNB+°¡/J
+1 »ß¸®¸®~ Æ®¸®ÇÃ ¤¡¤¡ 	»ß¸®¸®/UNK	~/SW	Æ®¸®ÇÃ/NNG	¤¡¤¡/SW
+1 ¹¹¿© Àú·± »ß¸®¸®~ 	¹¹/NP+¿©/J	Àú·¯/VV+¤¤/E	»ß¸®¸®/UNK	~/SW
+1 ¿¡Áö°£ÇÏ¸é Á» ¼·¸Á½ÅÀº ½ÃÅ°Áö¸»ÀÚ.. Á¶Ä«Å©·¹ÆÄ½º»ö±ò18»ö±ò¾Æ 	¿¡Áö/NNG+°£ÇÏ/VV+¸é/E	Á»/NNG	¼·¸Á½ÅÀº/UNK	½ÃÅ°/VV+Áö/E+SPC/SPC+¸»/VX+ÀÚ/E	../SF	Á¶Ä«/NNG+Å©·¹ÆÄ½º/NNG+»ö±ò/NNG	18/SN	»ö±ò/NNG+¾Æ/J
+1 ¸£¶§ Àú ³âÀú±â¼­ ¸ÓÇÑµ¥ ¤¾¤¾ 	¸£¶§/UNK	Àú/NP	³â/XSN+Àú±â¼­/MAG	¸ÓÇÑµ¥/UNK	¤¾¤¾/SW
+1 ¿Í Á¹ºÒ½ÖÇØ 	¿Í/IC	Á¹/XPN+ºÒ½Ö/NNG+ÇÏ/XSA+¾Æ/E
+1 ¾²¹ß ¸Ó½Ã¸® 	¾²¹ß/IC	¸Ö/VV+½Ã¸®/E
+1 ¿¹¿¹¾¾¹ß·Ã¾Æ 	¿¹¿¹¾¾¹ß·Ã¾Æ/UNK
+1 ¶Ç¶ó¹Ð³à,¹ÌÆ¼·Á³ª°¡·¹³ª 	¶Ç¶ó¹Ð³à/UNK	,/SP	¹ÌÆ¼·Á/UNK+³ª°¡·¹/NNP+³ª/J
+1 ¾Æ³ª ÀÌ°Å¹¹¾ß ·¢¶§¸Þ ¾È¿òÁ÷¿© ½ÃÆÈ 	¾Æ³ª/NNP	ÀÌ°Å¹¹¾ß/UNK	·¢¶§¸Þ/UNK	¾È/XPN+¿òÁ÷ÀÌ/VV+¾î/E	½ÃÆÈ/UNK
+1 Á¶·Æ·»µéÀÌ ±õÃÄ¿ä '¤µ' 	Á¶·Æ·»/UNK+µéÀÌ/XSN	±õÃÄ¿ä/UNK	'/SW	¤µ/SW	'/SW
+1 ¾Ñ¤µ¤² ÄùÅÛ Á¶³½¾È³ª¿À³× 	¾Ñ/IC	¤µ¤²/SW	ÄùÅÛ/UNK	Á¶³½¾È/UNK+³ª¿À/VV+³×/E
+1 º´½Åº£¸£»õ³¢¤»¤» 	º´½Å/NNG+º£¸£/NNG+»õ³¢/NNG	¤»¤»/SW
+1 ÀÌ¿©ÀÚÁ¸³ª¶ì²®°ÔÇÔ 	ÀÌ/XPN+¿©ÀÚ/NNG+Á¸³ª¶ì²®°ÔÇÔ/UNK
+1 ²¨Á® 	²¨Áö/VV+¾î/E
+1 ¼ºÁ÷ÀÚÀÎ°¡? ¤»¤»¤» °³µµ¶ú³ªºÁ 	¼ºÁ÷/NNG+ÀÚ/XSN+ÀÎ°¡/NNG	?/SF	¤»¤»¤»/SW	°³µµ¶ú³ªºÁ/UNK
+1 Á¸³ª µÚÁø´Ù°í ¾È¹¬´Â»ö±âÃ·º½ 	Á¸³ª/UNK	µÚÁö/VV+¤¤´Ù°í/E	¾È/XPN+¹¬/VV+´Â/E+»ö±âÃ·º½/UNK
+1 ÇÏ¿©Æ° °³Á¿µµ ¸øÇÏ´Â ¾Ãº´½ÅµéÀÌ ÇÑ¸¶µðÇÏ¸é Áö¶öÇÏÁö 	ÇÏ¿©Æ°/MAG	°³Á¿/NNG+µµ/J	¸øÇÏ/VX+´Â/E	¾Ãº´/UNK+½Å/NNG+µé/XSN+ÀÌ/J	ÇÑ/NR+¸¶µð/NNG+ÇÏ¸é/NNG	Áö¶ö/NNG+ÇÏ/XSV+Áö/E
+1 ¸»¸¸ ÁÔ³» ¸¹¾Æ 	¸»/NNG+¸¸/J	ÁÔ³»/UNK	¸¹/VA+¾Æ/E
+1 ¾Æ±â¸® ½Îµé°í º´½Å Å¸·º½º ¤»¤» 	¾Æ±â¸®/UNK	½Î/VV+¾Æ/E+µé/VV+°í/E	º´½Å/NNG	Å¸·º½º/UNK	¤»¤»/SW
+1 º´½Åº´½Åº´½Åº´½Åº´½Åº´½Åº´½Åº´½Åº´½Åº´½Åº´½Åº´½Å 	º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG+º´½Å/NNG
+1 °ÔÀÓÁ¿°°³× 	°ÔÀÓ/NNG+Á¿/XSN+SPC/SPC+°°/VA+³×/E
+1 ´ÚÃÄ³â 	´ÚÃÄ³â/UNK
+1 ´Ï¾ó±¼±×Áö°°´Ù 	´Ï¾ó±¼±×Áö/UNK+°°/VA+´Ù/E
+1 ¾Æ¿À ¾¾¹ß Â¥Áõ³ª 	¾Æ/NNG+¿À/P	¾¾¹ß/UNK	Â¥Áõ³ª/VV+¾Æ/E
+1 ´Ù½ÃÇØ¶ó º´½Ã³ª ¤» 	´Ù½Ã/MAG+ÇÏ/XSV+¶ó/E	º´/NNG+½Ã/NNB+³ª/J	¤»/SW
+1 µî½Å»õ³¢µé¾Æ 	µî½Å/NNG+»õ³¢/NNG+µé/XSN+¾Æ/J
+1 Àú¾²·¹±â³âÀÌ 	Àú/XPN+¾²·¹±â/NNG+³âÀÌ/UNK
+1 º´½Å¾Æ ¿åÇÏÁö¸¶ 	º´½Å/NNG+¾Æ/J	¿å/NNG+ÇÏ/XSV+Áö¸¶/E
+1 ¾¾¹ß¾Æ 	¾¾¹ß¾Æ/UNK
+1 ¾Æ°¡¸® ²Ã¸®³ÄÈÊ 	¾Æ°¡¸®/NNG	²Ã¸®³ÄÈÊ/UNK
+1 ¤»¤» ¾¾¹ß³âµé 	¤»¤»/SW	¾¾¹ß³â/NNG+µé/XSN
+1 ¾î¶²º´½ÅÀÌ Àåº®2Â¥¸® È¸±¤¿¡ Áö‡¤»¤» 	¾î¶²/MM+º´½Å/NNG+ÀÌ/J	Àåº®/NNG	2/SN	Â¥¸®/UNK	È¸±¤¿¡/UNK	Áö‡/UNK	¤»¤»/SW
+1 ½´¹ß ºí·¢È¦ °Çµå·È³× ¤Ì¤Ì 	½´¹ß/UNK	ºí·¢/NNG+È¦/NNG	°Çµå¸®/VV+¤¶³×/E	¤Ì¤Ì/SW
+1 ºô¾îÃÄ¸ÔÀ»³âÀº ¾Æ¿¹ 	ºô/VV+¾î/E+Ä¡/VX+¾î/E+SPC/SPC+¸Ô/VV+À»/E+SPC/SPC+³â/NNG+Àº/J	¾Æ¿¹/MAG
+1 ÂîÁúÀÌµé¤»¤»¤»¤»¤» 	ÂîÁúÀÌ/NNP+µé/XSN	¤»¤»¤»¤»¤»/SW
+1 ¾îÈÞ½Ã¹ß¤» 	¾îÈÞ/IC+½Ã¹ß/NNG	¤»/SW
+1 Â¾´Ù ÀÌ»õ³¢µé ¤¢¤¢¤¢¤¢ 	Â¿/VV+¤¤´Ù/E	ÀÌ/XPN+»õ³¢/NNG+µé/XSN	¤¢¤¢¤¢¤¢/SW
+1 ¸ö¿¡¼­ ³¿¼¼³­´Ù ¤»¤»½Ê ¤»¤» 	¸ö/NNG+¿¡¼­/J	³¿¼¼³­´Ù/UNK	¤»¤»/SW	½Ê/NR	¤»¤»/SW
+1 ÀÌ·±™¸È÷µéÀÌ¶û ÇÇÅ¸ÇÏÁö¸¿½Ã´Ù 	ÀÌ·±™¸È÷/UNK+µéÀÌ/XSN+¶û/J	ÇÇÅ¸ÇÏÁö/UNK+¸»/VX+¤²½Ã´Ù/E
+1 ÁÖµÕÀÌ¶ó°í ³ªºÒ°Å¸®°í ÀÖ³× 	ÁÖµÕÀÌ/NNG+¶ó°í/P	³ªºÒ/XR+°Å¸®/XSV+°í/E	ÀÖ/VX+³×/E
+1 ´ÉÁöÃ³Âü´çÇÒ»õ³¢ 	´ÉÁö/NNG+Ã³Âü/NNG+´çÇÒ/UNK+»õ³¢/NNG
+1 ÀÌ °³³äÀÌ °¡ÃâÇÑ È£·ÎÀÚ½Ä¾Æ 	ÀÌ/NNP	°³³ä/NNG+ÀÌ/J	°¡Ãâ/NNG+ÇÏ/XSV+¤¤/E	È£·Î/NNG+ÀÚ½Ä/NNG+¾Æ/J
+1 ¾îÀÌ°¡ ¹è¸¦ ½ºÆ®·¹ÀÌÆ®·Î °­Å¸ÇÑ´Ù 	¾îÀÌ/NNG+°¡/J	¹è/NNG+¸¦/J	½ºÆ®·¹ÀÌÆ®/NNG+·Î/J	°­Å¸/NNG+ÇÏ/XSV+¤¤´Ù/E
+1 Ä¡Áî·Î ›X´ë±â ÃÄ›X¸Â°í ½Í³Ä 	Ä¡Áî/NNG+·Î/J	›X´ë±â/UNK	ÃÄ›X/UNK+¸Â/VV+°í/E	½Í/VX+³Ä/E
+1 ¹ÙÄû¹ú·¹º¸´Ù ´õ ÇÑ ¹Î´ë°¡¸® ¿À¹ßÅº 	¹ÙÄû/NNG+¹ú·¹/NNG+º¸/XSN+´Ù/P	´õ/MM	ÇÏ/VX+¤¤/E	¹Î/XPN+´ë°¡¸®/NNG	¿À¹ßÅº/NNG
+1 »ýÅÂ°èÀÇ ³«¿ÀÀÚ¾ß 	»ýÅÂ/NNG+°è/XSN+ÀÇ/J	³«¿À/NNG+ÀÚ/XSN+¾ß/XSN
+1 ´Ï±×µéÀº Á¤µµ¾ø³Ä ¾ÐÁ¦ºñÃ³·³ ±×¸® »ì¾Æ¶ó 	´Ï±×µéÀº/UNK	Á¤µµ/NNG+SPC/SPC+¾ø/VA+³Ä/E	¾ÐÁ¦/NNG+ºñ/XPN+Ã³·³/J	±×¸®/XR	»ì/VV+¾Æ¶ó/E
+1 ¸» Á·°°ÀÌ ÇÒ·¡ 	¸»/VV+¤©/E	Á·/NNB+°°ÀÌ/J	ÇÏ/VV+¤©·¡/E
+1 Á¥°¡´Â¼Ò¸®ÇÏ³× 	Á¥°¡´Â/UNK+¼Ò¸®/NNG+ÇÏ³×/UNK
+1 Á×À»³ðÀº ³Ê°ÚÁö 	Á×/NNG+À»/J+SPC/SPC+³ð/NNB+Àº/J	³Ê/NP+°ÚÁö/P
+1 ¿ô°Ü½Ã¹ß 	¿ô°Ü/UNK+½Ã¹ß/NNG
+1 ½Ã²ô·´´Ù ½Ã¹ß 	½Ã²ô·´/VA+´Ù/E	½Ã¹ß/NNG
+1 ÇÇÄÉÇÑ´Ù°í ¼³Ä¡´õ´Ï º´½Å 	ÇÇÄÉ/UNK+ÇÏ/XSV+¤¤´Ù°í/E	¼³Ä¡/NNG+´õ´Ï/P	º´½Å/NNG
+1 ¾Æ±î ±× ³×ÀÓ¸Æ¼¼Äû°¡ 	¾Æ±î/NNG	±×/IC	³×ÀÓ¸Æ¼¼Äû°¡/UNK
+1 Á¸³ª¿ô°Ü ÃÊµùµé 	Á¸³ª¿ô°Ü/UNK	ÃÊµù/NNG+µé/XSN
+1 ³ÍÀÌ½à³â¾Æ ¾îµð¼­ °³±×Áö±Ù¼ºÀ» ¹è¿ö°®°í 	³ÍÀÌ½à³â¾Æ/UNK	¾îµð/NP+¼­/J	°³±×Áö/UNK+±Ù¼º/NNG+À»/J	¹è¿ì/VV+¾î/E+°®/VX+°í/E
+1 ÀÌ »¡°»ÀÌ »õ³¢´Â ¿åÁú¸¸ÇÏ°í Áö·²ÁúÀ» ÇÏ´õ¶ó 	ÀÌ/NNP	»¡°»ÀÌ/NNG	»õ³¢/NNG+´Â/J	¿åÁú/NNG+¸¸ÇÏ/NNG+°í/J	Áö·²ÁúÀ»/UNK	ÇÏ/NNP+´õ¶ó/P
+1 ¿­¶ó Â¥Áõ³ª°Ô ¸»ÇÏ³× ¾¾ºØ 	¿­/VV+¶ó/E	Â¥Áõ/NNG+³ª/VV+°Ô/E	¸»/NNG+ÇÏ/XSV+³×/E	¾¾ºØ/UNK
+1 À¯°¨Àº ³¢»Ô 	À¯°¨/NNG+Àº/J	³¢»Ô/UNK
+1 ±×µû±¸·Î ÇÏÁö¸¶ 	±×µû±¸·Î/UNK	ÇÏ/VX+Áö¸¶/E
+1 ½Ã»×ÅÊ¾Æ ÀÌ»óÇÑ°É·Î ¿­³½´Ù 	½Ã»×ÅÊ¾Æ/UNK	ÀÌ»ó/NNG+ÇÑ°É·Î/UNK	¿­³½´Ù/UNK
+1 ¾îµð¼­ ³ª´ë³ª ±×³É ´ÚÄ¡°í ³×³× °Å·Á ½Ê»õ¾ß 	¾îµð/NP+¼­/J	³ª/VX+¾Æ/E+´ë/VX+¾î/E+³ª/VX+¾Æ/E	±×³É/MAG	´Ú/NNG+Ä¡°í/J	³×³×/MAG	°Å¸®/VV+¾î/E	½Ê»õ¾ß/UNK
+1 °³Ã÷ºñ¾ö¸¶Ã¢³âÀÓ 	°³Ã÷ºñ/UNK+¾ö¸¶/NNG+Ã¢³âÀÓ/UNK
+1 ´Ô°°Àº»õ³¢¶û ½Î¿ì±â ½ÈÀ¸´Ï±î¿ä 	´Ô/XSN+°°/VA+Àº/E+»õ³¢/NNG+¶û/J	½Î¿ì/VV+±â/E	½È/VA+À¸´Ï±î¿ä/E
+1 µÅÁöÄÝ·¹¶û ¶ËÃ³¸ÔÀÓ 	µÅÁö/NNG+ÄÝ·¹/NNP+¶û/J	¶ËÃ³¸ÔÀÓ/UNK
+1 °ÅÁö»õ³¢``½Å°íÇØºÁ 	°ÅÁö/NNG+»õ³¢/NNG	``/SW	½Å°í/NNG+ÇÏ/XSV+¾î/E+º¸/VX+¾Æ/E
+1 ´«±òÀ» ÈÄºñ¸±±î? 	´«±ò/NNG+À»/J	ÈÄ/NNG+ºñ¸®/VA+¤©±î/E	?/SF
+1 Á¸¸¸ÇÑ»õ²î°¡ ¾îµð¼­ ±õÃÄ? 	Á¸¸¸ÇÑ»õ²î°¡/UNK	¾îµð/NP+¼­/J	±õÃÄ/UNK	?/SF
+1 Áö¶öÇÑ´Ù »ç¹ß¸é °¡Æ°»õ³¢ 	Áö¶ö/NNG+ÇÏ/XSV+¤¤´Ù/E	»ç¹ß¸é/NNG	°¡Æ°/UNK+»õ³¢/NNG
+1 ´ÏµéÀÌ ¹Ù±¼ ÇØ¹åÀ»¸®°¡ ÀÖ°Ú³Ä ¤»¤» 	´ÏµéÀÌ/UNK	¹Ù±¼/UNK	ÇØ¹åÀ»¸®°¡/UNK	ÀÖ/VA+°Ú³Ä/E	¤»¤»/SW
+1 ¿Â¶óÀÎ¿¡¼± ¾ÆÁÖ °³°°ÀÌ ±¸³×¿© 	¿Â¶óÀÎ/NNG+¿¡¼±/J	¾ÆÁÖ/NNG	°³/NNG+°°ÀÌ/J	±¸/NR+³×/NR+¿©/XSN
+1 ¾Æ ½Ã ÆÈ ¿£¾¾ 	¾Æ/NNG	½Ã/NNB	ÆÈ/NR	¿£¾¾/NNG
+1 ³ªº¸¸é °¢¿ÀÇØ¶ó µðÁúÁØºñÇØ¶ó 	³ª/VX+¾Æ/E+º¸/VX+¸é/E	°¢¿À/NNG+ÇÏ/XSV+¶ó/E	µðÁúÁØ/UNK+ºñÇÏ/VV+¶ó/E
+1 ¹«½¼ Àú·± ¶Ç¶óÀÌ °°Àº ³à¼®ÀÌ ¤»¤» 	¹«½¼/MM	Àú·¯/VV+¤¤/E	¶Ç¶óÀÌ/NNG	°°/VA+Àº/E	³à¼®/NNB+ÀÌ/J	¤»¤»/SW
+1 ¸Ó¸® ±¼¸®´Ù°¡ ÇÇÅäÇÒ »õ²¥!! 	¸Ó¸®/NNG	±¼¸®/VV+´Ù°¡/E	ÇÇÅäÇÒ/UNK	»õ²¥/UNK	!!/SF
+1 ±â½ÃÅ° 	±â½ÃÅ°/UNK
+1 ½Ã²ô·¯ ¾¾¹ß ÇÑÆÇ³²¾Ò¾î 	½Ã²ô·¯/UNK	¾¾¹ß/UNK	ÇÑÆÇ/NNG+³²/VV+¾Ò¾î/E
+1 Á¨Àå~~šx 	Á¨Àå/IC	~~/SW	šx/UNK
+1 °á´Ô ¾ó±¼ °³º´½Å 	°á´Ô/UNK	¾ó±¼/NNG	°³º´½Å/UNK
+1 ¾Æ Á¸³» ÂîÁú´ë³× 	¾Æ/NNG	Á¸³»/UNK	ÂîÁú´ë³×/UNK
+1 ´ÚÄ¡°íÀÖ¾î 	´ÚÄ¡/VV+°í/E+ÀÖ/VX+¾î/E
+1 Á¸³ª ¸øÇÏ´Ï±î ±ÛÄ¡ 	Á¸³ª/UNK	¸ø/MAG+ÇÏ/XSV+´Ï±î/E	±ÛÄ¡/UNK
+1 Á¸³ª ¸øÇØ 	Á¸³ª/UNK	¸øÇÏ/VV+¾î/E
+1 ÀÌ°Å °³³ä¾ÇÀÌ´Ù ¶ð´ì±â¾ß 	ÀÌ°Å/NP	°³³ä/NNG+¾Ç/XSN+ÀÌ´Ù/P	¶ð´ì±â¾ß/UNK
+1 ½Î¹°¾î 	½Î¹°¾î/UNK
+1 ´õÀÌ»ó ±õÃß¸é ¹â¾î¹ö¸±Å×´Ï Á¶½ÉÇÏ¼À 	´õÀÌ»ó/NNG	±õÃß¸é/UNK	¹â/VV+¾î/E+¹ö¸±Å×´Ï/UNK	Á¶½É/NNG+ÇÏ¼À/UNK
+1 ¿åÇÏ³Ä°í ¹ÌÄ£³â¾Æ »ç¹æ¿¡¼­ ½Î¿ö! ½Î¿ö 	¿å/NNG+ÇÏ/XSV+³Ä°í/E	¹ÌÄ£³â/NNG+¾Æ/J	»ç¹æ/NNG+¿¡¼­/J	½Î¿ì/VV+¾î/E	!/SF	½Î¿ì/VV+¾î/E
+1 ¹ÌÃÅ³ª 	¹ÌÃÅ³ª/UNK
+1 ¾¾¹ß³ÑÀÌ ÀÎ°£µÇ¼­ »çµµ µÇ¸é ³ªµµ³ªÇÒ²¨Áö 	¾¾¹ß³ÑÀÌ/UNK	ÀÎ°£/NNG+µÇ¼­/UNK	»ç/VV+¾Æµµ/E	µÇ/VV+¸é/E	³ªµ¹/VV+³ª/E+ÇÒ²¨Áö/UNK
+1 °³ÀÚ½»¾Æ ¹ÌÄ£³ð 	°³ÀÚ½»¾Æ/UNK	¹ÌÄ£³ð/NNG
+1 ¶Ç¶óÀÌ³ª? 	¶Ç¶óÀÌ/NNG+³ª/J	?/SF
+1 ½Ã¹Ù ¾îµð¼­ Áö¶öÀ» ÇÏ³Ä 	½Ã¹Ù/UNK	¾îµð/NP+¼­/J	Áö¶ö/NNG+À»/J	ÇÏ/NNP+³Ä/P
+1 ¾Æ ½Ã¹Ù »çÃÌ¾ð´Ï°¡ ÇØº¸°í½Í´Ù°íÇØ¼­ 	¾Æ/NNG	½Ã¹Ù/UNK	»çÃÌ/NNG+¾ð´Ï/NNG+°¡/J	ÇØ/NR+º¸/NNB+°í/J+SPC/SPC+½Í/VX+´Ù°í/E+SPC/SPC+ÇØ/NR+¼­/J
+1 Àý¶ó Àç¼ö¾÷°Ô ÇÏ³× 	Àý/VV+¤©¶ó/E	Àç/XPN+¼ö¾÷/NNG+°Ô/XSN	ÇÏ/VV+³×/E
+1 ³»°¡ 1µîÀÌ ±×´ë·Î 18 	³»°¡/VV+¾Æ/E	1/SN	µî/NNB+ÀÌ/J	±×´ë·Î/MAG	18/SN
+1 Á¡¼ö Ã³ºÁ°³»ö±â¾ß 	Á¡¼ö/NNG	Ã³ºÁ°³»ö±â¾ß/UNK
+1 ½Ç·ÂÀÌ ±×·¸°Ô ÁÁ¾Æ¼­ µØÁ³³ª 	½Ç·Â/NNG+ÀÌ/J	±×·¸/VA+°Ô/E	ÁÁ/VA+¾Æ¼­/E	µØÁö/VV+¤¶³ª/E
+1 ¾Ë°Ú´Ù º´½Å´Ù 	¾Ë/VV+°Ú´Ù/E	º´½Å´Ù/UNK
+1 ³ª´ëÁö¸¶ ¾ÕÀ¸·Î °Á~ 	³ª/VX+¾Æ/E+´ë/VX+¾î/E+Áö/VX+¸¶/E	¾Õ/NNG+À¸·Î/J	°Á/UNK	~/SW
+1 ¸øÇÏ´Â°Å ÀÛÀÛ ¹ÙÁá´õ´Ï Ã³±â¾î¿À¸£°í Áö¶ö 	¸ø/MAG+ÇÏ/XSV+´Â/E+°Å/NNB	ÀÛÀÛ/UNK	¹ÙÁá´õ´Ï/UNK	Ã³/XPN+±â¾î¿À¸£/VV+°í/E	Áö¶ö/NNG
+1 Áö¼Ó½Ã°£ ±×µû±¸³Ä? 	Áö¼Ó/NNG+½Ã°£/NNG	±×µû±¸³Ä/UNK	?/SF
+1 ¾Æ¾¾¹ß»õ³¢¾ß 	¾Æ¾¾/NNG+¹ß/XPN+»õ³¢/NNG+ÀÌ¾ß/P
+1 ¾Ë¾ÒÀ¸´Ï°¡ ²¨Á® »¡¸®³ª°¡ 	¾Ë/VV+¾ÒÀ¸´Ï/E+°¡/J	²¨Áö/VV+¾î/E	»¡¸®/MAG+³ª°¡/J
+1 ³»¸¾ÀÌ¶ó°í ½Ê¼¼¾ß ¿­¹Þ´Ï? 	³»¸¾/UNK+ÀÌ¶ó°í/P	½Ê/NR+¼¼/XSN+¾ß/P	¿­¹Þ/VV+´Ï/E	?/SF
+1 ¤µ¤² ³ª À¯µù¾Æ´Ï°Åµç? 	¤µ¤²/SW	³ª/NNG	À¯µù¾Æ´Ï/UNK+°Åµç/P	?/SF
+1 ¾ß ¿¹½½°øÁÖ ´Ïµµ²¨Á® 	¾ß/NNG	¿¹½½/UNK+°øÁÖ/NNG	´Ïµµ/UNK+²¨Áö/VV+¾î/E
+1 ÁÁÀº¸»·ÎÇÒ¶§ ÀÔÁ» ½Î¹°°íÀÖ¾î¶ó °³ 	ÁÁÀº/MM+¸»·ÎÇÒ¶§/UNK	ÀÔÁ»/UNK	½Î/NNG+¹°°í/NNG+ÀÖ/XSV+¾î¶ó/E	°³/NNG
+1 ¤µ¤²¤¤ 	¤µ¤²¤¤/SW
+1 ´ÚÃ³°³¾ß 	´ÚÃ³°³¾ß/UNK
+1 ´Ï³ª ´ÚÃÄ À¯µù³ð¾Æ 	´Ï/NP+³ª/J	´ÚÄ¡/VV+¾î/E	À¯µù³ð¾Æ/UNK
+1 ¾ß ´Ï°¡ ÆÄ¸®ÇÑÅ× ±õÃÆ³Ä? 	¾ß/NNG	´Ï/NP+°¡/J	ÆÄ¸®/NNG+ÇÑÅ×/J	±õÃÆ³Ä/UNK	?/SF
+1 ¤±¤º³âµé¾Æ ²¨Á®¶ó 	¤±¤º/SW	³â/NNG+µé/XSN+¾Æ/J	²ô/VV+¾î/E+Áö/VX+¶ó/E
+1 ¾ßÂÌ¾Ò³Ä Æ¢Áö¸¶^^ 	¾ß/XPN+ÂÌ/VV+¾Ò³Ä/E	Æ¢/VV+Áö¸¶/E	^^/SW
+1 À¯µùÀÌ´Ï±î ÂÌ¾Æ¼­ Æ¢¾ú³Ä 	À¯µù/UNK+ÀÌ´Ï±î/P	ÂÌ/VV+¾Æ¼­/E	Æ¢/VV+¾ú³Ä/E
+1 Á¿µµ¿ÀºêÁ¿½º¾¾¹ßÁ¿³»¹Ì¾ÃÀÚÁö 	Á¿µµ¿ÀºêÁ¿½º¾¾¹ßÁ¿³»¹Ì¾ÃÀÚÁö/UNK
+1 ´ýºñ¶ó°í Á¶»§»õ¾ß 	´ýºñ/VV+¶ó°í/E	Á¶»§»õ¾ß/UNK
+1 »ç¶÷µé °× ¸øÇÏ°Ô ÇÏ°í½Í³ª µ¹¾ÆÀÌ»õ³¢µé 	»ç¶÷/NNG+µé/XSN	°×/UNK	¸øÇÏ/VX+°Ô/E	ÇÏ/VX+°í/E+½Í/VX+³ª/E	µ¹/XPN+¾ÆÀÌ/NNG+»õ³¢/NNG+µé/XSN
+1 ¹ÌÄ£ Á¿º´½Å ½à°£³ª»õ³¢ 	¹ÌÄ¡/VV+¤¤/E	Á¿º´½Å/UNK	½à°£³ª/UNK+»õ³¢/NNG
+1 °³»õ³¢µé¾Æ ¿åÇÏÁö¸¶ 	°³/XPN+»õ³¢/NNG+µé/XSN+¾Æ/J	¿å/NNG+ÇÏ/XSV+Áö¸¶/E
+1 Àü ´Ô°°Àº ¶Êºý¿¡ Á¿°°Àº ºé½ÅÀÌ ¾Æ´Ï¶ó¼­¿ä ¤» 	Àú/NP+¤¤/J	´Ô°°Àº/UNK	¶Êºý¿¡/UNK	Á¿°°/VA+Àº/E	ºé½ÅÀÌ/UNK	¾Æ´Ï/VA+¶ó¼­¿ä/E	¤»/SW
+1 ´©°¡ ÀÌÆÇ ±×Áö°°Àº °× ÇÏ°í½Í³ª 	´©°¡/NNG	ÀÌÆÇ/NNG	±×Áö/NNG+SPC/SPC+°°/VA+Àº/E	°×/UNK	ÇÏ/VX+°í/E+½Í/VX+³ª/E
+1 ¾Æ ¹ÌÄ£ ´õ µÚ·Î°¡ 	¾Æ/NNG	¹ÌÄ¡/VV+¤¤/E	´õ/MM	µÚ/NNB+·Î°¡/J
+1 ¶îµô¾Æ ½Î°¡ÁöÇÏ°í´Â 	¶îµô¾Æ/UNK	½Î/NNG+°¡Áö/NNG+ÇÏ°í´Â/J
+1 ´Ï°¡ ¸»´ë²ÙÇÏ´Ï±î ±×·¸Áö ¾Ã¼¼¾ß 	´Ï/NP+°¡/J	¸»/XPN+´ë²Ù/NNG+ÇÏ/XSV+´Ï±î/E	±×·¸Áö/IC	¾Ã¼¼¾ß/UNK
+1 ³ª¿Í¼­ ¶ã·¡? 	³ª¿À/VV+¾Æ¼­/E	¶ß/VV+¤©·¡/E	?/SF
+1 ´ÚÄ¡°í ³ª¿Í 	´Ú/NNG+Ä¡°í/J	³ª/NP+¿Í/J
+1 Ã³¸Â°í ½Í³ª ¾Æ³ª ÀÔ´ÚÃÄ 	Ã³¸Â°í/UNK	½Í/VX+³ª/E	¾Æ³ª/NNP	ÀÔ´ÚÃÄ/UNK
+1 ´Ï¿¡¹Ì ´ë°¥Åë »Ñ¼Å¹ö·Á 	´Ï¿¡¹Ì/UNK	´ë°¥Åë/NNG	»Ñ¼Å¹ö·Á/UNK
+1 ³ª ÃÄ¸Â°í½Í³Ä ´Ù 	³ª/NNG	ÃÄ¸Â/UNK+°í/E+½Í/VX+³Ä/E	´Ù/NNG
+1 ³Ê ±× ¾ÆÀÌµð Á¢´Â°Ô Á¶À»²¨´Ù Â¥Àú~ 	³Ê/NP	±×/IC	¾ÆÀÌµð/NNG	Á¢/VV+´Â°Ô/E	Á¶À»²¨´Ù/UNK	Â¥Àú/UNK	~/SW
+1 ±×·¯°Ô ¿Ö ¿ÀºüÇÑÅ× ±õÃÆ´Ï? 	±×·¯/VX+°Ô/E	¿Ö/NNP	¿Àºü/NNG+ÇÑÅ×/J	±õÃÆ´Ï/UNK	?/SF
+1 »çÄª¹ý ¾Ç¼¼»¡ÀÌ³× »çÄª¹ý ¤´ ¼­Æ÷ÅÍÁî´ÜÀÌ¶ó°í ±õÄ¡³× 	»çÄª¹ý/UNK	¾Ç¼¼»¡/UNK+ÀÌ³×/P	»çÄª¹ý/UNK	¤´/SW	¼­Æ÷ÅÍ/NNP+Áî´Ü/UNK+ÀÌ¶ó°í/P	±õÄ¡³×/UNK
+1 ¿ÖÀÌ¸® ³ª´ï? Áö²¬ÀÌÁö¸¶ 	¿ÖÀÌ¸®/MAG	³ª/VX+¾Æ/E+´ë/VX+¤±/E	?/SF	Áö²¬ÀÌ/VV+Áö¸¶/E
+1 ¾Æ»öÈ÷°¡ ¾îÂ¼¶ó°í 	¾Æ»öÈ÷°¡/UNK	¾îÂ¼/VV+¶ó°í/E
+1 Á¶³½ ¸¸Á·ÇÏ³× 	Á¶³½/UNK	¸¸Á·/NNG+ÇÏ/XSA+³×/E
+1 ¾ß ÂîÁúÀÌµé¾Æ 	¾ß/NNG	ÂîÁúÀÌ/NNP+µé/XSN+¾Æ/J
+1 ÇÏ·ç Á¤Áö ´çÇØ¾ß Á¤½ÅÂ÷¸®Áö ¤µ¤²¾Æ 	ÇÏ·ç/NR	Á¤Áö/NNG	´çÇÏ/VV+¾Æ¾ß/E	Á¤½ÅÂ÷¸®/VV+Áö/E	¤µ¤²/SW	¾Æ/J
+1 ½ÃÅÐ·Ã¾Æ 	½ÃÅÐ·Ã¾Æ/UNK
+1 ¶Ç¶óÀÌµéÀÌ¿©~~ 	¶Ç¶óÀÌ/NNG+µé/XSN+ÀÌ¿©/P	~~/SW
+1 ¹ÌÄ£ ¤Ñ¤Ñ Á¥°¡À½ 	¹ÌÄ¡/VV+¤¤/E	¤Ñ¤Ñ/SW	Á¥°¡À½/UNK
+1 Çæ ½Ã¹ß 	Çã/VV+¤©/E	½Ã¹ß/NNG
+1 ÁÖ´óÀÌ·Î ÃÄ½Î¿ì³× 	ÁÖ´óÀÌ·Î/UNK	ÃÄ½Î¿ì³×/UNK
+1 ÀÌ¾Ã¼¼¾ß ÀúÀåÆÄÀÏ¾ø´Ù°í 	ÀÌ¾Ã¼¼¾ß/UNK	ÀúÀå/NNG+ÆÄÀÏ/NNG+SPC/SPC+¾ø/VA+´Ù°í/E
+1 ½Ã¹ß ÇöÇÇ±ò·¡? 	½Ã¹ß/NNG	ÇöÇÇ±ò·¡/UNK	?/SF
+1 ÀüÈ­¹è¶ó ¼½È÷¾ß 	ÀüÈ­/NNG+¹è/XSN+¶ó/P	¼½È÷¾ß/UNK
+1 ¾Æ °³½Ã¹ß 	¾Æ/NNG	°³½Ã¹ß/UNK
+1 ±×¸¯ ¤ÇÀú¾Ö±³³âÀº 	±×¸¯/UNK	¤Ç/SW	Àú/XPN+¾Ö±³/NNG+³âÀº/UNK
+1 Áö¿¬¾Æ ¶§¸®Áö¸»°í ²¨Á®¶ó 	Áö¿¬/NNG+¾Æ/XSN	¶§¸®/VV+Áö/E+¸»°í/J	²ô/VV+¾î/E+Áö/VX+¶ó/E
+1 ÀÌÁ¦ Á×¾ú³× °³½Ã¹ß 	ÀÌÁ¦/NNG	Á×/VV+¾ú³×/E	°³½Ã¹ß/UNK
+1 Áö²ô·¯±â¾ß ¤»¤» 	Áö²ô·¯±â¾ß/UNK	¤»¤»/SW
+1 °í¾Æ»õ³¢¾Æ~ 	°í¾Æ/NNG+»õ³¢/NNG+¾Æ/XSN	~/SW
+1 ´Ï³âÀº ¿åÀÎ°Å ¸Â¾Æ? 	´Ï³âÀº/UNK	¿åÀÎ°Å/UNK	¸Â¾Æ/IC	?/SF
+1 ¤¹¤¹¾Æ´ÂÃ´ÇÏ´Ù °³ÅÐ¸®½Ã³× 	¤¹¤¹/SW	¾Æ´Â/UNK+Ã´ÇÏ/VA+´Ù/E	°³/XPN+ÅÐ¸®/VV+½Ã³×/E
+1 ºÎ¸ð´ÂÀÖ³Ä? ´Ï¾î¹Ì ¿©±âÀÖÀ¸´Ï°¡ µ¥·Á°¡ÁÖ 	ºÎ¸ð/NNG+´Â/J+SPC/SPC+ÀÖ/VX+³Ä/E	?/SF	´Ï¾î¹Ì/UNK	¿©±â/UNK+ÀÖ/VA+À¸´Ï/E+°¡/J	µ¥·Á°¡ÁÖ/UNK
+1 Á×ÀÌÁö ¸øÇÏ´Â»ö±â°¡ 	Á×ÀÌ/VV+Áö/E	¸øÇÏ/VX+´Â/E+SPC/SPC+»ö±â/NNG+°¡/J
+1 Á¸³ªµÚÁö³× µÚÁö´Â°Ç 	Á¸³ª/UNK+µÚÁö/VV+³×/E	µÚÁö/VV+´Â/E+°Ç/XSN
+1 ¾ß º´½Å¾Æ ÁöÇÏ¿¡¼­ ºÃ°Åµç 	¾ß/NNG	º´½Å/NNG+¾Æ/J	ÁöÇÏ/NNG+¿¡¼­/J	º¸/VX+¤¶°Åµç/E
+1 Áö´Ï°¡´Ù °³°¡¿ôÀ¸¸é¼­ ¶Ë½Î°Ú´Ù ¤» 	Áö´Ï°¡´Ù/UNK	°³/VV+¾î/E+°¡/VX+¾Æ/E+SPC/SPC+¿ô/VV+À¸¸é¼­/E	¶Ë½Î/VV+°Ú´Ù/E	¤»/SW
+1 °Á¹ß´Û°íÀß°É ´ÚÃ³ 	°Á¹ß/UNK+´Û/VV+°í/E+Àß°É/UNK	´ÚÃ³/UNK
+1 Á¸³ª ÂîÁú°Å¸®³× 	Á¸³ª/UNK	ÂîÁú/UNK+°Å¸®/NNG+³×/P
+1 ´õÇÁ ÀÌ»õ...³¢´Â ¶Ç ¿Ö±×·¯³Ä 	´õÇÁ/UNK	ÀÌ»õ/UNK	.../SF	³¢/VV+´Â/E	¶Ç/MAJ	¿Ö/NNP+SPC/SPC+±×·¯/VV+³Ä/E
+1 Ã³¿ôÁö¸¶ ¾¾¹ß 	Ã³/XPN+¿ô/VV+Áö¸¶/E	¾¾¹ß/UNK
+1 º° °³»õ³¢¾ß Âü³ª ¤§¤§ 	º°/NNG	°³/XPN+»õ³¢/NNG+¾ß/XSN	Âü/VV+³ª/E	¤§¤§/SW
+1 ¾îµð¼­ º´½Å¾Æ 	¾îµð/NP+¼­/J	º´½Å/NNG+¾Æ/J
+1 ³ª¾îÂ÷ÇÇ Áö±Ý ³ª°É°Å¾ß 18 	³ª/XPN+¾îÂ÷ÇÇ/MAG	Áö±Ý/NNG	³ª/VX+¾Æ/E+°É/VX+¤©/E+°Å/NNB+¾ß/P	18/SN
+1 ÆäÀÌÆ®Á¢ÀÌ º´½Å¾Æ 	ÆäÀÌÆ®/UNK+Á¢ÀÌ/NNG	º´½Å/NNG+¾Æ/J
+1 ¿Í ¾îÀÌ°¡¾ø³× ²¨Á®¶ó 	¿Í/IC	¾îÀÌ/NNG+°¡/J+SPC/SPC+¾ø/VA+³×/E	²ô/VV+¾î/E+Áö/VX+¶ó/E
+1 ¹ä¿¡ °³³ä Ã³ ¸»¾Æ¸Ô¾ú±¸³ª 	¹ä/NNG+¿¡/J	°³³ä/NNG	Ã³/NNG	¸»/VV+¾Æ/E+¸Ô/VX+¾ú±¸³ª/E
+1 ´Ï ¿äÁò Àü³ª ±õÄ£´Ù 	´Ï/NP	¿äÁò/NNG	Àü³ª/UNK	±õÄ£´Ù/UNK
+1 ¾Æ ÁøÀÚ ½Ã¹ß ´Ù¸¥Á¾Á· ÀüºÎµô·¹ÀÌ 	¾Æ/NNG	ÁøÀÚ/NNG	½Ã¹ß/NNG	´Ù¸¥/MM+Á¾Á·/NNG	ÀüºÎ/UNK+µô·¹ÀÌ/NNG
+1 ÀÌ¾ß½Ã¹ß³ð¾Æ ´Ï¹ÌÃÄ¸Ó°Å °³»õ²¥ 	ÀÌ¾ß/UNK+½Ã¹ß/NNG+³ð¾Æ/UNK	´Ï¹ÌÃÄ¸Ó°Å/UNK	°³»õ²¥/UNK
+1 ¿Ã·¡´ë·Î´î´ë°¡Áö ½Ã¹ß 	¿Ã·¡/UNK+´ë·Î/J+´î´ë°¡Áö/UNK	½Ã¹ß/NNG
+1 Á×À»·¡ ´Ï¤Ó ¿î¿µÀÚ ³ÊÁ×¾ú¾î ³Ê°Å±â¾îµð¾ß 	Á×/VV+À»·¡/E	´Ï/NP	¤Ó/SW	¿î¿µ/NNG+ÀÚ/XSN	³ÊÁ×¾ú¾î/UNK	³Ê°Å±â¾îµð¾ß/UNK
+1 Á×°í »èÁ¦ÇÒ·¡ ¸Â°í »èÁ¦ÇÒ·¡ 	Á×/VV+°í/E	»èÁ¦/NNG+ÇÏ/XSV+¤©·¡/E	¸Â/VV+°í/E	»èÁ¦/NNG+ÇÏ/XSV+¤©·¡/E
+1 Á¸³ª ·ºÁö¶ö ½ºÅ³¸Â°í 	Á¸³ª/UNK	·ºÁö¶ö/UNK	½ºÅ³/NNG+¸Â/VV+°í/E
+1 12¿À½ÇÅ² ¹ý»ç Á¸³ª ³ôÀÌ µÕµÕ¶ß°í 	12/SN	¿À½ÇÅ²/UNK	¹ý»ç/NNG	Á¸³ª/UNK	³ôÀÌ/NNG	µÕµÕ/XR+SPC/SPC+¶ß/VV+°í/E
+1 ³ª ¶§¸®°í ´«µµ ÈÄº­ÆÍÀ½ 	³ª/NNG	¶§¸®/VV+°í/E	´«/NNG+µµ/J	ÈÄº­ÆÍÀ½/UNK
+1 Áö¶öÀ» ÇÏ¼¼¿© Áö¶öÀ» 	Áö¶ö/NNG+À»/J	ÇÏ¼¼¿©/UNK	Áö¶ö/NNG+À»/J
+1 ¸öÁ» Ç®¾îº¸ÀÚ °³»õ³¢¾ß 	¸öÁ»/UNK	Ç®/VV+¾î/E+º¸/VX+ÀÚ/E	°³/XPN+»õ³¢/NNG+¾ß/XSN
+1 ¾¾¹ß ¾î¶² ¸ÛÅÖ±¸¸®°¡ ÀÌµý°Å ÃÄ ¸¸µé°í Áö¶öÀÎµ¥ 	¾¾¹ß/UNK	¾î¶²/MM	¸ÛÅÖ±¸¸®/NNG+°¡/J	ÀÌµý°Å/UNK	Ä¡/VX+¾î/E	¸¸µé/VV+°í/E	Áö¶ö/NNG+ÀÎµ¥/P
+1 Àúµý»õ³¢µé¶§¹®¿¡ ¶¼°ÅÁö·Î ÀâÇô¼­ ¿å¸Ô³× 	Àú/NP+µý/NNB+SPC/SPC+»õ³¢/NNG+µé/XSN+SPC/SPC+¶§¹®/NNB+¿¡/J	¶¼/NNG+°ÅÁö/NNG+·Î/J	ÀâÈ÷/VV+¾î/E+¼­/VX+¾î/E	¿å¸Ô/VV+³×/E
+1 ¹ÌÄ£³ð¾Æ ³Ê´Â ÁÖµÕ¾Æ¸® ´ÚÃÄ 	¹ÌÄ£³ð/NNG+¾Æ/J	³Ê/NP+´Â/J	ÁÖµÕ¾Æ¸®/NNG	´ÚÄ¡/VV+¾î/E
+1 ÈÄ¶ó´Þ³ðÀÌ ´ß¶Ë²¿°°Àº³ð¾Æ 	ÈÄ¶ó´Þ³ðÀÌ/UNK	´ß/NNG+¶Ë²¿/NNG+SPC/SPC+°°/VA+Àº/E+SPC/SPC+³ð/NNB+¾Æ/J
+1 ´ÚÃÄ ³­ ÀÌ¼ºÀºÀÌ´Ù 	´ÚÄ¡/VV+¾î/E	³ª/VV+¤¤/E	ÀÌ¼ºÀº/NNP+ÀÌ/XSN+´Ù/P
+1 ¾Æ, ¾¾¹ß Á¸³ª ´ä´äÇÏÁÒ 	¾Æ/NNG	,/SP	¾¾¹ß/UNK	Á¸³ª/UNK	´ä´ä/XR+ÇÏ/XSA+ÁÒ/E
+1 ¤Ñ¤Ñ½Ê³âµé¾Æ ´ÚÃÄ 	¤Ñ¤Ñ/SW	½Ê/NR+³â/XSN+µé/XSN+¾Æ/J	´ÚÄ¡/VV+¾î/E
+1 ±¸¶ó¾È±î°í Á¸³ª Àß Á×½À´Ï´Ù 	±¸¶ó¾È/UNK+±î/VV+°í/E	Á¸³ª/UNK	ÀÚ/VV+¤©/E	Á×/VV+½À´Ï´Ù/E
+1 Àç¼ö ¾ø¾î, ¹ÌÄ£ 	Àç¼ö/NNG	¾ø/VA+¾î/E	,/SP	¹ÌÄ¡/VV+¤¤/E
+1 ¾¾¹ß ³¯ ºñ²¿³Ä?... 	¾¾¹ß/UNK	³ª/NP+¤©/J	ºñ²¿/VV+³Ä/E	?/SF	.../SF
+1 ½ÃÇÁ ÇöÇÇ ±ò·¡ ¤²¤µ ÀÌ·± »õÅ°µéÀÌ ²À Àü¹ø±î±â³ª ÇöÇÇ¸¦ ¹«¼­¿öÇØ 	½ÃÇÁ/UNK	ÇöÇÇ/UNK	±ò/VV+¤©·¡/E	¤²¤µ/SW	ÀÌ·±/MM	»õÅ°/UNK+µéÀÌ/XSN	²À/MAG	Àü¹ø/NNG+±î±â/NNG+³ª/J	ÇöÇÇ¸¦/UNK	¹«¼­¿öÇÏ/VV+¾î/E
+1 Çö½ÇÁ¼¹ä»õ³¢°¡ ¤»¤» 	Çö½Ç/NNG+Á¼¹ä/UNK+»õ³¢/NNG+°¡/J	¤»¤»/SW
+1 ³Ê ³»´«¿¡ ¶Ù¸éÁ×ÀÎ´Ù ¸»±×´ë·Î Á×ÀÎ´Ù ... 	³Ê/NP	³»´«¿¡/UNK	¶Ù/VV+¸é/E+SPC/SPC+Á×ÀÌ/VV+¤¤´Ù/E	¸»/NNG+±×´ë·Î/NNG	Á×ÀÌ/VV+¤¤´Ù/E	.../SF
+1 ÇöÇÇ¶ã±î ÈÞ°¡³ª¿À¸é ´Ï µÚÁú·¡ °³½Ü¾Æ 	ÇöÇÇ¶ã±î/UNK	ÈÞ°¡/NNG+³ª¿À/VV+¸é/E	´Ï/NP	µÚÁö/VV+¤©·¡/E	°³½Ü¾Æ/UNK
+1 µðÁ®¾² ¾Ã¾î¹ö¸±¶ó 	µðÁ®¾²/UNK	¾Ã/VV+¾î/E+SPC/SPC+¹ö¸®/VX+¤©¶ó/E
+1 ¾¾¹ß °Íµé ³¯ ¾à¿Ã·Á?... 	¾¾¹ß/UNK	°Í/NNG+µé/XSN	³ª/NP+¤©/J	¾à¿Ã¸®/VV+¾î/E	?/SF	.../SF
+1 ½Ã¹ß Å«¸¶À½ ¸Ô°í ÇÇ½Ã¹æ °£ ³»°¡ ³¯¸° ÇÑ ½Ã°£À» º¸»óÇØ¶ó 	½Ã¹ß/NNG	Å«/XPN+¸¶À½/NNG	¸Ô/VV+°í/E	ÇÇ½Ã/NNG+¹æ/XSN	°¡/VV+¤¤/E	³»°¡/VV+¾Æ/E	³¯¸®/VV+¤¤/E	ÇÏ/VX+¤¤/E	½Ã°£/NNG+À»/J	º¸»ó/NNG+ÇÏ/XSV+¶ó/E
+1 Á¿ °°Àº ³ðµé¾Æ ³Ê³×´Â ¹ºµ¥ ÆÐÄ¡ ¶§¸¶´Ù ÀÌ Áö¶öÀÌ¾ß ¤µ¤² 	Á¿/NNG	°°/VA+Àº/E	³ð/NNB+µé/XSN+¾Æ/J	³Ê³×´Â/UNK	¹¹/NP+ÀÎµ¥/P	ÆÐÄ¡/NNG	¶§/NNG+¸¶´Ù/J	ÀÌ/NNP	Áö¶ö/NNG+ÀÌ¾ß/P	¤µ¤²/SW
+1 ±âº»ÀÌ ¿¡ÇÈ ¾ÆÀÌÅÛ µå¶ø. ¾¾¹ß²Ã·Á¶ó 	±âº»/NNG+ÀÌ/J	¿¡ÇÈ/NNP	¾ÆÀÌÅÛ/NNG	µå¶ø/NNG	./SF	¾¾¹ß/UNK+²Ã¸®/VV+¶ó/E
+1 ¾ÆÀÌÅÛµµ ÁÔ³» ¾ÈÁÖ´Âµ¥ 	¾ÆÀÌÅÛ/NNG+µµ/XSN	ÁÔ³»/UNK	¾È/XPN+ÁÙ/VV+´Âµ¥/E
+1 ½Å°íÇØ¹ö¸°´Ù ¾Ã»õ±âµé¾Æ Á»Àâ¾Æ¶ó°³ÀÚ½Äµé¾Æ 	½Å°í/NNG+ÇÏ/XSV+¾î/E+¹ö¸®/VX+¤¤´Ù/E	¾Ã»õ±âµé¾Æ/UNK	Á»/NNG+SPC/SPC+Àâ/VV+¾Æ¶ó/E+SPC/SPC+°³ÀÚ½Ä/NNG+µé/XSN+¾Æ/J
+1 ¤±¤·¤¤ µðºí¾¾¹ß»õ³¢¾ß 	¤±¤·¤¤/SW	µðºí¾¾¹ß/UNK+»õ³¢/NNG+ÀÌ¾ß/P
+1 Àú»õ³¢ ´©±¸¾ß ¤¡- °³»õ³¢ ¾ÆÂ¥Áõ³ª ´©±¸³Ä 	Àú»õ³¢/UNK	´©±¸/NP+ÀÌ¾ß/P	¤¡/SW	-/SW	°³/XPN+»õ³¢/NNG	¾ÆÂ¥Áõ³ª/UNK	´©±¸/NP+ÀÌ³Ä/P
+1 ÃÊ±Û¸µ»õ³¢ 	ÃÊ±Û¸µ/NNG+»õ³¢/NNG
+1 °ÅÁö°°Àº³ðÀÌ ´ÙÀÕ³Ä ¾ß ÀÌ °³»õ²¥ µ· ¾ø³Ä µ· 	°ÅÁö/NNG+SPC/SPC+°°/VA+Àº/E+SPC/SPC+³î/VV+¤±ÀÌ/E	´ÙÀÕ³Ä/UNK	¾ß/NNG	ÀÌ/NNP	°³»õ²¥/UNK	µ¹/VV+¤¤/E	¾ø/VA+³Ä/E	µ¹/VV+¤¤/E
+1 Á×¿© ºê·Á ¹ÌÄ£ ÀúÁú º¯ÅÂ »õ³¢ 	Á×¿©/NNG	ºê·Á/UNK	¹ÌÄ¡/VV+¤¤/E	ÀúÁú/NNG	º¯ÅÂ/NNG	»õ³¢/NNG
+1 ±è½Î´Ï´Ï´Â´Ï´Â¾ÖÀÚ¾æ 	±è½Î´Ï´Ï´Â´Ï´Â¾ÖÀÚ¾æ/UNK
+1 º´½Å Å©Å© ¹ÌÄ£³ð ¹æ±¸³ª ÃÄ ¸Ô¾î¶ó »×»× 	º´½Å/NNG	Å©Å©/MAG	¹ÌÄ£³ð/NNG	¹æ±¸/NNG+³ª/VV+¾Æ/E	Ä¡/VX+¾î/E	¸Ô/VV+¾î¶ó/E	»×»×/XR
+1 »õ³¢³× ÇÇ¿Â¿¡ žÍÄÉ ÀÌÇØ·Â µþ¸®´Â ÃÊµù½ÅµéÀÌ 	»õ³¢/NNG+³×/P	ÇÇ¿Â¿¡/UNK	žÍÄÉ/UNK	ÀÌÇØ/NNG+·Â/XSN	µþ¸®/VV+´Â/E	ÃÊµù/NNG+SPC/SPC+½Å/NNG+µé/XSN+ÀÌ/J
+1 ¤»¤»±×°ÍµµÄ³¸¯ÀÌ¶ó°í¾ÆÂÊÆÈ·ÁÄ³½ÃÁ»¹ß·¯°ÅÁö³â¾Æ~ 	¤»¤»/SW	±×°Í/NP+µµ/J	Ä³¸¯/UNK+ÀÌ¶ó°í/P+¾Æ/XSN+ÂÊÆÈ¸®/VV+¾î/E	Ä³½ÃÁ»¹ß·¯/UNK+°ÅÁö/NNG+³â¾Æ/UNK	~/SW
+1 ¹ÌÄ£~Á»µ·Á»¹ú¾î¶ó ¤» 	¹ÌÄ¡/VV+¤¤/E	~/SW	Á»µ·Á»/UNK+¹ú/VV+¾î¶ó/E	¤»/SW
+1 48½Ã°£³»·Î »¡¸® »èÁ¦ÇØ¶ó ½Ö³ð¾Æ »õ·Î Å°¿ï²¨´Ù 	48/SN	½Ã°£/NNG+³»·Î/UNK	»¡¸®/MAG	»èÁ¦/NNG+ÇÏ/XSV+¶ó/E	½Ö³ð/NNG+¾Æ/J	»õ·Î/MAG	Å°¿ì/VV+¤©/E+SPC/SPC+²¨/NNB+´Ù/P
+1 ¿ô±âÁö¸¶ ¹ÌÄ£³ð¾Æ ³Íµµ¹è ¾ÊÇß³Ä ¹ÌÄ£¾Æ 	¿ô±â/VV+Áö¸¶/E	¹ÌÄ£³ð/NNG+¾Æ/J	³Íµµ¹è/UNK	¾ÊÇß³Ä/UNK	¹ÌÄ£¾Æ/UNK
+1 ¹ÌÃÄ¼­ Áý¿¡ ½Ò¶³¾îÁ®µµ °×¿¡ ÃÄ¹Ú´Â ¹ÌÄ£³Ñ 	¹ÌÄ¡/VV+¾î¼­/E	Áý/NNG+¿¡/J	½Ò/NNG+SPC/SPC+¶³¾îÁö/VV+¾îµµ/E	°×¿¡/UNK	ÃÄ¹Ú´Â/UNK	¹ÌÄ£³Ñ/UNK
+1 ±×¸®°í ´Ï³× ¾ðÁ¦ Á×»§ÃÆ³Ä 	±×¸®°í/MAG	´Ï/NP+³×/XSN	¾ðÁ¦/NNG	Á×»§ÃÆ³Ä/UNK
+1 Ä¡Å² Èý ¹ÌÄ£»õ³¢ Ä¡´Â¼ø°£ ´ÏÆÐ¹è 	Ä¡Å²/NNG	Èý/MAG	¹ÌÄ£/UNK+»õ³¢/NNG	Ä¡´Â/UNK+¼ø°£/NNG	´ÏÆÐ¹è/UNK
+1 ¾Æ¾¾¹ß °³°ªµµ ¸ø¹«´Â°Å ¾Æ´Ò±î 	¾Æ¾¾¹ß/UNK	°³°ª/NNG+µµ/J	¸ø/MAG+¹«´À/VV+¤¤/E+°Å/NNB	¾Æ´Ï/VA+¤©±î/E
+1 »õ³¢µµ ¸Ç³¯ ¹º ÀÏÀÖÀ¸¸é ´øÆÄ¿¡ °®´ÙºÙ¿©¼­ ÂîÁú´ï ÀÌ»õ³¢ 	»õ³¢/NNG+µµ/XSN	¸Ç³¯/NNG	¹¹/NP+¤¤/J	ÀÏ/XPN+ÀÖ/VX+À¸¸é/E	´øÆÄ¿¡/UNK	°®´Ù/XR+SPC/SPC+ºÙÀÌ/VV+¾î¼­/E	ÂîÁú´ï/UNK	ÀÌ»õ³¢/UNK
+1 °³Á½¸Á½ç¾¾»¡ ¶Õ·Áµµ ½ç¾ðÁ¦¶Õ¾î¾¾ 	°³Á½¸Á½ç¾¾»¡/UNK	¶Õ¸®/VV+µµ/E	½ç¾ðÁ¦/UNK+¶Õ/VV+¾î/E+¾¾/NNG
+1 Á¦±æ ¸»ÇØ³õ°í ³ª´Ï Á¶³½ ¿ì¿ïÇÑ À¯³â±â 	Á¦±æ/IC	¸»/NNG+ÇÏ/XSV+¾Æ/E+³õ/VX+°í/E	³ª/VV+´Ï/E	Á¶³½/UNK	¿ì¿ï/NNG+ÇÏ/XSA+¤¤/E	À¯³â/NNG+±â/XSN
+1 "ÀÌ³ð ½¦Ä¼ Á×¾î!! ¸ÞÅ×¿À! 	"/SW	ÀÌ³ð/NNG	½¦Ä¼/UNK	Á×/VV+¾î/E	!!/SF	¸ÞÅ×/NNG+¿À/P	!/SF
+1 ¾Ö ´ÄÀºÀÌ ÀÚ½Ä¾Æ 	¾Ö/NNG	´ÄÀºÀÌ/NNG	ÀÚ½Ä/NNG+¾Æ/J
+1 Âü´Â°Å ¾Ë¾î ¾²¹Ù³ðÀÇ ¹ß·Ï½¦Ä¼ 	Âü/VV+´Â/E+°Å/NNB	¾Ë/VV+¾î/E	¾²¹Ù³ðÀÇ/UNK	¹ß·Ï½¦Ä¼/UNK
+1 µÚÁ³³ª? 	µÚÁö/VV+¤¶³ª/E	?/SF
+1 ½Ã¹ß³â¾Æ ¾Æ°¡¸® ´ÚÃ³ºÁ 	½Ã¹ß/NNG+³â¾Æ/UNK	¾Æ°¡¸®/NNG	´ÚÃ³ºÁ/UNK
+1 ¼±½ÃºñÆ®³×? Á¿±î~ 	¼±½Ã/NNG+ºñÆ®/NNG+³×/P	?/SF	Á¿±î/UNK	~/SW
+1 °³»õ³¢ FSS¸é´Ù³Ä 	°³/XPN+»õ³¢/NNG	FSS/SL	¸é´Ù³Ä/UNK
+1 B»¡¾Ò´Âµ¥ ½´¹ß 	B/SL	»¡/VV+¾Ò´Âµ¥/E	½´¹ß/UNK
+1 º´½ÅÆÀÇÏ³ªÀÖ³× ¤»¤» 	º´½Å/NNG+ÆÀÇÏ³ª/UNK+ÀÖ/VX+³×/E	¤»¤»/SW
+1 ¹ú·¹¶ó°í ÇÏ°í½Í¾ú´Ï ÁÖÁ¦¸¦¾Ë¾Æ º´½Å¾Æ 	¹ú·¹¶ó/NNG+°í/J	ÇÏ/VX+°í/E+½Í/VX+¾ú´Ï/E	ÁÖÁ¦/NNG+¸¦/J+SPC/SPC+¾Ë/NNG+¾Æ/J	º´½Å/NNG+¾Æ/J
+1 Ä¸ÃÄ¾ÈµÇ´ÂÁÙ¾Æ³Ä ¾Ö»õ³¢°¡ ¾îÀÌ°¡¾ø¾î¼­ 	Ä¸ÃÄ/NNG+¾ÈµÇ/VA+´Â/E+ÁÙ¾Æ³Ä/UNK	¾Ö/XPN+»õ³¢/NNG+°¡/XSN	¾îÀÌ/NNG+°¡/J+SPC/SPC+¾ø/VA+¾î¼­/E
+1 ³Ê³×¾ö¸¶ ÀÔ¿¡°É·¹¹°À½? ¤»¤» 	³Ê³×/UNK+¾ö¸¶/NNG	ÀÔ¿¡/UNK+°É·¹/NNG+¹°À½/NNG	?/SF	¤»¤»/SW
+1 ¼½ÅÊÀÌ¸é ¼¼¹äÁ×À½ÀÌ´Ù ³Ê 	¼½ÅÊ/UNK+ÀÌ¸é/P	¼¼¹ä/UNK+Á×À½/NNG+ÀÌ/J+´Ù/P	³Ê/NP
+1 Áø¾î ÁøÂ¥ ÀÌÇØ¾ÈµÅ º´½Å³â 	Áø¾î/UNK	ÁøÂ¥/NNG	ÀÌÇØ/UNK+¾ÈµÇ/VA+¾î/E	º´½Å/NNG+³â/XSN
+1 ´Ï¹Ì ±æ°¡ ¾¾ºÒ³â ¾ó¸¶³ª ÀßÇÏ³ªº¸ÀÚ 	´Ï¹Ì/UNK	±æ°¡/VV+¾Æ/E	¾¾ºÒ³â/UNK	¾ó¸¶³ª/MAG	ÀßÇÏ/VV+³ª/E+º¸ÀÚ/NNG
+1 Àúº´½Ã´Ï 	Àúº´½Ã´Ï/UNK
+1 ¾²·¹±âµé¾Æ °³³äÁ»Â÷·Á 	¾²·¹±â/NNG+µé/XSN+¾Æ/J	°³³ä/NNG+Á»Â÷·Á/UNK
+1 ÁøÂ¥ Àå¾ÖÀÎ Á¶·ç»õ³¢ 	ÁøÂ¥/NNG	Àå¾Ö/NNG+ÀÎ/P	Á¶·ç/NNG+»õ³¢/NNG
+1 Á¸³ª¸øÇØ 	Á¸³ª¸øÇØ/UNK
+1 ³ª´Ï ÆøÁ¸³ª¸ø½á¼­ Èû¾ÈÁØ°Å¾ä? 	³ª/VV+´Ï/E	ÆøÁ¸³ª/UNK+¸ø¾²/VV+¼­/E	Èû¾ÈÁØ°Å¾ä/UNK	?/SF
+1 ¾Æ¾ÚÃ¢ÁøÂ¥Á¸³ª¸øÇØ 	¾Æ¾ÚÃ¢/UNK+ÁøÂ¥/NNG+Á¸³ª¸øÇØ/UNK
+1 ³­ ½ºÅ³½á¼­ Àâ´Âµ¥ º´¾Æ 	³ª/VV+¤¤/E	½ºÅ³/NNG+¾²/VV+¾î¼­/E	Àâ/VV+´Âµ¥/E	º´/NNG+¾Æ/J
+1 º»µå ¹ÌÄ£³â ¤»¤» 	º»µå/NNG	¹ÌÄ£³â/NNG	¤»¤»/SW
+1 ÃÄ¹ß¶óÁÙ²² ±äÀå»¡¾Æ¶ó 	ÃÄ¹ß¶óÁÙ²²/UNK	±äÀå/NNG+»¡/VV+¾Æ¶ó/E
+1 ¾¾¹ß³â¾Æ ¼³Ä¡Áö¸»°í 	¾¾¹ß³â/NNG+¾Æ/XSN	¼³Ä¡/NNG+Áö¸»°í/UNK
+1 ¹ÌÄ£»õ³¢°¡ º°¸»¾ÈÇß´Âµ¥ °³º´½ÅÀÌ 	¹ÌÄ¡/VA+¤¤/E+SPC/SPC+»õ³¢/NNG+°¡/J	º°¸»¾È/UNK+ÇÏ/VV+¾Ò´Âµ¥/E	°³/XPN+º´½Å/NNG+ÀÌ/J
+1 º´½ÅÀÌ¾îÂ¼±¸ Áö¶ö ÀÌ»¡±î½Ã³ª 	º´½Å/NNG+ÀÌ/J+SPC/SPC+¾îÂ¼/VV+±¸/E	Áö¶ö/NNG	ÀÌ»¡/NNG+±ò/VV+½Ã³ª/E
+1 ±º´ë´Â ¹«½¼ °³Á¿µµ ¾¾¹ß 	±º´ë/NNG+´Â/J	¹«½¼/MM	°³Á¿/NNG+µµ/J	¾¾¹ß/UNK
+1 ÀÔÀ¸·Î ±º´ë°¡³Ä °³»õ³¢¾ß~ 	ÀÔ/NNG+À¸·Î/J	±º´ë/NNG+°¡/VV+³Ä/E	°³/XPN+»õ³¢/NNG+¾ß/XSN	~/SW
+1 ¹ÌÄ£»õ³¢°¡ È¥ÀÚ¸»À» ´ë·Î¿¡¼­¼ÒÁöÁö¸¦»õ³¢³× 	¹ÌÄ¡/VA+¤¤/E+SPC/SPC+»õ³¢/NNG+°¡/J	È¥ÀÚ/NNG+¸»/XSN+À»/J	´ë·Î/UNK+¿¡¼­/J+¼Ò/XPN+ÁöÁö/NNG+¸¦/J+»õ³¢/NNG+³×/P
+1 ½Ç·ÂÀÌ ¹®Á¦Áö ºé½Å»õ³¢µé ¶È¹Ù·ÎÇØ 	½Ç·Â/NNG+ÀÌ/J	¹®Á¦/NNG+Áö/XSN	ºé½Å/UNK+»õ³¢/NNG+µé/XSN	¶È¹Ù·Î/MAG+ÇÏ/XSA
+1 ¾Æ ¿ì¸®¿¤º´½Å¾Æ 	¾Æ/NNG	¿ì¸®/NP+¿¤º´½Å¾Æ/UNK
+1 Ç×»ó³Ê°°Àº »õ³¢°¡ ÇÏ´Â¸»ÀÌ ±×·±°ÅÁö 	Ç×»ó³Ê/UNK+°°/VA+Àº/E	»õ³¢/NNG+°¡/J	ÇÏ´Â¸»ÀÌ/UNK	±×·¯/VX+¤¤/E+°Å/NNB+Áö/P
+1 ½Å¼¼ÇÑÅº¿¡ ¶¯±ø Çê¼Ò¸® °³¼Ò¸® ¾È±×·¸³Ä?¾¾¹Ù·Î¸¶ 	½Å¼¼/NNG+ÇÑÅº/NNG+¿¡/J	¶¯±ø/NNG	Çê/XPN+¼Ò¸®/NNG	°³/XPN+¼Ò¸®/NNG	¾È/XPN+±×·¸/VA+³Ä/E	?/SF	¾¾¹Ù/UNK+·Î¸¶/NNP
+1 ¸»µµ¾È´ë´Â ²¿Åõ¸® ÀâÁö¸»°í 	¸»/NNG+µµ¾È/NNG+´ë´Â/UNK	²¿Åõ¸®/NNG	ÀâÁö/NNG+¸»°í/J
+1 ³Ê¸¸ÀÇ Ã¢Á¶ÀûÀÎ ¿å¼³À» ³»¹ñ¾î¶ó Á¿¸¸ÇÑ»õ³¢¾ß 	³Ê/NP+¸¸ÀÇ/J	Ã¢Á¶/NNG+Àû/XSN+ÀÎ/P	¿å¼³/NNG+À»/J	³»¹ñ/VV+¾î¶ó/E	Á¿¸¸ÇÑ/UNK+»õ³¢/NNG+ÀÌ¾ß/P
+1 Ç×»ó³Ê°¡Ä¡ µ¿Á¤¹ÞÀ» °¡Ä¡Á¶Â÷ ¸ø´À³¢´Â º´½Å»õ³¢°¡ 	Ç×»ó³Ê/UNK+°¡Ä¡/NNG	µ¿Á¤¹Þ/VV+À»/E	°¡Ä¡/NNG+Á¶Â÷/J	¸ø/MAG+´À³¢/VA+´Â/E	º´½Å/NNG+»õ³¢/NNG+°¡/XSN
+1 ¸Õ¼Ò¿ëÀÌ³Ä ³»½É¸®¸¦ °Çµå¸®±â´ÂÄ¿³ç ±âºÐÁ¶Â÷ ³ª»Ú°Ô¸øÇÏ´Â´ë 	¸Õ¼Ò¿ë/UNK+ÀÌ³Ä/P	³»/NP+½É¸®/NNG+¸¦/J	°Çµå¸®/VV+±â´ÂÄ¿³ç/E	±âºÐ/NNG+Á¶Â÷/J	³ª»Ú/VA+°Ô/E+¸øÇÏ/VX+´Â/E+´ë/XSN
+1 ´«ÀÌ´Þ·ÇÀ¸¸é¸ÓÇÏ¸® ¼¼»óÀ» ¶È¹Ù·Îº¼ÁÙ¸ð¸£´Â ½Ã°¢Àå¾ÖÀÎÀÎµ¥ 	´«ÀÌ´Þ·ÇÀ¸¸é¸ÓÇÏ¸®/UNK	¼¼»ó/NNG+À»/J	¶È¹Ù·Î/MAG+º¼ÁÙ/UNK+¸ð¸£/VV+´Â/E	½Ã°¢/NNG+Àå¾Ö/NNG+ÀÎ/XSN+ÀÎµ¥/P
+1 ³ú°¡ÀÖÀ¸¸é ¸ÓÇÏ¸® »ý°¢ÇÒÁÙ¸ð¸£´Â Á¤½ÅÁöÃ¼¾Æ 	³ú/NNG+°¡/J+SPC/SPC+ÀÖ/VX+À¸¸é/E	¸ÓÇÏ¸®/UNK	»ý°¢/NNG+ÇÏ/XSV+¤©/E+SPC/SPC+ÁÙ/NNG+SPC/SPC+¸ð¸£/VV+´Â/E	Á¤½Å/NNG+ÁöÃ¼¾Æ/NNG
+1 ÀÌÁü½Â»õ³¢¾ß »ç¶÷ÀÌ¶ó¸é ±×°ÍµéÀÌ´Þ·ÁÀÖÀ¸¸ç 	ÀÌ/XPN+Áü½Â/NNG+»õ³¢/NNG+ÀÌ¾ß/P	»ç¶÷/NNG+ÀÌ¶ó¸é/P	±×°Í/NP+µé/XSN+ÀÌ/J+SPC/SPC+´Þ¸®/VV+¾î/E+SPC/SPC+ÀÖ/VX+À¸¸ç/E
+1 ³Ê´Â Àç°¢±â µû·Îµû·Î ³îÀÚ³ª ¾È±×·¯³Ä?¾¾¹ß»õ³¢¾ß 	³Ê/NP+´Â/J	Àç°¢±â/UNK	µû·Î/NNG+µû·Î/NNG	³îÀÚ³ª/UNK	¾È/XPN+±×·¯/VA+³Ä/E	?/SF	¾¾¹ß/UNK+»õ³¢/NNG+ÀÌ¾ß/P
+1 ÀüÈÄ»óÈ²À» ¶È¶ÈÈ÷ »ìÆì¹Ù¶ó ÀÌº´½Å»õ³¢¾ß 	ÀüÈÄ/NNG+»óÈ²/NNG+À»/J	¶È¶ÈÈ÷/MAG	»ìÆì¹Ù¶ó/UNK	ÀÌ/XPN+º´½Å/NNG+»õ³¢/NNG+ÀÌ¾ß/P
+1 ¾î¼³ÇÁ°Ô¿åÇÑ´Ù°í ¼³Ä¡Áö¸»°í ¾¾¹ß»õ³¢¾ß 	¾î¼³ÇÁ/VA+°Ô/E+SPC/SPC+¿å/NNG+ÇÏ/XSV+¤¤´Ù°í/E	¼³Ä¡/NNG+Áö¸»°í/UNK	¾¾¹ß/UNK+»õ³¢/NNG+ÀÌ¾ß/P
+1 ³Ê¸¸ÀÇ ½ºÅ¸ÀÏ ³Ê¸¸ÀÇ ¾ï¾çÀ¸·Î ºù½Å»õ³¢¾ß 	³Ê/NP+¸¸ÀÇ/J	½ºÅ¸ÀÏ/NNG	³Ê/NP+¸¸ÀÇ/J	¾ï¾ç/NNG+À¸·Î/J	ºù½Å/NNG+»õ³¢/NNG+¾ß/XSN
+1 ¿åÀ»ÇØ¶ó ÇÏ±ä¹¹ ³Ê°¡Æ°»õ³¢°¡ ¿åÇØ¹ÙÂ¥ 	¿å/NNG+À»/J+SPC/SPC+ÇØ/NR+¶ó/P	ÇÏ±ä¹¹/UNK	³Ê°¡Æ°/UNK+»õ³¢/NNG+°¡/J	¿åÇØ¹ÙÂ¥/UNK
+1 »ý°¢¾ø´Â ´Ü¼¼Æ÷ÀÇ ´ë°¡¸®¸¦°¡Áø ¹Ý¸ðÁúÀÌ¿¡ ¹Ýº´½Å»õ³¢¾ß 	»ý°¢/NNG+¾ø/VA+´Â/E	´Ü/XPN+¼¼Æ÷/NNG+ÀÇ/XSN	´ë°¡¸®/NNG+¸¦/J+SPC/SPC+°¡/VX+¾Æ/E+Áö/VX+¤¤/E	¹Ý¸ðÁúÀÌ¿¡/UNK	¹Ý/XPN+º´½Å/NNG+»õ³¢/NNG+¾ß/XSN
+1 ÀÌ¾Ã»õ³¢°¡ ÇüÀÌ¿åÁ»ÇØµû°í °í»õÈïºÐÇØ°¡²¿ 	ÀÌ¾Ã/UNK+»õ³¢/NNG+°¡/J	ÇüÀÌ¿åÁ»ÇØ/UNK+µû/VV+°í/E	°í»õÈï/UNK+ºÐÇØ/NNG+°¡²¿/UNK
+1 ¾î¶²»óÈ²¿¡¼­µµ ÁïÈïÀ»ÇÒÁÙ¸ð¸£°í ½Ç¼ö¸¦ÀúÁú·µÀ¸¸é¼­µµ ¾Öµå¸³µûÀ§´Â 	¾î¶²/MM+SPC/SPC+»óÈ²/NNG+¿¡¼­µµ/J	ÁïÈï/NNG+À»/J+ÇÒÁÙ/UNK+¸ð¸£/VV+°í/E	½Ç¼ö/NNG+¸¦/J+ÀúÁú/NNG+·µÀ¸¸é/UNK+¼­µµ/J	¾Öµå¸³/NNG+µûÀ§/NNB+´Â/J
+1 Ç×»ó³²ÀÌ ÀÚ±âº¸´Ù ¿å¸øÇÑ´Ù°í ¿ì°Ý´ÙÁüÀ¸·Î ´ýºñ´Â»õ³¢°¡ 	Ç×»ó/NNG+³²/XSN+ÀÌ/J	ÀÚ±â/NP+º¸´Ù/J	¿å/XPN+¸øÇÏ/VX+¤¤´Ù°í/E	¿ì°Ý´ÙÁü/NNG+À¸·Î/J	´ýºñ/VV+´Â/E+SPC/SPC+»õ³¢/NNG+°¡/XSN
+1 ¶Ç¶óÀÌ³âÀÌ ‚ºÈ÷ Áö¶öÀÌ¾ß º° ¹ÌÄ£³âÀ» ´Ùº¸°Ù³× 	¶Ç¶óÀÌ/NNG+³âÀÌ/UNK	‚ºÈ÷/UNK	Áö¶ö/NNG+ÀÌ¾ß/P	º°/NNG	¹ÌÄ£³â/NNG+À»/J	´Ùº¸°Ù³×/UNK
+1 ³ª´Â ³ª´Â³ð ³Ê´Â ´Ù¸®Â©·Á¼­ ÁúÁú ±â¾î´Ù´Ï´Â°Å´Ù ¾Ë¾Ñ³Ä? 	³¯/VV+´Â/E	³ª´Â³ð/UNK	³Ê/NP+´Â/J	´Ù¸®/UNK+Â©¸®/VV+¼­/E	ÁúÁú/MAG	±â¾î´Ù´Ï/VV+´Â/E+°Å/NNB+´Ù/J	¾Ë¾Ñ³Ä/UNK	?/SF
+1 ¸ö»©¹ÙÁöÀÔ°í µþµþÀÌÄ¡´Â »õ²¥!! 	¸ö»©/NNG+¹ÙÁö/NNG+ÀÔ°í/NNG	µþµþ/MAG+ÀÌÄ¡/NNG+´Â/J	»õ²¥/UNK	!!/SF
+1 ÇÐ±³°¡º¸¸é Ã¥»ó¾ø´Â »õ²¥!! 	ÇÐ±³/NNG+°¡º¸/NNG+¸é/P	Ã¥»ó/NNG+¾ø/VA+´Â/E	»õ²¥/UNK	!!/SF
+1 ´«±òÀ» »©¹ö·Á¼­ ´«±òÈÄ¶óÀÌ ºÎÃÄ¹ú¶õ°Ô ²¨Áö¶ó°í °³¼¼²¥... 	´«±ò/NNG+À»/J	»©/VV+¾î/E+¹ö¸®/VX+¾î/E+¼­/VX+¾î/E	´«±ò/NNG+ÈÄ¶óÀÌ/UNK	ºÎÃÄ¹ú¶õ°Ô/UNK	²ô/VV+¾î/E+Áö/VX+¶ó°í/E	°³¼¼²¥/UNK	.../SF
+1 Á×¿©¼­ ³õ°í »·»·ÇÏ°Ô ¾¾¹ß³â¾Æ 	Á×/NNB+¿©/XSN+¼­/J	³õ/VV+°í/E	»·»·/XR+ÇÏ/XSA+°Ô/E	¾¾¹ß³â/NNG+¾Æ/XSN
+1 ÀÌ»õ³¢ °íÀÚ Á¶·ç »õ²¥ 	ÀÌ»õ³¢/UNK	°íÀÚ/NNG	Á¶·ç/NNG	»õ²¥/UNK
+1 ´ÏÀÎ°£¾²·¹±â¸Â´Ù ½ÃÅ°¾ß 	´ÏÀÎ°£/UNK+¾²·¹±â/NNG+¸Â/VV+´Ù/E	½ÃÅ°¾ß/UNK
+1 º´ ¾ÖÀÚ»õ³¢¾ß ¾Æ°¡¸®½ÔÄ¡°í ÀÖ¾î 	º´/NNG	¾ÖÀÚ/NNG+»õ³¢/NNG+¾ß/XSN	¾Æ°¡¸®/NNG+½ÔÄ¡°í/UNK	ÀÖ/VX+¾î/E
+1 ¾ßÀÌ¾¾¹ß·Ò¾Æ »ç±â¸¦ ÃÄ³õ±¸¼± ¾îµð¼­-_ 	¾ßÀÌ¾¾¹ß·Ò¾Æ/UNK	»ç±â/NNG+¸¦/J	ÃÄ³õ±¸¼±/UNK	¾îµð/NP+¼­/J	-/SW	_/SW
+1 Á¿¸¸ÇÑ¼¼³¢°¡ ´ë°¡¸®¿¡¼­ ÇÇµµ¾È¸»¶ó¼­ ¾È³ª¿À´Â¼¼³¢°¡ 	Á¿¸¸ÇÑ¼¼/UNK+³¢/NNG+°¡/J	´ë°¡/NNG+¸®¿¡/NNP+¼­/J	ÇÇ/XPN+µµ¾È/NNG+¸¶¸£/VV+¼­/E	¾È/XPN+³ª¿À/VV+´Â/E+¼¼/XSN+³¢/NNG+°¡/J
+1 ¾¾¹ß·³¾Æ ±×µû±¸·Î ³ª¿À³ª ÀÌ·±Á¿°°Àº¼¼³¢µé¶«¿¡ 	¾¾¹ß·³¾Æ/UNK	±×µû±¸·Î/UNK	³ª/NNG+¿À³ª/P	ÀÌ·±Á¿/UNK+°°/VA+Àº/E+¼¼³¢/NNG+µé/XPN+¶«/NNB+¿¡/J
+1 ¿ì¸®³ª¶ó°¡ ¾¾¹ß ÁøÂ¥ ¹ßÀüÀÌ ¾ÈµÇ´Â°Å¿© 	¿ì¸®/NP+³ª¶ó/NNG+°¡/J	¾¾¹ß/UNK	ÁøÂ¥/NNG	¹ßÀü/NNG+ÀÌ/J	¾ÈµÇ/VA+´Â/E+SPC/SPC+°Å/NNB+¿©/J
+1 È®Ã£¾Æ°¡¼­ ´ë±¼ºý µ¹·ÁºÒ¶ó´Ï±î 	È®Ã£/UNK+¾Æ/E+°¡/VX+¼­/E	´ë±¼ºý/UNK	µ¹¸®/VV+¾î/E+ºÒ/VX+¶ó´Ï±î/E
+1 ÁøÂ¥ Á¿±î´Â¼Ò¸®ÇÏ´Â¼¼³¢µé Á¿³ª¸¹³× 	ÁøÂ¥/NNG	Á¿±î´Â/UNK+¼Ò¸®/NNG+ÇÏ´Â/UNK+¼¼³¢/NNG+µé/XSN	Á¿³ª¸¹³×/UNK
+1 ¾Æ Á¿³ª¿­¹Þ´Â´Ù ÁøÂ¥ ÀÌ·±¼¼³¢ ÁøÂ¥ Á¿³ª ‹š·Á¹ö·Á¾ßÇÏ´Âµð ¾¾¹ß 	¾Æ/NNG	Á¿³ª¿­/UNK+¹Þ/VV+´Â´Ù/E	ÁøÂ¥/NNG	ÀÌ·±/UNK+¼¼³¢/NNG	ÁøÂ¥/NNG	Á¿/VV+³ª/E	‹š·Á/UNK+¹ö¸®/VV+¾î¾ß/E+ÇÏ/XSV+´Âµð/E	¾¾¹ß/UNK
+1 ³Ê°°Àº¼¼³¢´Â ±×³É ±ô»§°¥ÇÊ¿äµµÀ¾¾î Á¿³ª°Ô ¾¾¹ß·³¾Æ 	³Ê°°Àº¼¼/UNK+³¢/VV+´Â/E	±×³É/MAG	±ô»§°¥/UNK+ÇÊ¿ä/NNG+µµÀ¾/NNG+¾î/XSN	Á¿³ª°Ô/UNK	¾¾¹ß·³¾Æ/UNK
+1 ¶¥±¸³ç ÆÄ¼­ ´ë°¡¸®¸¸ ´Ï¾î³õ°í ÁÖµÕ¾Æ¸®¿¡´Ù°¡ ÄÝ¶ó Á¿³ª°Ô ÃÄ ºÎ¾î¾ß´ë °³¼¼³¢¾ß 	¶¥±¸³ç/UNK	ÆÄ¼­/NNG	´ë°¡¸®/NNG+¸¸/J	´Ï¾î/UNK+³õ/VV+°í/E	ÁÖµÕ¾Æ¸®/NNG+¿¡´Ù°¡/J	ÄÝ¶ó/NNG	Á¿³ª°Ô/UNK	Ä¡/VX+¾î/E	ºÎ¾î¾ß´ë/UNK	°³/XPN+¼¼³¢¾ß/NNP
+1 ÁøÂ¥ Á¿³ªÈ­°¡³­´Ù ÁøÂ¥ ¾Æ¿À¾¾¹ß 	ÁøÂ¥/NNG	Á¿³ªÈ­/UNK+°¡³­/NNG+´Ù/XPN	ÁøÂ¥/NNG	¾Æ¿À¾¾¹ß/UNK
+1 ´Ï°¡ ¹ºµ¥ ¿°ÀåÁúÀÌ¾ß 	´Ï/NP+°¡/J	¹¹/NP+ÀÎµ¥/P	¿°ÀåÁú/UNK+ÀÌ¾ß/P
+1 »¡¸®²¨Á®¶óÃÝµù¾Æ 	»¡¸®/MAG+²¨Áö/VV+¶ó/E+ÃÝµù¾Æ/UNK
+1 ¿µ±¸³Ä?¾¾¹ß Àç¼ö¾ø¼­ ¿øÁ×°í½Í±¸³ª 	¿µ/NR+±¸/NR+³Ä/P	?/SF	¾¾¹ß/UNK	Àç¼ö/NNG+¾ø¼­/UNK	¿øÁ×°í/UNK+½Í/VX+±¸³ª/E
+1 ¸ô¶ó ¾¾¹ß¾Æ¤»¤» ³»°¡±×µý°Å±îÁö ±â¾ïÇÏ°Ô¤»¤» 	¸ð¸£/VA+¾Æ/E	¾¾¹ß¾Æ/UNK	¤»¤»/SW	³»°¡±×µý°Å/UNK+±îÁö/J	±â¾ï/NNG+ÇÏ/XSV+°Ô/E	¤»¤»/SW
+1 ¾¾¹ßÁ¿°°Àº»õ³¢¾ß ¿³Ã³¸ÔÀ¸»õ ¾¾¹ß 	¾¾¹ßÁ¿/UNK+°°/VA+Àº/E+»õ³¢/NNG+ÀÌ¾ß/P	¿³Ã³¸ÔÀ¸»õ/UNK	¾¾¹ß/UNK
+1 µØÁ®¶ó 	µØÁö/VV+¶ó/E
+1 Á¿Àâ°í ¹Ý¼ºÀÌ³ªÇØ ¾¾¹ß¾Æ ¤»¤» 	Á¿/VV+Àâ°í/E	¹Ý¼º/NNG+ÀÌ³ª/J+ÇÏ/XSA	¾¾¹ß¾Æ/UNK	¤»¤»/SW
+1 ´ë°¥ºýÁ¿¾Æ¹ö·Á 	´ë°¥ºý/NNG+Á¿/XSN+¾Æ/E+¹ö¸®/VX+¾î/E
+1 °³¾¯¹ß¹ö·¯Áö °°ÀÌ 	°³¾¯¹ß/UNK+¹ö·¯Áö/NNG	°°ÀÌ/MAG
+1 "´ç½ÅÀº ¾¾¹ß³âÀ¸·Î ¼±Á¤µÇ¾ú½À´Ï´Ù" 	"/SW	´ç½Å/NP+Àº/J	¾¾¹ß³â/NNG+À¸·Î/J	¼±Á¤/NNG+µÇ/XSV+¾ú½À´Ï´Ù/E	"/SW
+1 °³¼Ò¸®±îÁö¸»°í °ÔÀÓ ²ô°í ³»·Á¿Í 	°³/XPN+¼Ò¸®/NNG+±îÁö/J+¸»°í/J	°ÔÀÓ/NNG	²ô/VV+°í/E	³»·Á¿À/VX+¾Æ/E
+1 Áö¶öÀÎµ¥ ¹ÌÄ£³ð ¼ÕÀÌ¾ø¾î¼­ ¸øÇÏ³Ä? 	Áö¶ö/NNG+ÀÎµ¥/P	¹ÌÄ£³ð/NNG	¼Õ/NNG+ÀÌ/J+SPC/SPC+¾ø/VA+¾î¼­/E	¸ø/MAG+ÇÏ/XSV+³Ä/E	?/SF
+1 ³ª... ¾¾¹ß ±×¼¼³¢ÇÑÅ× ´Þ¶óÇÏ¼À Àúµµ ¸¶´Ï´çÇØºÃ´Âµ¥ ±×»õÅ°¶û¸ÂÂ¯¶¹À½¤»¤» 	³ª/NNG	.../SF	¾¾¹ß/UNK	±×¼¼³¢/UNK+ÇÑÅ×/J	´Þ¶óÇÏ¼À/UNK	Àúµµ/NNG	¸¶´Ï´çÇØ/UNK+º¸/VV+¾Ò´Âµ¥/E	±×»õÅ°¶û¸ÂÂ¯¶¹À½/UNK	¤»¤»/SW
+1 ±×»õÄû ‹š¸±½Ã°£¾ÈÁÖ¸é °ÔÀÓ¿À¹öÀÓ 	±×»õÄû/UNK	‹š¸±/UNK+½Ã°£/NNG+¾ÈÁÖ/NNG+¸é/P	°ÔÀÓ/NNG+¿À¹ö/NNG+ÀÓ/P
+1 ³²ÀÚ»õ³¢°¡ ¾Æ¾¾¹ß Á¸½É»óÇÏ³×¤»¤» 	³²ÀÚ/NNG+»õ³¢/NNG+°¡/XSN	¾Æ¾¾¹ß/UNK	Á¸½É/UNK+»óÇÏ/VV+³×/E	¤»¤»/SW
+1 ³Ê°°Àº¾²·¹±â»õ³¢ »ó´ë¾ÈÇÑ´Ù¤Ñ¤Ñ 	³Ê°°Àº/UNK+¾²·¹±â/NNG+»õ³¢/NNG	»ó´ë/NNG+¾ÈÇÏ/VV+¤¤´Ù/E	¤Ñ¤Ñ/SW
+1 ¼¼ÀÌ·»µµ ¾¾¹ßÁ½ÀÌÁÒ Çã³ª ´ëÀü¿¡¼­ ¹«ÇÑ ÄÞº¸... ±ðÀÌ´Âµ¥ 	¼¼ÀÌ·»µµ/UNK	¾¾¹ßÁ½/UNK+ÀÌÁÒ/P	Çã³ª/MAG	´ëÀü/NNG+¿¡¼­/J	¹«ÇÑ/NNG	ÄÞº¸/NNG	.../SF	±ðÀÌ/VV+´Âµ¥/E
+1 ¾Æ³ö »ç±âÂ¼³× ¾ß ´Ñ ¹¹¾ß ¤µ¤²¾Æ D-F 	¾Æ³ö/UNK	»ç±â/NNG+Â¼³×/UNK	¾ß/NNG	´Ñ/NNP	¹¹¾ß/IC	¤µ¤²/SW	¾Æ/J	D/SL	-/SW	F/SL
+1 ¾îÂ÷ÇÇ ¾¾¹ßÁ¿°°Àº³Ø½¼¿¡ º¸»ó¿äÃ»ÇØºÃÀÚÁö 	¾îÂ÷ÇÇ/MAG	¾¾¹ßÁ¿/UNK+°°/VA+Àº/E+³Ø½¼/NNP+¿¡/J	º¸»ó/NNG+¿äÃ»/NNG+ÇÏ/XSV+¾î/E+º¸/VX+¤¶ÀÚÁö/E
+1 Á¸³ª½ÖÀ¸·Î³ë³× ˜Å»õ 	Á¸³ª/UNK+½Ö/NNB+À¸·Î/J+³ë³×/UNK	˜Å»õ/UNK
+1 ½â¾îºüÁø ÃÊµùµé 	½â/VV+¾î/E+SPC/SPC+ºüÁö/VX+¤¤/E	ÃÊµù/NNG+µé/XSN
+1 ´ÑÅ¸ÀÚµµ¸øÄ¡´Â³âÀÌ±×µý¸»Ã³ÇÏ´Ï½Ã¹Ù¾ß 	´Ñ/NNP+Å¸ÀÚ/NNG+µµ/J	¸ø/MAG+Ä¡/VV+´Â/E	³âÀÌ±×/UNK+µý¸»/NNG+Ã³ÇÏ/VV+´Ï/E+½Ã¹Ù¾ß/UNK
+1 ½Ã“uÇã·¡Å¸Å¸·Á³ª ´×±â¸®Çã·¡ÀðÁã·Á³ª 	½Ã“uÇã·¡Å¸/UNK+Å¸/VV+·Á³ª/E	´×±â¸®Çã·¡Àð/UNK+Áã/VV+·Á³ª/E
+1 µ¹·ÁÁÖ¸é µÉ²¨¾Æ³Ä ¾¾¹ß ±ÍÂú°Ô ÇÏ³» 	µ¹¸®/VV+¾î/E+ÁÖ/VX+¸é/E	µÉ²¨¾Æ³Ä/UNK	¾¾¹ß/UNK	±ÍÂú/VA+°Ô/E	ÇÏ³»/UNK
+1 ¾¾¹ß ÁÀ°°Àº °³ °°Àº °ÔÀÓ Ä«Æ®¶óÀÌ´õ ¸ÁÇØ¹ö·Á ¾¾ÆÈ³ð¾Æ 	¾¾¹ß/UNK	ÁÀ°°Àº/UNK	°³/NNG	°°/VA+Àº/E	°ÔÀÓ/NNG	Ä«Æ®/NNG+¶óÀÌ´õ/NNG	¸ÁÇÏ/VA+¾î/E+¹ö¸®/VX+¾î/E	¾¾ÆÈ³ð/NNG+¾Æ/J
+1 Áö¶öÀÌ ¾ß ±×³â ºÒ·¯ ¾¾¹ß ÁøÂ¥ °¨µ¿ ¸Ô¾ù°í 	Áö¶ö/NNG+ÀÌ/J	¾ß/NNG	±×³â/NP	ºÎ¸£/VA+¾î/E	¾¾¹ß/UNK	ÁøÂ¥/NNG	°¨µ¿/NNG	¸Ô¾ù°í/UNK
+1 ¹úÁý ¸¸µé°í ÇÙÆøÅº ¸í¿Õ¼º¿¡ ½÷¹ö·Á¶ó ¾¾¹ß 	¹úÁý/NNG	¸¸µé/VV+°í/E	ÇÙ/XPN+ÆøÅº/NNG	¸í¿Õ/NNG+¼º¿¡/NNG	½î/VV+¾Æ/E+¹ö¸®/VX+¶ó/E	¾¾¹ß/UNK
+1 °ÔÀÓ ÇÑÅ×´Ù°¡ ²¿½ÃÅ² °Å °°Àºµ¥ ¾ßµû ²Ï ³¶ÆÐ´Ù ¾¾¹ß³ð¾Æ 	°ÔÀÓ/NNG	ÇÑÅ×´Ù°¡/UNK	²¿½ÃÅ²/UNK	°Å/IC	°°/VA+Àºµ¥/E	¾ßµû/UNK	²Ò/VV+¾î/E	³¶ÆÐ/NNG+´Ù/P	¾¾¹ß³ð/NNG+¾Æ/J
+1 µ·¿¡¹ÌÄ£ ³Ø½¼ Ä³½Ã¹ÌÄ£ ÃÊµù 	µ·/XPN+¿¡¹Ì/NNG+Ä£/XSN	³Ø½¼/NNP	Ä³½Ã¹ÌÄ£/UNK	ÃÊµù/NNG
+1 ¹ã³·À¸·Î Á¡°ËÇØ Á¸³ªÂ¥Áõ³ª ¿©¿ì¹ÝÂù ¸Ô¾î¶ó 	¹ã³·/NNG+À¸·Î/J	Á¡°Ë/NNG+ÇÏ/XSV+¾Æ/E	Á¸³ª/UNK+Â¥Áõ³ª/VV+¾Æ/E	¿©¿ì/NNG+¹ÝÂù/NNG	¸Ô/VV+¾î¶ó/E
+1 ¾Ö¹«·Á´Ï¹¹·¡ÀÔ´ÚÄ¡°íÀÕ¾î 	¾Ö¹«/NNG+·Á´Ï/P+¹¹·¡ÀÔ´Ú/UNK+Ä¡°í/J+ÀÕ¾î/UNK
+1 ¤Ñ¤Ñ¸Ó¸®ºý¿¡¹¹°¡µé¾ù´Ï¾ß¸®³à³ª 	¤Ñ¤Ñ/SW	¸Ó¸®/NNG+ºý¿¡¹¹°¡µé¾ù´Ï¾ß¸®³à³ª/UNK
+1 ¾Æ³ª¸»¾ÈÅëÇÏ³×šÃ¹ß³â 	¾Æ³ª¸»¾È/UNK+ÅëÇÏ/VV+³×/E+šÃ¹ß³â/UNK
+1 Áö±Ý´Ï¾ó±¼¬NÀ×ÀÇ¸ÞÀÎ¾ó±¼ÀÌ¾ß¾Æ³Ä 	Áö±Ý/NNG+´Ï¾ó±¼¬NÀ×ÀÇ/UNK	¸ÞÀÎ/NNG	¾ó±¼/NNG+ÀÌ/J+¾ß¾Æ/IC+³Ä/P
+1 »õ±â¾ßÂ¥Â¥·Î´Ï»õ±â¾ßÆä°¡¼ö½º»öÀÌ 	»õ±â¾ßÂ¥Â¥·Î´Ï»õ±â¾ß/UNK+Æä°¡¼ö½º/NNP+»öÀÌ/UNK
+1 ÈÄÀå·Á³ªÀæ±â·Á³ª¾ßÀÌ½Ã¹Ù·Á³ª 	ÈÄ/NNG+Àå·Á/NNG+³ªÀæ/UNK+±â/VV+·Á³ª/E+¾ßÀÌ½Ã¹Ù·Á³ª/UNK
+1 ½Ã¹ß º´½Å¾Æ ¬NÀ×»õ³¢ Áö¶ö ¿¼º´ ¶³³× 	½Ã¹ß/NNG	º´½Å/NNG+¾Æ/J	¬NÀ×/UNK+»õ³¢/NNG	Áö¶ö/NNG	¿¼º´/NNG	¶³³×/UNK
+1 Àü¹ø±î ½Ã¹ß³â¾Æ ÀüÈ­±â ¾ø³Ä? º´½Å¾Æ 	Àü¹ø±î/UNK	½Ã¹ß/NNG+³â¾Æ/UNK	ÀüÈ­/NNG+±â/XSN	¾ø/VA+³Ä/E	?/SF	º´½Å/NNG+¾Æ/J
+1 È£·Î ¼§Å­ÇÑ³â È® ƒÆ¹°¾î Áâ°Üºñ¸®°í ½Í³× 	È£·Î/NNG	¼§Å­ÇÑ³â/UNK	È®/NNG	ƒÆ¹°¾î/UNK	Áâ°Ü/UNK+ºñ¸®/NNG+°í/J	½Í/VX+³×/E
+1 È£·Î Á¼µü±¸ »õ¸®¾ß ´Ï ¸»ÇÒÁÙ ¸ð¸£³Ä 	È£·Î/NNG	Á¼µü±¸/UNK	»õ¸®¾ß/UNK	´Ï/NP	¸»ÇÒÁÙ/UNK	¸ð¸£/NNP+³Ä/P
+1 Àú³­¤·È£Žð¤»¤»¤»¤»³âÀ×¤»¤» 	Àú³­/UNK	¤·/SW	È£Žð/UNK	¤»¤»¤»¤»/SW	³âÀ×/UNK	¤»¤»/SW
+1 ³ª¶óµµ ÀÌ°Ü¶ó µþ¸¸ÀÌµé¾Æ ±×·³ ¾È³ç Ä«½ºÆ¼¾Æ ¿ìÇõ 	³ª¶ó/NNG+µµ/J	ÀÌ±â/VV+¶ó/E	µþ/NNG+¸¸/J+SPC/SPC+ÀÌ/NNP+µé/XSN+¾Æ/J	±×·³/MAJ	¾È³ç/NNG	Ä«½ºÆ¼¾Æ/UNK	¿ìÇõ/NNP
+1 ½Ã¹Ù·Á³ª¾Ö¹«·Á³ªÅ¸Å¸·Á³ª 	½Ã¹Ù·Á³ª¾Ö/UNK+¹«·Á/MAG+³ªÅ¸/NNG+Å¸/VV+·Á³ª/E
+1 ÈÄ·¹·Á³ª°ÅÁö·Á³ªÀð£p·Á³ª 	ÈÄ·¹·Á³ª°Å/UNK+Áö/VX+·Á³ª/E+Àð£p·Á³ª/UNK
+1 ¾îÂ¼¶ó°í º´šâ¾Æ Á¸1³ª ÂÉ°³³× 	¾îÂ¼/VV+¶ó°í/E	º´šâ¾Æ/UNK	Á¸/NNG	1/SN	³ª/J	ÂÉ°³/VV+³×/E
+1 º´šâ¾Æ Å¸Å¸·Á´Ï Á¸1³ª ¾Ö¹«°°Àº Áþ¸¸ ÇÏ°í ÀÕ³× 	º´šâ¾Æ/UNK	Å¸Å¸/UNK+·Á´Ï/P	Á¸/NNG	1/SN	³ª/J	¾Ö¹«/NNG+SPC/SPC+°°/VA+Àº/E	Áþ¸¶/VV+¤¤/E	ÇÏ°í/XR	ÀÕ/VV+³×/E
+1 º´šâ¾Æ ³ª´ëÁö¸¶ ¾Ã·Á³ª ´Ï ¿¡1¹Ì°¡ ÀÌ·¸°Ô ÀÎ»ý±³À° ÆÇÅ¸Áö·Î »ì¶óµð? 	º´šâ¾Æ/UNK	³ª/VX+¾Æ/E+´ë/VX+¾î/E+Áö/VX+¸¶/E	¾Ã·Á³ª/UNK	´Ï/NP	¿¡/IC	1/SN	¹Ì°¡/NNG	ÀÌ·¸°Ô/MAG	ÀÎ»ý/NNG+±³À°/NNG	ÆÇÅ¸Áö/NNG+·Î/J	»ì¶óµð/UNK	?/SF
+1 ¾¾“‚ Á¸1³ª ºÏ¹æÄÑ¹Ù º´šâ˜º±â°¡ ¾ÕÀ¸·Î ±õ1ÃßÁö¸¶ 	¾¾“‚/UNK	Á¸/NNG	1/SN	³ª/J	ºÏ¹æ/NNG+ÄÑ¹Ù/UNK	º´šâ˜º±â°¡/UNK	¾Õ/NNG+À¸·Î/J	±õ/UNK	1/SN	ÃßÁö¸¶/UNK
+1 º´šâ¾Æ ²ÅÀ¸¸é ¿¤´Ïµµ ¿Í¼­ °£ÆÇ ÅÐ¾î¹Ù º´šâ¾Æ ¾¾“‚ ´Ï°¡ ¸Ö ÇÑ´Ù°í ¿À°Ù´Ï ¤»¤» 	º´šâ¾Æ/UNK	²Å/VV+À¸¸é/E	¿¤´Ïµµ/UNK	¿À/VV+¾Æ¼­/E	°£ÆÇ/NNG	ÅÐ¾î¹Ù/UNK	º´šâ¾Æ/UNK	¾¾“‚/UNK	´Ï/NP+°¡/J	¸Ö/VV+¤©/E	ÇÏ/VV+¤¤´Ù°í/E	¿À°Ù´Ï/UNK	¤»¤»/SW
+1 ³ª´ëÁö ¸»°í ÀÎ»ý ÂøÇÏ°Ô »ì¾Æ º±½Å˜º°¼ ¾¾“‚ Åä°í¿¡¼­ ¿Â º´šâÀÌ ¾îµð¼­ ³ª´ë º´šâ¾Æ ¤»¤» 	³ª´ëÁö/NNG	¸»/VV+°í/E	ÀÎ»ý/NNG	ÂøÇÏ/VA+°Ô/E	»ì/VV+¾Æ/E	º±½Å˜º°¼/UNK	¾¾“‚/UNK	Åä°í/NNP+¿¡¼­/J	¿À/VV+¤¤/E	º´šâÀÌ/UNK	¾îµð/NP+¼­/J	³ª´ë/VV+¾î/E	º´šâ¾Æ/UNK	¤»¤»/SW
+1 ¼à¶ó¼à¶óÇØ¼­ Á¸1³ª°Ô Ä¡¼¾ ¤µ¤¡ 	¼à¶ó¼à/UNK+¶ó/E+ÇÏ/VX+¼­/E	Á¸/NNG	1/SN	³ª°Ô/UNK	Ä¡¼¾/UNK	¤µ¤¡/SW
+1 ¡µµ¾Æ´Ñ°ÍµéÀÌ ¹¹ ÁöµéÀÌ°£ÆÇÀÌ¶ó°íÇÏ´Âµ¥ 	¡µµ¾Æ´Ñ/UNK+°Í/NNG+µé/XSN+ÀÌ/J	¹¹/IC	Áö/XPN+µéÀÌ/XSN+°£ÆÇ/NNG+ÀÌ¶ó°í/P+ÇÏ/VV+´Âµ¥/E
+1 ½Ã2¹ß·Á³ª ¿Ö²Å»ì³¢°í Áö1¶öÀÌ¿© 	½Ã/NNB	2/SN	¹ß·Á³ª/UNK	¿Ö²Å»ì/UNK+³¢/VV+°í/E	Áö/NNB	1/SN	¶öÀÌ¿©/UNK
+1 ÇªÅ¸·¯³ªÇªÅ¸·¯³ªÀÌ1·± ÇªÇª·Á³ªÇªÇª·Á³ª 	ÇªÅ¸·¯³ªÇªÅ¸·¯³ªÀÌ/UNK	1/SN	·±/UNK	ÇªÇª·Á³ªÇª/UNK+Çª/VV+·Á³ª/E
+1 ºÒ½Å¿¡¼­ ½Ã°£³¶ºñ ÇÏ´Â »ß¸®¸®~ÁþÀº ÇÏÁö¸¶¼¼¿© ^^ 	ºÒ½Å/NNG+¿¡¼­/J	½Ã°£/NNG+³¶ºñ/NNG	ÇÏ/VV+´Â/E	»ß¸®¸®/UNK	~/SW	Áþ/NNB+Àº/J	ÇÏ/XSV+Áö¸¶/E+¼¼¿©/UNK	^^/SW
+1 ¾¾ ¹ß³âÀÌ 	¾¾/NNG	¹ß³âÀÌ/UNK
+1 ÀÌ¹Ì Ä£ ³ðÀº ¹¹¿© 	ÀÌ¹Ì/NNG	Ä¡/VV+¤¤/E	³ð/NNB+Àº/J	¹¹/NP+¿©/J
+1 °³Â¾´Ù ¤Ñ¤Ñ 	°³Â¾´Ù/UNK	¤Ñ¤Ñ/SW
+1 ¿Ö ¿©±â¿Í¼­ Áö ¶öÀÌ°í 	¿Ö/NNP	¿©±â¿Í¼­/UNK	Áö/NNB	¶öÀÌ°í/UNK
+1 ±×·±µ¥ ´Ù»ß¸®¸®~·Ç³×.. 	±×·±µ¥/MAG	´Ù»ß¸®¸®/UNK	~/SW	·Ç³×/UNK	../SF
+1 ¾Æ ¤Ñ¤Ñ »ß¸®¸®~ ¸ø»ý°ä³× 	¾Æ/NNG	¤Ñ¤Ñ/SW	»ß¸®¸®/UNK	~/SW	¸ø»ý°ä³×/UNK
+1 ¿ôÀ½ ¼Ò¸® »ß¸®¸®~ ¸Å·ÂÀûÀÎµ¥;¤» 	¿ôÀ½/NNG	¼Ò¸®/NNG	»ß¸®¸®/UNK	~/SW	¸Å·Â/NNG+Àû/XSN+ÀÎµ¥/P	;/SW	¤»/SW
+1 ½¬¹ß Å¬Ã¤µµ ¾ø¾î 	½¬¹ß/UNK	Å¬Ã¤µµ/UNK	¾ø/VA+¾î/E
+1 ½Ê¾Ë»õ³¢¾ß 	½Ê/NR+¾Ë/XSN+SPC/SPC+»õ³¢/NNG+¾ß/J
+1 ¹æ¾î Á½µµ¸øÇÏ³» 	¹æ¾î/NNG	Á½µµ¸øÇÏ³»/UNK
+1 ¹ÌÃÆ³Ä! 	¹ÌÄ¡/VA+¤¶³Ä/E	!/SF
+1 ¾¾¹ß ´ëµé°í³­¸®¾ß 	¾¾¹ß/UNK	´ë/XPN+µé°í³ª/VV+¤¤/E+¸®¾ß/UNK
+1 ÂîÁú¾Æ Â¥Á®ÀÖ¾î 	Âî/NNG+Áú/XSN+¾Æ/J	Â¥/VV+¾Æ/E+Áö/VX+¾î/E+SPC/SPC+ÀÖ/VX+¾î/E
+1 ¤¹¤¹ °³ ÀÌµý °ÔÀÓ ¸ÓÇÏ¶ó ÇÔ? 	¤¹¤¹/SW	°³/NNG	ÀÌ/NP+µý/NNB	°ÔÀÓ/NNG	¸ÓÇÏ¶ó/UNK	ÇÏ/VV+¤±/E	?/SF
+1 º»Áø¹æ¾î ½Ê¼½±âµé¾Æ 	º»Áø/NNG+¹æ¾î/NNG	½Ê¼½±âµé¾Æ/UNK
+1 ´Ï¾Ú¹Ì 	´Ï¾Ú¹Ì/UNK
+1 ¾Æ ¤µ¤² ¶Ç Ä®µé°í ¼³Ä¡³× 	¾Æ/NNG	¤µ¤²/SW	¶Ç/MAJ	Ä®µé°í/UNK	¼³Ä¡/NNG+³×/P
+1 ¾Æ ÃÊµù»õÄûµé ¤Ñ¤Ñ Àå³­ÇÏ³ª 	¾Æ/NNG	ÃÊµù»õÄûµé/UNK	¤Ñ¤Ñ/SW	Àå³­/NNG+ÇÏ/XSA+³ª/E
+1 ´Ù½ÃÇÑ¹ø¹Ýº¹ÇÏÁö¸¸ ³ÊÀÇ¾ö¸¶Ã¢³â 	´Ù½Ã/NNG+ÇÑ¹ø/NNG+¹Ýº¹/NNG+ÇÏÁö¸¸/MAJ	³ÊÀÇ/UNK+¾ö¸¶/NNG+Ã¢³â/UNK
+1 ÀÎ°£¾²·¹±â »õÄ¼ 	ÀÎ°£/NNG+¾²·¹±â/NNG	»õÄ¼/UNK
+1 µ¹ÇÏ°í ¹ÚÄ¡±â ÇÏ°í ½ÃÇÕÇß³Ä? ÀÌ¾¾¹Ú»öÅ°¾ß 	µ¹/NNG+ÇÏ°í/J	¹ÚÄ¡±â/NNG	ÇÏ°í/XR	½Ã/XPN+ÇÕÇÏ/VV+¤¶³Ä/E	?/SF	ÀÌ¾¾¹Ú»öÅ°¾ß/UNK
+1 ¶ä³Ä? ¿Ö? 	¶ä³Ä/UNK	?/SF	¿Ö/NNP	?/SF
+1 ¤¢ ¤Ã ¤¸ ¤Å ¤µ ¤Ó¹ß³â¾Æ 	¤¢/SW	¤Ã/SW	¤¸/SW	¤Å/SW	¤µ/SW	¤Ó/SW	¹ß³â¾Æ/UNK
+1 Àú °³»õ³¢ ¤µ¤² ¾Æ·¡»õ³¢ Àç¼ö¾ø´Ù 	Àú/NP	°³/XPN+»õ³¢/NNG	¤µ¤²/SW	¾Æ·¡/NNG+»õ³¢/NNG	Àç¼ö/NNG+¾ø/VA+´Ù/E
+1 ¾ßÀÌ ¾¾¹ß³Ñ¾Æ 	¾ßÀÌ/UNK	¾¾¹ß³Ñ¾Æ/UNK
+1 ´ÚÄ¡°í »¡°­Àº ¾Èµµ¿ÍÁÖ´Âµ¥ 	´Ú/NNG+Ä¡°í/J	»¡°­/NNG+Àº/J	¾È/XPN+µ½/VV+¾Æ/E+ÁÖ/VX+´Âµ¥/E
+1 ³Í´ÚÄ¡°íÀÖ¾î¾¾¹ã¿©ÀÚ¾ß 	³Í´Ú/UNK+Ä¡°í/J+ÀÖ/VX+¾î/E+¾¾¹ã/UNK+¿©ÀÚ/NNG+¾ß/P
+1 »ó°ú¾ø¾î º´½Å¾Æ 	»ó°ú/NNG+SPC/SPC+¾ø/VA+¾î/E	º´½Å/NNG+¾Æ/J
+1 ºñ¸Å³Ê ¼Ò¸® µèÁö¸»°í ³Ê³ªÀßÇØ¶ó ÀÌ³â¾Æ 	ºñ¸Å³Ê/UNK	¼Ò¸®/NNG	µè/VV+Áö/E+¸»°í/J	³Ê³ª/NNG+ÀßÇÏ/VV+¶ó/E	ÀÌ³â/NNG+¾Æ/J
+1 ÀÌµý ±×Áö°°Àº ¼·¿¡¼­ ¾ÈÇØµÎµÅ 	ÀÌ/NP+µý/NNB	±×Áö/NNG+SPC/SPC+°°/VA+Àº/E	¼·¿¡¼­/UNK	¾ÈÇØµÎµÅ/UNK
+1 ¾Æ Á¸´Ï ´ä´ä´äÇÏ´Ù 	¾Æ/NNG	Á¸´Ï/UNK	´ä/XPN+´ä´ä/XR+ÇÏ/XSA+´Ù/E
+1 ±õ»ç´ëÁö¸¶°í ´Ï¾Öºñ ÀÚÁö³Ä 	±õ»ç/UNK+´ëÁö/NNG+¸¶°í/NNG	´Ï¾Öºñ/UNK	ÀÚÁö/NNG+³Ä/P
+1 ÀÌ³âÀÌ ¾ó¸¶³ª Ã³ÅÐ¸®¸é ¿ï·Á³ª 	ÀÌ/NR+³â/XSN+ÀÌ/J	¾ó¸¶³ª/MAG	Ã³/XPN+ÅÐ¸®/VV+¸é/E	¿ï¸®/VV+¾î/E+³ª/VX+¾Æ/E
+1 Ã£¾Æ°£´Ù ¼½È÷¾ß 	Ã£/VV+¾Æ/E+°¡/VX+¤¤´Ù/E	¼½È÷¾ß/UNK
+1 Áö¶öÀÌ³× °³½Ã¹ß 	Áö¶ö/NNG+ÀÌ³×/P	°³½Ã¹ß/UNK
+1 ½Ã¹ßÂøÇÑ¾ÆÀÌ°®³×¿©±â 	½Ã¹ß/NNG+ÂøÇÑ¾ÆÀÌ°®³×¿©±â/UNK
+1 ¾îµð¼­ ¸í·ÉÁúÀÌ¾ß 	¾îµð/NP+¼­/J	¸í·É/NNG+Áú/XPN+ÀÌ¾ß/P
+1 ´Ï°¡ ¹ºµ¥ ¿ì¸®ÇÑÅ× ÀÌ·¡¶ó Àú·¡¶ó Áö¶öÁö¶öÀÌ¾ß 	´Ï/NP+°¡/J	¹¹/NP+ÀÎµ¥/P	¿ì¸®/NP+ÇÑÅ×/J	ÀÌ·¡/NNG+¶ó/P	Àú·¯/VV+¾î¶ó/E	Áö¶ö/NNG+Áö¶ö/NNG+ÀÌ¾ß/P
+1 µ©Áö ¶Ç°¢¾Ò³Ä ´ïÁö±ï°í Áö¶ö 	µ©Áö/UNK	¶Ç°¢¾Ò³Ä/UNK	´ïÁö±ï°í/UNK	Áö¶ö/NNG
+1 ºñ¿Ã‹š Á¸³ª°Ô ¾¥½Ã°Ú´Ù 	ºñ¿Ã‹š/UNK	Á¸³ª°Ô/UNK	¾¥/VV+½Ã°Ú´Ù/E
+1 ´ÚÃÄ¶ó ÂÊ¹Ù¸® »õ³¢±¸¸¸ ÀÌ»õ³¢ 	´ÚÄ¡/VV+¶ó/E	ÂÊ¹Ù¸®/NNG	»õ³¢/NNG+±¸¸¸/NNP	ÀÌ»õ³¢/UNK
+1 Á¿ ³ð¾Æ ÀÚ²Ù ¹Ý¸» Á÷Á÷±ò·¡ 	Á¿/NNG	³ð/NNB+¾Æ/J	ÀÚ²Ù/MAG	¹Ý¸»/NNG	Á÷Á÷±ò·¡/UNK
+1 ¸¶Â¯À» ±î´Â°Ô ³´°Ú´Ù.±×³É ÇöÇÇ³ª ±îÀÚ 	¸¶Â¯À»/UNK	±ò/VV+´Â°Ô/E	³´/VA+°Ú´Ù/E	./SF	±×³É/MAG	ÇöÇÇ³ª/UNK	±î/VV+ÀÚ/E
+1 ¸®´ÏÁö¾¾¹ß.»õ±âµé 	¸®´Ï/UNK+Áö¾¾/NNP+¹ß/XSN	./SF	»õ±âµé/UNK
+1 ³ª·çÅä-À¸¾Æ °³»õ³¢ ³Ê ³ª¿À¸é µÚÁ³¾î 	³ª·çÅä/NNG	-/SW	À¸¾Æ/IC	°³/XPN+»õ³¢/NNG	³Ê/NP	³ª¿À/VV+¸é/E	µÚÁö/VV+¤¶¾î/E
+1 Áý¿¡°¡ºÁ¶ó Áý²¿¶óÁö°¡¾î¶áÁö ÂìÂì 	Áý¿¡/UNK+°¡º¸/VV+¶ó/E	Áý/XPN+²¿¶óÁö/NNG+°¡¾î¶áÁö/UNK	ÂìÂì/IC
+1 Å°¹è¶ßÀÚ°í ³ª È£ºøÀÌ¶ó¼­ ÇöÇÇ¸ø¶ß´Ï±ñ 	Å°¹è/UNK+¶ß/VV+ÀÚ°í/E	³ª/NNG	È£ºø/UNK+ÀÌ¶ó¼­/J	ÇöÇÇ¸ø¶ß/UNK+´Ï±ñ/P
+1 º´½Å·©¼­¾ß ¸Ê¾²Áö¸»°íÇØº¸·Å ¤» 	º´½Å·©/UNK+¼­¾ß/J	¸Ê¾²Áö¸»°í/UNK+ÇØº¸/XSV+·Å/E	¤»/SW
+1 ¿åÀ»ÇÏÁö¸¸¾Èº¸ÀÌ´Â¶óÀÌ´õ »õ³¢ 	¿å/NNG+À»/J+ÇÏÁö¸¸/MAJ+¾È/XPN+º¸ÀÌ/VV+´Â/E+¶óÀÌ´õ/NNG	»õ³¢/NNG
+1 ·£¼­´Â ½Ç·Â °³»õ³¢¼öÁØ ¤» 	·£/NNG+¼­´Â/J	½Ç·Â/NNG	°³/XPN+»õ³¢/NNG+¼öÁØ/NNG	¤»/SW
+1 È£±¸¼¼³¢ 	È£±¸/NNG+¼¼³¢/NNG
+1 ÆÀ¿øÀº ³ÊÇÑÅ× ¸ÓÁ×µµ¹äµµ ¾Æ´Ï´Ï ¾²·¹±â¾ß -_0 	ÆÀ¿ø/NNG+Àº/XSN	³Ê/NP+ÇÑÅ×/J	¸ÓÁ×µµ¹äµµ/UNK	¾Æ´Ï/VA+´Ï/E	¾²·¹±â/NNG+¾ß/XSN	-/SW	_/SW	0/SN
+1 ´ëµµ¾È´ë´Â ½É¸® Ä¡Áö¸»°í ¾¾¹ß·Î¸¶ 	´ëµµ/NNG+¾È´ë/NNG+´Â/J	½É¸®/NNG	Ä¡Áö/NNG+¸»°í/J	¾¾¹ß/UNK+·Î¸¶/NNP
+1 Àß¸øµÈ »ó½Ä¿¡¼­³ª¿À´Â ±×·± ¿å¼³ ¹é³¯ ³»¹ñ¾î¹Ù¾ß 	Àß¸ø/NNG+µÇ/XSV+¤¤/E	»ó½Ä/NNG+¿¡¼­/J+SPC/SPC+³ª/VX+¾Æ/E+¿À/VX+´Â/E	±×·±/IC	¿å¼³/NNG	¹é³¯/NNG	³»/NP+¹ñ/VV+¾î/E+¹Ù¾ß/UNK
+1 ´Ï»óÈ²À» ¶È¹Ù·Î »ìÆìºÁ¶ó ¾ó¸¶³ª Ã³ÂüÇÏ°í ºñ±¼ÇÑÁö 	´Ï»óÈ²À»/UNK	¶È¹Ù·Î/MAG	»ìÇÇ/VV+¾î/E+º¸/VX+¶ó/E	¾ó¸¶³ª/MAG	Ã³Âü/NNG+ÇÏ/XSA+°í/E	ºñ±¼/NNG+ÇÏ/XSA+¤¤Áö/E
+1 ÀÌº´½Å»õ³¢...¾ÆÁ÷µµ ¸ø¾Ë¾Æ¸Ô°Ú³Ä? 	ÀÌ/XPN+º´½Å/NNG+»õ³¢/NNG	.../SF	¾ÆÁ÷µµ/UNK	¸ø/MAG+¾Ë¾Æ¸Ô/VV+°Ú³Ä/E	?/SF
+1 ¾È±×·¯³Ä Á¿¸Á±¸ ¤»¤»¤»¤»¤» 	¾È/XPN+±×·¯/VA+³Ä/E	Á¿¸Á±¸/UNK	¤»¤»¤»¤»¤»/SW
+1 Çö½ÇÀûÀÎÀÔÀåÀ¸·Î ¼³¸íÀ» ÇØÁàµÎ ¸ø¾Ë¾Æ¸Ô´Â ¾²·¹±â¾ß 	Çö½Ç/NNG+Àû/XSN+ÀÎ/XSN+SPC/SPC+ÀÔÀå/NNG+À¸·Î/J	¼³¸í/NNG+À»/J	ÇØÁàµÎ/UNK	¸ø/MAG+¾Ë¾Æ¸Ô/VV+´Â/E	¾²·¹±â/NNG+¾ß/XSN
+1 ¹ÌÄ£³ðÃ³·³ ¿Â°®ÃßÅÂ¸¦ ´Ùº¸¿©ÁÖ°íÀÖ³Ù 	¹ÌÄ£³ð/NNG+Ã³·³/J	¿Â°®/MM+ÃßÅÂ¸¦/UNK	´Ù/XPN+º¸¿©ÁÖ/VV+°í/E+ÀÖ³Ù/UNK
+1 ÀÌ·±°Ô Á¸ÀçÇÑ´Ù´Â°É ¾Ë²¨´Ù ²¿¸¶¾ß 	ÀÌ·±°Ô/UNK	Á¸Àç/NNG+ÇÏ/XSV+¤¤´Ù´Â/E+SPC/SPC+°É/VA+¤©/E	¾Ë²¨´Ù/UNK	²¿¸¶/NNG+¾ß/J
+1 ºù½Å»õ³¢ 	ºù½Å/NNG+»õ³¢/NNG
+1 Ã³Á×¿©¹ú¶õ°Ô ³»°¡¿å¸øÇØ¼­ ÀÌ·¯°íÀÖ´ÂÁÙ¾Æ³ª 	Ã³Á×¿©¹ú¶õ°Ô/UNK	³»°¡¿å/UNK+¸øÇÏ/VX+¾Æ¼­/E	ÀÌ·¯°í/MAG+SPC/SPC+ÀÖ/VX+´Â/E+SPC/SPC+ÁÙ/VV+¾Æ³ª/E
+1 Á¿°°Àº³ð¾Æ ´À±×Áý ¸»ÇØ¹Ù ¾¾¹ß·³¾Æ 	Á¿°°/VA+Àº/E+³ð¾Æ/UNK	´À±×Áý/NNG	¸»ÇØ¹Ù/UNK	¾¾¹ß·³¾Æ/UNK
+1 Àâ¾ÆÁÖ°Ü¹ö¸±¶ó´Ï±î Á¸¸¸ÇÑ»õ³¢°¡ ¹ÌÃÆ³ª 	Àâ¾ÆÁÖ°Ü/UNK+¹ö¸®/VX+¤©¶ó´Ï±î/E	Á¸¸¸ÇÑ/UNK+»õ³¢/NNG+°¡/J	¹ÌÄ¡/VA+¤¶³ª/E
+1 ±õÄ¡Áö¸¶¶ó ¾ÃµÅÁö¾ß 	±õÄ¡Áö¸¶¶ó/UNK	¾Ã/XPN+µÅÁö/NNG+¾ß/P
+1 ³­±×»õ³¢¸Ó¸®¿¡½Ã³Êº×°íºÒÁú¸£°í½Í¾î¿© ... 	³­±×/UNK+»õ³¢/NNG+¸Ó¸®/NNG+¿¡/J+½Ã³Êº×°í/UNK	ºÒÁú¸£°í/UNK	½Í¾î¿©/UNK	.../SF
+1 ±ÍÂú¾Æ¼­ »ª¼·ÇÑ´Ù Âðµû ¿î¿µÀÚ Ä£ÀýÇÑÃ´ ÈÆ³²ÀÎÃ´ º°Áþ´ÙÇÑ´Ù 	±Í/NNG+Âú¾Æ¼­/P	»ª¼·ÇÑ´Ù/UNK	Âðµû/UNK	¿î¿µ/NNG+ÀÚ/XSN	Ä£Àý/NNG+ÇÑÃ´/UNK	ÈÆ³²/NNG+ÀÎÃ´/NNG	º°Áþ/NNG+´ÙÇÏ/VV+¤¤´Ù/E
+1 ¾ßšÃ¹Ù¾ß¿À´ÃÀººÁÁØ´Ù´ÏÇÑ¹ø¸¸´õ±×µý½ÄÀ¸·Î½ÎºÎ¸®´Ù°¡µðÁúÁÙ¾Ë¾Æ¶ó 	¾ßšÃ¹Ù¾ß/UNK+¿À´Ã/NNG+Àº/J	ºÁÁÖ/VV+¤¤´Ù´Ï/E+ÇÑ¹ø/NNG+¸¸/J+´õ±×µý/UNK	½ÄÀ¸·Î½Î/UNK+ºÎ¸®/VV+´Ù°¡/E+µðÁúÁÙ/UNK	¾Ë/VV+¾Æ¶ó/E
+1 ¹Ì¯M Àýº®·Á³ª 	¹Ì¯M/UNK	Àýº®/NNG+·Á³ª/UNK
+1 ¤»»ªÃ¬ÀÌ°í±õ½Î°í¤»µÞ´ã±î´Âµ¥ 	¤»/SW	»ªÃ¬ÀÌ°í±õ/UNK+½Î/VA+°í/E	¤»/SW	µÞ´ã/NNG+±ò/VV+´Âµ¥/E
+1 Á¦¹ßÃÊµåÀ¯¤ÐÇÐ»ý´ÚÃÄ 	Á¦¹ßÃÊµåÀ¯/UNK	¤Ð/SW	ÇÐ»ý/NNG+´ÚÃÄ/UNK
+1 °íÃß¿¡ºñ´Ã³¢¿ì°í´À±×¾ö¸¶µ¤Ä¡¼¼¿ä 	°íÃß/NNG+¿¡/J	ºñ´Ã/NNG+SPC/SPC+³¢¿ì/VV+°í/E	´À±×/NP	¾ö¸¶/NNG+µ¤Ä¡/VV+¼¼¿ä/E
+1 °³»õ±â¾ß°³Áé¸Ô´Â¼Ò¸®ÇÏÁö¸»°í 	°³»õ±â¾ß°³Áé/UNK+¸Ô/VV+´Â/E+¼Ò¸®/NNG+ÇÏÁö¸»°í/UNK
+1 ¹ÌÄ¡·¯´Ï´Ü °ÅÁö·¯´Ï±×Áö·¯´Ï 	¹ÌÄ¡/VV+·¯/E+´Ï´Ü/UNK	°ÅÁö/NNG+·¯´Ï±×Áö·¯´Ï/UNK

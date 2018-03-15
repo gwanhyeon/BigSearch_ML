@@ -1,0 +1,12 @@
+-1 서든어택 	서든어택/UNK
+-1 나 던파몰름 . 	나/NNG	던파몰름/UNK	./SF
+-1 원래저렇게 많이떠요? 	원래/NNG+SPC/SPC+저렇/VA+게/E	많이/MAG+떠요/UNK	?/SF
+-1 유저다떠나는데 코인파라먹을 생각이나 하다니 	유저다떠/UNK+나/VV+는데/E	코인/NNG+파라/NNG+SPC/SPC+먹/VV+을/E	생각/NNG+이나/J	하/VV+다니/E
+-1 요즘대세는 랜덤핼 에픽먹자 ㅡ,.ㅡ;; 	요즘/NNG+대세/NNG+는/J	랜덤핼/UNK	에픽/NNP+먹자/NNP	ㅡ/SW	,/SP	./SF	ㅡ/SW	;;/SW
+1 내가 킴이 방에서 장사하는게 삐리리~짓이지 ㅠㅠ 엉엉 ㅠㅠ 	내가/VV+아/E	키/VV+ㅁ이/E	방/NNG+에서/J	장사/NNG+하/XSV+는게/E	삐리리/UNK	~/SW	짓/NNG+이지/P	ㅠㅠ/SW	엉엉/XR	ㅠㅠ/SW
+1 삐리리~말고 자기걍 	삐리리/UNK	~/SW	말/VV+고/E	자기걍/UNK
+1 그룬원재 저삐리리~ 삐리리~삐리리~나읍나보던디 그말 맞아여 	그룬원재/UNK	저삐리리/UNK	~/SW	삐리리/UNK	~/SW	삐리리/UNK	~/SW	나읍나보던디/UNK	그/NP+말/NNG	맞아여/UNK
+1 개삐리리~짬뽕년 	개삐리리/UNK	~/SW	짬뽕년/UNK
+1 너님 삐리리~ 쌔나보다 	너님/UNK	삐리리/UNK	~/SW	쌔/VV+어/E+나/VX+아/E+보/VX+다/E
+1 내사랑 내자기 ㅇ삐리리~? 	내/NP+사랑/NNG	내자/NNG+기/P	ㅇ/SW	삐리리/UNK	~/SW	?/SF
+1 삐리리~ 멋지다 	삐리리/UNK	~/SW	멋/NNG+지/VA+다/E
